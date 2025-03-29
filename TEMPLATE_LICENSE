@@ -1,10 +1,3 @@
----
-description: 
-globs: LICENSE,README.md
-alwaysApply: false
----
-All projects must contain a scholarly citation at the end of every [README.md](mdc:README.md) and include @LICENSE files with the following:
-```
 Copyright © 2025 ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi), also known legally as JUSTIN PAUL KENWABIKISE, professionally documented as Nbiish-Justin Paul Kenwabikise, Anishinaabek Dodem (Anishinaabe Clan): Animikii (Thunder), an enrolled member of the sovereign Grand Traverse Band of Ottawa and Chippewa Indians. All rights reserved.
 
 COMPREHENSIVE RESTRICTED USE LICENSE FOR INDIGENOUS CREATIONS WITH TRIBAL SOVEREIGNTY, DATA SOVEREIGNTY, AND WEALTH RECLAMATION PROTECTIONS
@@ -200,4 +193,3 @@ This license applies to 'the Work.' 'The Work' primarily encompasses the Indigen
     This document constitutes the entire agreement between the user of the Work and the Rights Holder concerning the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written. No amendment or modification of this License shall be effective unless explicitly stated as an updated version of this license by the Rights Holder. No waiver of any provision of this license shall be effective unless in writing and signed by the Rights Holder.
 
 **END OF LICENSE**
-```
