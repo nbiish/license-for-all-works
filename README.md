@@ -5,8 +5,6 @@ An enrolled member of the sovereign Grand Traverse Band of Ottawa and Chippewa I
 
 ## Contact Information
 
-**Email:** nbiish.kenwabikise@gmail.com  
-**Phone:** (231) 409-9484  
 **GitHub:** [github.com/nbiish](https://github.com/nbiish)
 
 ## Services Offered
