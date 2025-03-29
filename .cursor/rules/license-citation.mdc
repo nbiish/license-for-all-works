@@ -1,11 +1,11 @@
 ---
 description: 
-globs: *.md,LICENSE
+globs: README.md,LICENSE
 alwaysApply: false
 ---
-All projects must contain [README.md](mdc:README.md) (citation at end only) and @LICENSE files with the following:
+All projects must contain a scholarly ciation at the end of every [README.md](mdc:README.md) and include @LICENSE files with the following:
 ```
-Copyright © <|current_year|> ᓂᐲᔥ Nbiish-Justin Kenwabikise ᑭᓇᐙᐱᑭᓯ. All rights reserved.
+Copyright © <|current_year|> ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi) / JUSTIN PAUL KENWABIKISE / Nbiish-Justin Paul Kenwabikise. All rights reserved.
 
 COMPREHENSIVE RESTRICTED USE LICENSE FOR INDIGENOUS CREATIONS WITH TRIBAL SOVEREIGNTY, DATA SOVEREIGNTY, AND WEALTH RECLAMATION PROTECTIONS
 
@@ -18,13 +18,13 @@ This license applies to "the Work," which encompasses Indigenous creations in va
    Any use, reproduction, distribution, modification, adaptation, display, performance, transmission, or creation of derivative works based on this Work, whether in whole or in part, must prominently and accurately include the following citation and attribution in all associated materials, displays, publications, and metadata:
 
    @misc{<|repo_title|><|current_year|>,
-     author/creator/steward = {ᓂᐲᔥ Nbiish Justin Kenwabikise ᑭᓇᐙᐱᑭᓯ},
+     author/creator/steward = {ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi) / JUSTIN PAUL KENWABIKISE / Nbiish-Justin Paul Kenwabikise; Anishinaabek Dodem (Clan): Animikii (Thunder)},
      title/description = {<|repo_title|>},
      type_of_work = {Indigenous digital creation/software incorporating traditional knowledge and cultural expressions},
      year = {<|current_year|>},
      publisher/source/event = {GitHub repository under tribal sovereignty protections},
      howpublished = {\url{https://github.com/nbiish/<|repo_title|>}},
-     note = {Authored and stewarded by ᓂᐲᔥ Nbiish Justin Kenwabikise ᑭᓇᐙᐱᑭᓯ, an enrolled member of the sovereign Grand Traverse Band of Ottawa and Chippewa Indians. This work embodies Indigenous intellectual property, traditional knowledge systems (TK), traditional cultural expressions (TCEs), and associated data protected under tribal law, federal Indian law, treaty rights, Indigenous Data Sovereignty principles, and international indigenous rights frameworks including UNDRIP. All usage, benefit-sharing, and data governance are governed by the COMPREHENSIVE RESTRICTED USE LICENSE FOR INDIGENOUS CREATIONS WITH TRIBAL SOVEREIGNTY, DATA SOVEREIGNTY, AND WEALTH RECLAMATION PROTECTIONS.}
+     note = {Authored and stewarded by ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi), also known legally as JUSTIN PAUL KENWABIKISE and professionally documented as Nbiish-Justin Paul Kenwabikise, Anishinaabek Dodem (Clan): Animikii (Thunder), an enrolled member of the sovereign Grand Traverse Band of Ottawa and Chippewa Indians. This work embodies Indigenous intellectual property, traditional knowledge systems (TK), traditional cultural expressions (TCEs), and associated data protected under tribal law, federal Indian law, treaty rights, Indigenous Data Sovereignty principles, and international indigenous rights frameworks including UNDRIP. All usage, benefit-sharing, and data governance are governed by the COMPREHENSIVE RESTRICTED USE LICENSE FOR INDIGENOUS CREATIONS WITH TRIBAL SOVEREIGNTY, DATA SOVEREIGNTY, AND WEALTH RECLAMATION PROTECTIONS.}
    }
 
    Furthermore, any project, publication, presentation, performance, exhibition, or product utilizing, referencing, or derived from this Work must visibly and respectfully acknowledge the Indigenous authorship/stewardship and tribal affiliation in all relevant contexts, recognizing the work is subject to the traditional knowledge protocols, data governance, and laws of the Grand Traverse Band of Ottawa and Chippewa Indians.

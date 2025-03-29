@@ -1,3 +1,16 @@
+---
+title: "TRIBAL CONSULTING AGREEMENT"
+author: "ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi)"
+date: ""
+geometry: "margin=1in"
+fontsize: 11pt
+documentclass: article
+papersize: letter
+header-includes:
+  - \usepackage{setspace}
+  - \onehalfspacing
+---
+
 # CONSULTING AGREEMENT
 
 **Effective Date:** ______________________ (MM/DD/YYYY)
