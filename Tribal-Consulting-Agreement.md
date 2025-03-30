@@ -1,16 +1,3 @@
----
-title: "TRIBAL CONSULTING AGREEMENT"
-author: "ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi)"
-date: ""
-geometry: "margin=1in"
-fontsize: 11pt
-documentclass: article
-papersize: letter
-header-includes:
-  - \usepackage{setspace}
-  - \onehalfspacing
----
-
 # CONSULTING AGREEMENT
 
 **Effective Date:** ______________________ (MM/DD/YYYY)
@@ -170,48 +157,48 @@ NOW, THEREFORE, in consideration of the mutual promises and covenants contained 
    Client acknowledgment of remedies for breach: ________ (Client initials)
 
 **10. Governing Law, Jurisdiction, and Dispute Resolution:**
-    a.  **Governing Law:** This Agreement, its interpretation, enforcement, and any disputes arising hereunder shall be governed by and construed in accordance with the following hierarchy of laws, as applicable and interpreted by the competent forum, consistent with Section 9 of the Guiding License Principles:
-        i.  Primary: The Constitution, laws, customs, traditions, and jurisprudence of the Grand Traverse Band of Ottawa and Chippewa Indians.
-        ii. Secondary: Applicable principles of federal Indian law of the United States.
-        iii. Tertiary: The laws of the State of Michigan, but *only* to the extent not inconsistent with, and not infringing upon or diminishing, the tribal sovereignty, treaty rights, or cultural protocols asserted herein or recognized under tribal or federal Indian law.
-        iv. Supplemental: International declarations concerning the rights of Indigenous Peoples (e.g., UNDRIP).
-    b.  **Jurisdiction:** Client explicitly consents and agrees that any legal action or dispute arising under or related to this Agreement may, at the sole and exclusive discretion of the Consultant, be brought in:
-        i.  The Tribal Court of the Grand Traverse Band of Ottawa and Chippewa Indians as the forum of highest priority and authority;
-        ii. Any alternative tribal court or traditional dispute resolution forum selected by the Consultant;
-        iii. A United States federal district court possessing jurisdiction over federal questions involving federal Indian law matters, with the understanding that tribal perspectives, values, and involvement will be actively sought throughout any such proceedings;
-        iv. Where necessary for enforceability, state courts or local courts, provided that tribal involvement from the Grand Traverse Band of Ottawa and Chippewa Indians and/or other tribal nations willing to participate shall be actively included through mechanisms such as special masters, court-appointed experts, amicus briefs, or other appropriate means to ensure tribal perspectives are represented; or
-        v.  Intertribal court systems or consortiums where available and appropriate.
-        
-        The parties acknowledge and agree that under the tribal court exhaustion doctrine, issues of tribal court jurisdiction should generally be determined first by tribal courts. Client agrees that in any dispute, Consultant retains the right to insist on exhaustion of tribal court remedies before proceeding to federal, state, or local courts.
-    c.  **Waiver of Jurisdictional Challenges:** Client expressly and irrevocably waives the right to assert defenses based on lack of personal jurisdiction or *forum non conveniens* regarding the forums selected by Consultant under Section 10(b), consistent with Sections 7.6(b) and 8.5 of the Guiding License Principles.
+a.  **Governing Law:** This Agreement, its interpretation, enforcement, and any disputes arising hereunder shall be governed by and construed in accordance with the following hierarchy of laws, as applicable and interpreted by the competent forum, consistent with Section 9 of the Guiding License Principles:
+    i.  Primary: The Constitution, laws, customs, traditions, and jurisprudence of the Grand Traverse Band of Ottawa and Chippewa Indians.
+    ii. Secondary: Applicable principles of federal Indian law of the United States.
+    iii. Tertiary: The laws of the State of Michigan, but *only* to the extent not inconsistent with, and not infringing upon or diminishing, the tribal sovereignty, treaty rights, or cultural protocols asserted herein or recognized under tribal or federal Indian law.
+    iv. Supplemental: International declarations concerning the rights of Indigenous Peoples (e.g., UNDRIP).
+b.  **Jurisdiction:** Client explicitly consents and agrees that any legal action or dispute arising under or related to this Agreement may, at the sole and exclusive discretion of the Consultant, be brought in:
+    i.  The Tribal Court of the Grand Traverse Band of Ottawa and Chippewa Indians as the forum of highest priority and authority;
+    ii. Any alternative tribal court or traditional dispute resolution forum selected by the Consultant;
+    iii. A United States federal district court possessing jurisdiction over federal questions involving federal Indian law matters, with the understanding that tribal perspectives, values, and involvement will be actively sought throughout any such proceedings;
+    iv. Where necessary for enforceability, state courts or local courts, provided that tribal involvement from the Grand Traverse Band of Ottawa and Chippewa Indians and/or other tribal nations willing to participate shall be actively included through mechanisms such as special masters, court-appointed experts, amicus briefs, or other appropriate means to ensure tribal perspectives are represented; or
+    v.  Intertribal court systems or consortiums where available and appropriate.
     
-    Client acknowledgment of tribal, federal, state and intertribal jurisdiction: ________ (Client initials)
-    
-    d.  **Dispute Resolution Process:** The parties agree to attempt to resolve any dispute arising out of this Agreement through good faith negotiation. If negotiation fails within _______ days (30 days if not specified), Consultant may elect to pursue remedies in one of the jurisdictions specified in Section 10(b).
+    The parties acknowledge and agree that under the tribal court exhaustion doctrine, issues of tribal court jurisdiction should generally be determined first by tribal courts. Client agrees that in any dispute, Consultant retains the right to insist on exhaustion of tribal court remedies before proceeding to federal, state, or local courts.
+c.  **Waiver of Jurisdictional Challenges:** Client expressly and irrevocably waives the right to assert defenses based on lack of personal jurisdiction or *forum non conveniens* regarding the forums selected by Consultant under Section 10(b), consistent with Sections 7.6(b) and 8.5 of the Guiding License Principles.
+
+Client acknowledgment of tribal, federal, state and intertribal jurisdiction: ________ (Client initials)
+
+d.  **Dispute Resolution Process:** The parties agree to attempt to resolve any dispute arising out of this Agreement through good faith negotiation. If negotiation fails within _______ days (30 days if not specified), Consultant may elect to pursue remedies in one of the jurisdictions specified in Section 10(b).
 
 **11. Warranties:**
-    a.  **Consultant Warranty:** Consultant warrants that they have the expertise and authority to provide the Services. THE SERVICES AND ANY DELIVERABLES ARE PROVIDED "AS IS". CONSULTANT DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, EXCEPT AS EXPRESSLY STATED HEREIN. Consultant does not warrant specific outcomes or results from the Services.
-    b.  **Client Warranty:** Client warrants that it has the full power and authority to enter into this Agreement and perform its obligations hereunder.
+a.  **Consultant Warranty:** Consultant warrants that they have the expertise and authority to provide the Services. THE SERVICES AND ANY DELIVERABLES ARE PROVIDED "AS IS". CONSULTANT DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, EXCEPT AS EXPRESSLY STATED HEREIN. Consultant does not warrant specific outcomes or results from the Services.
+b.  **Client Warranty:** Client warrants that it has the full power and authority to enter into this Agreement and perform its obligations hereunder.
 
 **12. Termination; Adapted Sovereign Revocation Right:**
-    a.  **Termination for Cause:** Either party may terminate this Agreement immediately upon written notice if the other party breaches any material term of this Agreement and fails to cure such breach within _______ days (15 days if not specified) following written notice. Failure to pay undisputed fees when due is a material breach. Violation of Sections 4, 5, 7, or 8 is a material breach potentially subject to immediate termination at Consultant's discretion.
-    b.  **Termination for Convenience:** Either party may terminate this Agreement without cause upon _______ days (30 days if not specified) prior written notice.
-    c.  **Effect of Termination:** Upon termination, Client shall pay Consultant for all Services rendered and expenses incurred up to the effective date of termination. Client shall immediately cease all use of Confidential Information and Deliverables and, upon Consultant's request, return or destroy all copies thereof. Obligations under Sections 4 (Confidentiality), 5 (IP), 7 (Prohibited Uses), 9 (Remedies), 10 (Governing Law/Jurisdiction), 12(c) (Effect of Termination), 13 (No Waiver), 14 (Severability/Interpretation), and 16 (Entire Agreement) shall survive termination.
-    d.  **Adapted Sovereign Revocation:** Drawing upon the spirit of Section 3 of the Guiding License Principles and the inherent rights acknowledged therein, Consultant (ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ / JUSTIN PAUL KENWABIKISE / Nbiish-Justin Paul Kenwabikise, Anishinaabek Dodem (Anishinaabe Clan): Animikii (Thunder)) reserves the right to terminate this Agreement immediately and demand the cessation of *any and all use* of Deliverables, Confidential Information, TK, or knowledge shared hereunder, if Consultant determines, in consultation with GTBOCI leadership or traditional authorities where appropriate, that Client's actions (whether or not constituting a technical breach of other clauses) violate fundamental cultural protocols, act contrary to the well-being or sovereignty of the GTBOCI, or grossly misappropriate or disrespect the knowledge shared. This right is asserted based on the unique status of the knowledge and the Consultant's obligations to their community and Tribe.
-    
-    Client acknowledgment of sovereign revocation right: ________ (Client initials)
+a.  **Termination for Cause:** Either party may terminate this Agreement immediately upon written notice if the other party breaches any material term of this Agreement and fails to cure such breach within _______ days (15 days if not specified) following written notice. Failure to pay undisputed fees when due is a material breach. Violation of Sections 4, 5, 7, or 8 is a material breach potentially subject to immediate termination at Consultant's discretion.
+b.  **Termination for Convenience:** Either party may terminate this Agreement without cause upon _______ days (30 days if not specified) prior written notice.
+c.  **Effect of Termination:** Upon termination, Client shall pay Consultant for all Services rendered and expenses incurred up to the effective date of termination. Client shall immediately cease all use of Confidential Information and Deliverables and, upon Consultant's request, return or destroy all copies thereof. Obligations under Sections 4 (Confidentiality), 5 (IP), 7 (Prohibited Uses), 9 (Remedies), 10 (Governing Law/Jurisdiction), 12(c) (Effect of Termination), 13 (No Waiver), 14 (Severability/Interpretation), and 16 (Entire Agreement) shall survive termination.
+d.  **Adapted Sovereign Revocation:** Drawing upon the spirit of Section 3 of the Guiding License Principles and the inherent rights acknowledged therein, Consultant (ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ / JUSTIN PAUL KENWABIKISE / Nbiish-Justin Paul Kenwabikise, Anishinaabek Dodem (Anishinaabe Clan): Animikii (Thunder)) reserves the right to terminate this Agreement immediately and demand the cessation of *any and all use* of Deliverables, Confidential Information, TK, or knowledge shared hereunder, if Consultant determines, in consultation with GTBOCI leadership or traditional authorities where appropriate, that Client's actions (whether or not constituting a technical breach of other clauses) violate fundamental cultural protocols, act contrary to the well-being or sovereignty of the GTBOCI, or grossly misappropriate or disrespect the knowledge shared. This right is asserted based on the unique status of the knowledge and the Consultant's obligations to their community and Tribe.
+
+Client acknowledgment of sovereign revocation right: ________ (Client initials)
 
 **13. No Waiver of Sovereignty or Rights:**
-    Consistent with Section 12 of the Guiding License Principles, nothing in this Agreement shall be construed as a waiver of the sovereign immunity of the Grand Traverse Band of Ottawa and Chippewa Indians, any other tribal nation whose forum may be selected, or the Consultant's rights connected thereto. The inclusion of non-tribal forums in Section 10 is solely for enforceability purposes and does not diminish the primacy of tribal jurisdiction or the requirement for tribal court exhaustion where applicable. Consultant reserves all rights not expressly granted herein.
+Consistent with Section 12 of the Guiding License Principles, nothing in this Agreement shall be construed as a waiver of the sovereign immunity of the Grand Traverse Band of Ottawa and Chippewa Indians, any other tribal nation whose forum may be selected, or the Consultant's rights connected thereto. The inclusion of non-tribal forums in Section 10 is solely for enforceability purposes and does not diminish the primacy of tribal jurisdiction or the requirement for tribal court exhaustion where applicable. Consultant reserves all rights not expressly granted herein.
 
 **14. Severability and Interpretation:**
-    If any provision of this Agreement is held invalid or unenforceable, the remaining provisions shall continue in full force and effect. The provision shall be modified to the minimum extent necessary to make it valid and enforceable while preserving original intent. Consistent with Section 13 of the Guiding License Principles and federal Indian law, any ambiguity shall be resolved liberally in favor of the Consultant and the protection of tribal rights, sovereignty, and cultural interests. This rule of interpretation shall apply regardless of which forum from Section 10 adjudicates any dispute arising under this Agreement.
+If any provision of this Agreement is held invalid or unenforceable, the remaining provisions shall continue in full force and effect. The provision shall be modified to the minimum extent necessary to make it valid and enforceable while preserving original intent. Consistent with Section 13 of the Guiding License Principles and federal Indian law, any ambiguity shall be resolved liberally in favor of the Consultant and the protection of tribal rights, sovereignty, and cultural interests. This rule of interpretation shall apply regardless of which forum from Section 10 adjudicates any dispute arising under this Agreement.
 
 **15. Notices:**
-    All notices required or permitted under this Agreement shall be in writing and sent to the addresses listed above by certified mail (return receipt requested), reputable overnight courier, or email (with confirmation of receipt).
+All notices required or permitted under this Agreement shall be in writing and sent to the addresses listed above by certified mail (return receipt requested), reputable overnight courier, or email (with confirmation of receipt).
 
 **16. Entire Agreement; Amendments:**
-    This Agreement, including the referenced Guiding License Principles, constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written. No amendment or modification of this Agreement shall be effective unless in writing and signed by both parties.
+This Agreement, including the referenced Guiding License Principles, constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written. No amendment or modification of this Agreement shall be effective unless in writing and signed by both parties.
 
 **17. Declaration of Name Usage:**
     The Consultant asserts their right to be identified by all of the following:
