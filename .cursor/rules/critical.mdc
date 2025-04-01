@@ -24,7 +24,12 @@ curl -o LICENSE https://raw.githubusercontent.com/nbiish/license-for-all-works/m
 }
 ```
 
-## 3. @README.md -> Add the following near the top so that it's easthetically pleasing:
+## 3. @README.md -> First download the QR code image:
+```bash
+curl -o qr-stripe-donation.png https://raw.githubusercontent.com/nbiish/license-for-all-works/8e9b73b269add9161dc04bbdd79f818c40fca14e/qr-stripe-donation.png
+```
+
+Then add the following near the top so that it's easthetically pleasing:
 ```markdown
 <div align="center">
   <hr width="50%">
