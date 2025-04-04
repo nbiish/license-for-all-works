@@ -8,7 +8,7 @@ alwaysApply: false
 
 ## 1. @LICENSE -> Use the following command for all codebase licensing and ALWAYS fill out the placeholders in the file:
 ```bash
-curl -o LICENSE https://raw.githubusercontent.com/nbiish/license-for-all-works/main/LICENSE
+curl -o https://raw.githubusercontent.com/nbiish/license-for-all-works/refs/heads/main/working-LICENSE
 ```
 
 ## 2. @README.md -> Add a scholarly citation with the following content and ALWAYS fill out the placeholders:  
