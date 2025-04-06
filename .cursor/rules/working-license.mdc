@@ -3,7 +3,5 @@ description:
 globs: LICENSE,working-LICENSE
 alwaysApply: false
 ---
-
-[working-LICENSE](mdc:working-LICENSE) should always maintain it's placeholder values throughout the document without and modification, additions or deletions of any new/old placeholders.
-
-[LICENSE](mdc:LICENSE) is the licensing file for this codebase.
+- [working-LICENSE](mdc:working-LICENSE) should always maintain it's placeholder values throughout the document without any modification, additions or deletions of any new/old placeholdersi UNLESS you're specifically asked to do so.
+- All placeholders to be filled for this codebase will be done in [LICENSE](mdc:LICENSE).
