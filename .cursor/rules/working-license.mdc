@@ -4,6 +4,6 @@ globs: LICENSE,working-LICENSE
 alwaysApply: false
 ---
 
-[working-LICENSE](mdc:working-LICENSE) should always maintain it's placeholder values throughout the document.
+[working-LICENSE](mdc:working-LICENSE) should always maintain it's placeholder values throughout the document without and modification, additions or deletions of any new/old placeholders.
 
 [LICENSE](mdc:LICENSE) is the licensing file for this codebase.
