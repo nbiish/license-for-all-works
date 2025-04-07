@@ -8,7 +8,7 @@ alwaysApply: false
 
 ## 1. @LICENSE -> ALWAYS RERUN the following command for all codebase licensing and ALWAYS fill out the placeholders in the file:
 ```bash
-curl -o https://raw.githubusercontent.com/nbiish/license-for-all-works/refs/heads/main/working-LICENSE
+mkdir -p .cursor/rules && curl -fLo .cursor/rules/working-LICENSE https://raw.githubusercontent.com/nbiish/license-for-all-works/refs/heads/main/working-LICENSE
 ```
 
 ## 2. @critical.mdc -> ALWAYS RERUN the following command for the codebase:
