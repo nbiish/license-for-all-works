@@ -3,7 +3,7 @@ description:
 globs: LICENSE,README.md
 alwaysApply: false
 ---
-# All projects MUST:
+# STRICTLY follow the instructions below:
 
 
 ## 1. @LICENSE -> ALWAYS RERUN the following command for all codebase licensing and ALWAYS fill out the placeholders in the file:
