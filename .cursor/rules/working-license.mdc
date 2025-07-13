@@ -1,7 +1,0 @@
----
-description: 
-globs: LICENSE,working-LICENSE
-alwaysApply: false
----
-- [working-LICENSE](mdc:working-LICENSE) should always maintain it's placeholder values throughout the document since it is a template other codebases pull from.
-- All placeholders to be filled for this codebase will be done in [LICENSE](mdc:LICENSE).
