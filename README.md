@@ -1,4 +1,12 @@
-# License for All Works
+# ◈──◆──◇ WAAWIINDAMAAGEWIN / OVERVIEW ◇──◆──◈
+
+<div align="center">
+◈──◆──◇─────────────────────────────────────────────────◇──◆──◈
+</div>
+
+This repository contains legal documents developed by ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi), also known legally as JUSTIN PAUL KENWABIKISE, professionally documented as Nbiish-Justin Paul Kenwabikise, Anishinaabek Dodem (Anishinaabe Clan): Animikii (Thunder), an enrolled member of the sovereign Grand Traverse Band of Ottawa and Chippewa Indians.
+
+This repository serves as the official and permanent location for the Comprehensive Restricted Use License that can be directly referenced and linked to from any document or codebase using: https://github.com/nbiish/license-for-all-works/blob/main/LICENSE
 
 <div align="center">
   <hr width="50%">
@@ -18,17 +26,17 @@
   <hr width="50%">
 </div>
 
-This repository contains legal documents developed by ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi), also known legally as JUSTIN PAUL KENWABIKISE, professionally documented as Nbiish-Justin Paul Kenwabikise, Anishinaabek Dodem (Anishinaabe Clan): Animikii (Thunder), an enrolled member of the sovereign Grand Traverse Band of Ottawa and Chippewa Indians.
-
-This repository serves as the official and permanent location for the Comprehensive Restricted Use License that can be directly referenced and linked to from any document or codebase using: https://github.com/nbiish/license-for-all-works/blob/main/LICENSE
-
-## Contents
+## ᐴ GASHKITOONAN ᔔ [CONTENTS] ◈──◆──◇──◆──◈
 
 - [LICENSE](./LICENSE) - Comprehensive Restricted Use License for Indigenous Creations with Tribal Sovereignty, Data Sovereignty, and Wealth Reclamation Protections.
 - [Tribal-Consulting-Agreement.md](./Tribal-Consulting-Agreement.md) - A template for consulting agreements that respects and protects Indigenous knowledge, Traditional Cultural Expressions (TCEs), and intellectual property rights.
 - [LICENSE_IMPROVEMENT_PLAN.md](./LICENSE_IMPROVEMENT_PLAN.md) - Documentation of planned improvements to the license.
 
-## Purpose
+<div align="center">
+╭──────────────[ ◈◆◇ SYSTEM OVERVIEW ◇◆◈ ]──────────────╮
+</div>
+
+## ᐴ INAABAJICHIGAN ᔔ [PURPOSE] ◈──◆──◇──◆──◈
 
 These documents are designed to:
 
@@ -38,7 +46,7 @@ These documents are designed to:
 4. Establish clear protocols for obtaining Prior Informed Consent (PIC)
 5. Create mechanisms for equitable benefit-sharing and wealth reclamation
 
-## Usage
+## ᐴ AABAJITOOWINAN ᔔ [USAGE] ◈──◆──◇──◆──◈
 
 The license and agreement templates in this repository can be adapted for use by Indigenous creators and for respectful collaboration with Indigenous knowledge holders.
 
@@ -48,11 +56,11 @@ When using these documents:
 - Follow proper attribution requirements
 - Obtain Prior Informed Consent (PIC) when required
 
-## License
+## ᐴ ONAAKONIGE ᔔ [LICENSE] ◈──◆──◇──◆──◈
 
 The documents in this repository are themselves subject to the [Comprehensive Restricted Use License](./LICENSE) included in this repository.
 
-## Citation
+## ᐴ WAABANDA'IWEWIN ᔔ [CITATION] ◈──◆──◇──◆──◈
 
 ```bibtex
 @misc{license-for-all-works2025,
@@ -69,3 +77,7 @@ The documents in this repository are themselves subject to the [Comprehensive Re
 ## Copyright
 
 Copyright © 2025 ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi), also known legally as JUSTIN PAUL KENWABIKISE, professionally documented as Nbiish-Justin Paul Kenwabikise, Anishinaabek Dodem (Anishinaabe Clan): Animikii (Thunder), a descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi) of the Beaver Island Band, and an enrolled member of the sovereign Grand Traverse Band of Ottawa and Chippewa Indians. This work embodies Traditional Knowledge and Traditional Cultural Expressions. All rights reserved. 
+
+<div align="center">
+◈──◆──◇─────────────────────────────────────────────────◇──◆──◈
+</div> 
