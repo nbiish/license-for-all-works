@@ -1,323 +1,498 @@
 # CONSULTING AGREEMENT
 
-**Effective Date:** ______________________ (MM/DD/YYYY)
+**Effective Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (MM/DD/YYYY)
 
 This Consulting Agreement ("Agreement") is entered into by and between:
 
-**1. The Consultant:**
+---
 
-   Recognizing the historical attempts to erase Indigenous identity and the importance of comprehensive self-identification as an assertion of sovereignty and continuity:
-   ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi)
-   also known legally as JUSTIN PAUL KENWABIKISE (reflecting state-imposed naming conventions)
-   professionally documented as Nbiish-Justin Paul Kenwabikise (bridging cultural and professional spheres)
-   Anishinaabek Dodem (Anishinaabe Clan): Animikii (Thunder) (signifying kinship and responsibilities)
-   Descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi) of the Beaver Island Band (acknowledging lineage predating forced removal and dispersal; the historical "Beaver Island Band" or "Beaver Island Indians," terms used in treaties/documents, refers to the community whose descendants are primarily enrolled today in GTBOCI and LTBB)
-   An enrolled member of the sovereign Grand Traverse Band of Ottawa and Chippewa Indians (confirming political relationship with a federally recognized successor government to the signatories of the 1836 and 1855 Treaties)
-   ("Consultant" or "Rights Holder" where context refers to inherent rights predating this Agreement)
-   Address: _________________________________________________
-   _________________________________________________
-   Email: _________________________________________________
+## 1. The Consultant
 
-**2. The Client:**
+Recognizing the historical attempts to erase Indigenous identity and the importance of comprehensive self-identification as an assertion of sovereignty and continuity:
 
-   _________________________________________________ (Full Legal Name)
-   ("Client")
-   Address: _________________________________________________
-   _________________________________________________
-   _________________________________________________
-   Email: _________________________________________________
-   Phone: _________________________________________________
+- ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi)
+- also known legally as JUSTIN PAUL KENWABIKISE (reflecting state-imposed naming conventions)
+- professionally documented as Nbiish-Justin Paul Kenwabikise (bridging cultural and professional spheres)
+- Anishinaabek Dodem (Anishinaabe Clan): Animikii (Thunder) (signifying kinship and responsibilities)
+- Descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi) of the Beaver Island Band (acknowledging lineage predating forced removal and dispersal; the historical "Beaver Island Band" or "Beaver Island Indians," terms used in treaties/documents, refers to the community whose descendants are primarily enrolled today in GTBOCI and LTBB)
+- An enrolled member of the sovereign Grand Traverse Band of Ottawa and Chippewa Indians (confirming political relationship with a federally recognized successor government to the signatories of the 1836 and 1855 Treaties)
 
-**RECITALS**
+("Consultant" or "Rights Holder" where context refers to inherent rights predating this Agreement)
+
+Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+---
+
+## 2. The Client
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Full Legal Name)  
+("Client")  
+Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+Email: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+Phone: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+---
+
+## RECITALS
 
 These recitals provide essential context for understanding the unique basis of this Agreement, grounded in inherent rights, historical realities, and the specific legal and cultural status of the Consultant.
 
-A.  Consultant possesses unique expertise, knowledge, traditional knowledge (TK), traditional cultural expressions (TCEs), and perspectives derived directly from their lived experience, cultural inheritance, and political status as a member of the Grand Traverse Band of Ottawa and Chippewa Indians (GTBOCI), a federally recognized sovereign tribal nation whose existence and rights are affirmed through treaties, federal law, and inherent self-governance, and as a descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi) of the Beaver Island Band (a distinct historical community, also referred to historically as the "Beaver Island Indians," whose people faced violent dispersal and whose descendants today are primarily enrolled members of GTBOCI and the Little Traverse Bay Bands of Odawa Indians [LTBB], while also maintaining connections across First Nations in Canada, underscoring the complex post-colonial landscape and the interconnectedness of these descendant communities). This expertise is not merely academic but is deeply embedded in cultural practice, treaty-reserved rights (including, but not limited to, those reserved under the Treaty of Washington (1836) and Treaty of Detroit (1855) which ceded vast territories but reserved critical rights and homeland areas), Indigenous law and governance systems, contemporary challenges such as digital systems development and data sovereignty, business development within a tribal context, infrastructure needs, and the critical intersection of modern technology with timeless Indigenous intellectual property (IP), TK, and TCEs. Much of this knowledge stems from direct study with traditional and ceremonial teachers and the responsibilities associated with holding ceremonial positions within the Anishinaabe community.
+A. Consultant possesses unique expertise, knowledge, traditional knowledge (TK), traditional cultural expressions (TCEs), and perspectives derived directly from their lived experience, cultural inheritance, and political status as a member of the Grand Traverse Band of Ottawa and Chippewa Indians (GTBOCI), a federally recognized sovereign tribal nation whose existence and rights are affirmed through treaties, federal law, and inherent self-governance, and as a descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi) of the Beaver Island Band (a distinct historical community, also referred to historically as the "Beaver Island Indians," whose people faced violent dispersal and whose descendants today are primarily enrolled members of GTBOCI and the Little Traverse Bay Bands of Odawa Indians [LTBB], while also maintaining connections across First Nations in Canada, underscoring the complex post-colonial landscape and the interconnectedness of these descendant communities). This expertise is not merely academic but is deeply embedded in cultural practice, treaty-reserved rights (including, but not limited to, those reserved under the Treaty of Washington (1836) and Treaty of Detroit (1855) which ceded vast territories but reserved critical rights and homeland areas), Indigenous law and governance systems, contemporary challenges such as digital systems development and data sovereignty, business development within a tribal context, infrastructure needs, and the critical intersection of modern technology with timeless Indigenous intellectual property (IP), TK, and TCEs. Much of this knowledge stems from direct study with traditional and ceremonial teachers and the responsibilities associated with holding ceremonial positions within the Anishinaabe community.
 
-B.  The foundation of Consultant's work and knowledge sharing rests upon the inherent sovereignty of Indigenous peoples, specifically the GTBOCI and the Consultant as its member and a Beaver Island descendant community member, to protect, control, define access to, and govern the use of their intellectual property, cultural heritage, TK, TCEs, and all associated data (Indigenous Data Sovereignty). These are not privileges granted by external entities but rights inherent to Indigenous nationhood and recognized under international principles, including the recently adopted WIPO Treaty on Intellectual Property, Genetic Resources and Associated Traditional Knowledge (May 2024). These principles are further articulated and operationalized in the Consultant's **COMPREHENSIVE RESTRICTED USE LICENSE FOR INDIGENOUS CREATIONS WITH TRIBAL SOVEREIGNTY, DATA SOVEREIGNTY, AND WEALTH RECLAMATION PROTECTIONS** ("Guiding License Principles"), available at [https://github.com/nbiish/license-for-all-works/blob/main/working-LICENSE](https://github.com/nbiish/license-for-all-works/blob/main/working-LICENSE). The terms, definitions, and underlying spirit of these Guiding License Principles are incorporated by reference herein and shall serve as a primary interpretive guide for this Agreement, especially concerning the protection of all forms of knowledge, information, and rights shared or generated hereunder. This Agreement actively integrates and asserts rights grounded in the layered legal framework encompassing federal Indian law (including its canons of construction favoring tribes), the specific laws, customs, and traditions of the Grand Traverse Band of Ottawa and Chippewa Indians, evolving Indigenous Data Sovereignty principles (including CARE Principles), and international indigenous rights instruments like the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP), which affirm collective and individual rights to culture, knowledge, and self-determination.
+B. The foundation of Consultant's work and knowledge sharing rests upon the inherent sovereignty of Indigenous peoples, specifically the GTBOCI and the Consultant as its member and a Beaver Island descendant community member, to protect, control, define access to, and govern the use of their intellectual property, cultural heritage, traditional knowledge, traditional cultural expressions, and all associated data. These rights are comprehensively defined and protected under the Consultant's **COMPREHENSIVE RESTRICTED USE LICENSE FOR INDIGENOUS CREATIONS WITH TRIBAL SOVEREIGNTY, DATA SOVEREIGNTY, AND WEALTH RECLAMATION PROTECTIONS** ("LICENSE"), available at [https://github.com/nbiish/license-for-all-works/blob/main/LICENSE](https://github.com/nbiish/license-for-all-works/blob/main/LICENSE).
 
-C.  Client seeks to engage Consultant for specific consulting services, acknowledging the unique value and sensitive nature of the knowledge involved. Consultant is willing to provide such services, but only under the strict terms and conditions set forth in this Agreement, which are explicitly designed to uphold and affirm Tribal sovereignty, protect culturally sensitive knowledge from misuse or misappropriation, ensure respectful engagement protocols are followed, and prevent the extractive practices often associated with the engagement of Indigenous knowledge holders.
+<div align="center">
 
-**AGREEMENT**
+## 🔗 **LICENSE REFERENCE - SCAN FOR ACCESS** 🔗
+
+<div style="border: 2px solid #2c3e50; border-radius: 8px; padding: 20px; margin: 20px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+
+<img src="LICENSE-qr-code.svg" alt="LICENSE QR Code" style="width: 180px; height: 180px; display: block; margin: 0 auto; border: 1px solid #dee2e6; border-radius: 4px;"/>
+
+**📋 COMPLETE LICENSE DOCUMENT**  
+*Scan QR code above to access the full LICENSE document*  
+**🔒 TRIBAL SOVEREIGNTY PROTECTED**
+
+</div>
+
+</div>
+
+The LICENSE is incorporated by reference herein in its entirety and shall serve as the primary governing framework for this Agreement, superseding any conflicting provisions and establishing the complete legal, cultural, and ethical framework for all interactions hereunder.
+
+C. Client seeks to engage Consultant for specific consulting services, acknowledging the unique value and sensitive nature of the knowledge involved. Consultant is willing to provide such services, but only under the strict terms and conditions set forth in this Agreement, which are explicitly designed to uphold and affirm Tribal sovereignty, protect culturally sensitive knowledge from misuse or misappropriation, ensure respectful engagement protocols are followed, and prevent the extractive practices often associated with the engagement of Indigenous knowledge holders.
+
+---
+
+## AGREEMENT
 
 NOW, THEREFORE, in consideration of the mutual promises and covenants contained herein, the parties agree as follows:
 
-**0. Definitions (Selected Terms Adapted from Guiding License Principles):**
-   Understanding these definitions is crucial, as they reflect specific concerns related to the protection of Indigenous knowledge and rights in contemporary contexts, particularly technology and commerce. They supplement definitions found within the Guiding License Principles where applicable:
-   a) **"AI Training/Development":** Defined broadly to prevent the unauthorized and unconsented appropriation of Indigenous knowledge, data, or expression for the development of technologies that may perpetuate bias, cause harm, or generate profit without benefit-sharing. Includes, but is not limited to, using the Services, Deliverables, Confidential Information, TK, TCEs, or any knowledge gained from Consultant, in whole or in part, as input data for training, fine-tuning, validating, benchmarking, developing, or otherwise improving any artificial intelligence (AI) models, machine learning (ML) systems, large language models (LLMs), neural networks, algorithms, or related technologies, in line with 2024 updates prohibiting AI training on protected materials without explicit consent.
-   b) **"Commercial Use/Commercialization":** Carefully defined to distinguish between the Client's permitted internal use and external exploitation for profit, requiring specific consent and benefit-sharing for the latter to prevent unjust enrichment from Indigenous knowledge. Any use of the Services, Deliverables, Confidential Information, TK, TCEs, or knowledge gained from Consultant, or derivative works based thereon, primarily intended for or directed toward commercial advantage or monetary compensation, beyond the direct internal application defined in Section 1. This includes, but is not limited to, selling derived insights, incorporating advice into commercial products/services offered to third parties, or using the knowledge for marketing/advertising aimed at third parties.
-   c) **"Derivative Work":** Interpreted expansively to encompass modern forms of derivation, including data extraction and AI model training, ensuring that protections extend beyond traditional copyright concepts. A work based upon one or more preexisting works. For the purposes of this Agreement, this explicitly includes datasets derived or extracted from information provided by Consultant, software incorporating concepts from the Services or Deliverables, and AI models trained using any information or materials provided by Consultant.
-   d) **"Indigenous Data Sovereignty":** A fundamental principle asserting Indigenous control over Indigenous data, counteracting historical data exploitation and ensuring data practices align with community values, incorporating the CARE Principles (Collective Benefit, Authority to Control, Responsibility, Ethics) as updated in 2024 UN Digital Office integrations. The inherent right of Indigenous peoples (specifically including the Grand Traverse Band of Ottawa and Chippewa Indians and the Consultant as its member and a Beaver Island descendant community member) to govern the collection, ownership, access, analysis, interpretation, management, storage, dissemination, and reuse of data pertaining to them, their lands, resources, cultures, knowledge systems (including TK and TCEs shared hereunder), or any information derived therefrom. This includes the Client's affirmative obligation to ensure data practices related to the Services align with Indigenous values and protocols as communicated by the Consultant and reflect principles of data minimization and purpose limitation.
-   e) **"Inalienable Rights":** A core concept reflecting the understanding that certain cultural knowledge, heritage, and associated rights are intrinsically tied to Indigenous identity and collective stewardship, and thus cannot be treated as mere commodities to be bought or sold. The fundamental, intrinsic, and perpetual rights of the Consultant (and by extension, their community and Nation) over their knowledge, expertise, methodologies, TK, TCEs, cultural heritage, and associated Indigenous Data, which cannot be sold, permanently transferred, assigned, alienated, waived, surrendered, or otherwise permanently divested from the Consultant or their source community. These rights can only be temporarily exercised by the Client through the limited, revocable license granted under this Agreement, always subject to the Consultant's underlying ownership and control.
-   f) **"Traditional Cultural Expressions (TCEs)":** Encompasses the diverse ways Indigenous culture is manifested, requiring respectful handling. Any forms, whether tangible or intangible, shared by the Consultant in which traditional culture and knowledge are expressed, appear, or are manifested (e.g., specific designs, narratives, protocols, interpretations, ways of speaking, ceremonial elements discussed even abstractly).
-   g) **"Traditional Knowledge (TK)":** Refers to the holistic body of knowledge passed down through generations, distinct from Western scientific paradigms and requiring specific protections. The knowledge, innovations, and practices shared by the Consultant originating from their Indigenous community context (GTBOCI and Beaver Island Band lineage), encompassing spiritual, cultural, environmental, linguistic, and practical knowledge, often acquired through oral tradition, ceremony, and deep connection to place.
+---
 
-**1. Services:**
-   Consultant agrees to provide the following consulting services ("Services") to Client:
-   (Describe scope of work, specific deliverables, and objectives in detail below)
-   * _________________________________________________
-   * _________________________________________________
-   * _________________________________________________
-   * _________________________________________________
-   * _________________________________________________
-   * _________________________________________________
-   * _________________________________________________
-   
-   □ Additional services detailed in Attachment A (check if applicable)
+### 0. Definitions and Governing Framework
 
-**2. Term:**
-   This Agreement shall commence on __________________ (MM/DD/YYYY) and shall continue until:
-   □ __________________ (MM/DD/YYYY) 
-   □ Completion of Services described in Section 1
-   □ Other: ___________________________________________
-   
-   unless earlier terminated as provided herein ("Term").
+#### Primary Reference Document
 
-**3. Compensation:**
-   a.  **Fees:** Client shall pay Consultant for the Services rendered at the following rate(s) (check all that apply and specify details):
-       □ $________ per hour
-       □ Fixed fee of $________ for entire project
-       □ Monthly retainer of $________ per month
-       □ Daily rate of $________ per day
-       □ Percentage-based fee: ____% of _________________________ (Specify basis, e.g., total project budget, specific revenue stream generated by Services, net profit derived from Services. Define calculation method and reporting requirements clearly, potentially in an Attachment).
-       □ Combination/Other: _________________________________________________ (Describe structure, e.g., base fee plus percentage)
-   
-   In addition, for any Commercial Use requiring PIC, compensation shall include Mandatory Contributions to the Legacy Beneficiary as defined in the Guiding License Principles.
+All terms, definitions, and governing principles are defined in and governed by the **COMPREHENSIVE RESTRICTed USE LICENSE FOR INDIGENOUS CREATIONS WITH TRIBAL SOVEREIGNTY, DATA SOVEREIGNTY, AND WEALTH RECLAMATION PROTECTIONS** ("LICENSE"), available at [https://github.com/nbiish/license-for-all-works/blob/main/LICENSE](https://github.com/nbiish/license-for-all-works/blob/main/LICENSE), which is incorporated herein by reference in its entirety.
 
-**4. Confidentiality, Traditional Knowledge Protection, and Indigenous Data Sovereignty:**
-   This section establishes stringent protections reflecting the sensitive, often sacred, and collectively held nature of much Indigenous knowledge, demanding a higher standard of care than typical commercial confidentiality.
-   a.  **Definition:** "Confidential Information" includes, but is not limited to, all information disclosed by Consultant to Client, regardless of format (oral, visual, written, electronic), that is designated as confidential or that reasonably should be understood to be confidential given its nature (e.g., non-public, culturally specific) and the circumstances of disclosure. This specifically includes, without limitation, and requires the highest level of protection for:
-      i.  Any and all Traditional Knowledge (TK), Traditional Cultural Expressions (TCEs), spiritual knowledge, ceremonial knowledge (even if generalized or discussed in principle, as context can be sensitive), knowledge derived from Consultant's specific cultural background, Anishinaabe worldview, and community role/responsibilities, interpretations of treaty rights grounded in community understanding, specific tribal governance insights, non-public community information, or knowledge associated with genetic resources or environmental data shared by Consultant. This knowledge is often held collectively and its disclosure governed by protocols beyond individual discretion.
-      ii. Any proprietary business methods, strategies developed within an Indigenous framework, financial information reflecting community priorities, technical data related to culturally specific practices, know-how, processes, designs, formulas, software (if applicable reflecting Indigenous design principles), client lists involving tribal entities, or project details disclosed by Consultant that are not public knowledge.
-      iii. The specific advice, analyses, recommendations, reports, and other deliverables provided by Consultant under this Agreement ("Deliverables"), as they represent the application of Consultant's unique knowledge base.
-      iv.  Any data pertaining to the Consultant, their community (GTBOCI, Beaver Island descendants), TK, TCEs, lands, waters, resources, or cultural practices, which shall be managed strictly according to Indigenous Data Sovereignty principles, acknowledging the governmental authority of the Grand Traverse Band of Ottawa and Chippewa Indians over such data.
-   b.  **Obligations:** Recognizing the potential for harm from misuse or unauthorized disclosure, Client agrees to undertake the following duties with utmost diligence:
-      i.  Hold all Confidential Information in the strictest confidence, treating it with the respect due to culturally significant information.
-      ii. Use Confidential Information solely and exclusively for the explicit purpose of utilizing the Services as narrowly defined in Section 1 of this Agreement and *not* for any other purpose whatsoever (including internal research, comparative analysis, or unrelated projects) without Consultant's express, prior, written, and informed consent (See Section 8: Prior Informed Consent), which may be withheld for any reason.
-      iii. Implement and maintain robust physical, technical, and administrative security measures to prevent any unauthorized access, disclosure, use, copying, modification, or destruction of Confidential Information. These measures shall meet or exceed industry best practices and be at least as protective as those Client uses for its own most sensitive confidential information, but shall in no event be less than a reasonable standard of care appropriate for protecting highly sensitive cultural and proprietary information.
-      iv. Not disclose Confidential Information to any third party (including affiliates, subcontractors, or partners) without the prior, specific, written consent of Consultant for each instance of disclosure. If disclosure is legally compelled (e.g., by court order), Client must provide Consultant with prompt written notice *before* disclosure, allowing Consultant reasonable opportunity to seek protective orders or contest the disclosure, and disclose only the minimum information legally required, asserting any applicable privileges (including potential cultural privileges).
-      v. Actively respect and adhere to any specific cultural protocols, handling instructions, or data governance requirements communicated by Consultant regarding the handling, storage, access limitation, use, discussion, or eventual return/destruction of certain Confidential Information, particularly TK, TCEs, or Indigenous Data. This includes respecting restrictions on who may access or discuss certain information.
-      vi. Govern any collection, access, analysis, management, storage, dissemination, and use of Indigenous Data shared by or derived from Consultant strictly according to the principles of Indigenous Data Sovereignty (as defined in Section 0(d)) and any specific data protocols communicated by Consultant, ensuring data serves the interests defined by the Consultant and their community.
-   c.  **Duration:** Recognizing that the value and sensitivity of Indigenous knowledge and data do not diminish over time, the obligations of confidentiality, TK protection, and adherence to Indigenous Data Sovereignty principles under this Section shall survive the termination or expiration of this Agreement indefinitely and perpetually, particularly concerning TK, TCEs, Indigenous Data, and information related to cultural heritage or sovereign rights.
+#### Consulting-Specific Definitions
 
-   Client acknowledgment of confidentiality obligations: ________ (Client initials)
+The following definitions apply specifically to this consulting relationship and supplement those found in the LICENSE:
 
-**5. Intellectual Property, Know-How, and Inalienable Rights:**
-   This section affirms the Consultant's fundamental, pre-existing, and ongoing rights over their knowledge systems, which are distinct from and often supersede standard Western IP frameworks.
-   a.  **Consultant's Ownership and Inalienability:** It is unequivocally stated and agreed that Consultant retains sole, exclusive, complete, and perpetual ownership of all right, title, and interest in and to all pre-existing and developed intellectual property, know-how, expertise, unique methodologies, conceptual frameworks, TK, TCEs, Indigenous Data, and Confidential Information owned, possessed, practiced, or developed by Consultant prior to, during the course of, or independent of this Agreement ("Consultant IP"). Grounded in Indigenous legal traditions and consistent with the principles in Section 6 of the Guiding License Principles, these rights, particularly those involving TK, TCEs, cultural heritage, and collective knowledge, are **Inalienable Rights**. They are intrinsically linked to the Consultant's identity, lineage (including Beaver Island Band history), community (GTBOCI), and cultural responsibilities, and therefore cannot be sold, permanently transferred, assigned, licensed in perpetuity, alienated, waived, surrendered, or otherwise permanently divested or diminished in any way. Nothing in this Agreement shall be construed as granting Client any ownership rights, implied licenses (beyond Section 5b), or equitable interest whatsoever in Consultant IP.
-   b.  **Limited License to Client for Deliverables Only:** Solely for the purpose of enabling Client's direct use of the Services during the Term, and subject strictly to all terms, conditions, and restrictions of this Agreement (especially the Prohibited Uses in Section 7, the Inalienability principle in 5a, and the requirement for PIC for other uses in Section 8), Consultant grants Client a limited, temporary, non-exclusive, non-transferable, non-sublicensable, fully revocable license. This license permits Client *only* during the active Term of this Agreement to use the specific written Deliverables (e.g., reports, analyses explicitly provided) created by Consultant *for* Client under this Agreement, and *solely* for Client's internal purposes directly related to achieving the specific Scope of Work defined in Section 1. This license is narrow: it does *not* extend to the underlying Consultant IP, methodologies, frameworks, TK, TCEs, know-how, or generic concepts unless explicitly and separately licensed in writing via a PIC process. It automatically terminates upon Agreement termination or expiration.
-   c.  **Licensing-Only Limitation:** The parties agree that the *only* permissible method by which the Client may seek to make any use of Consultant IP (including TK/TCEs embedded therein) that extends beyond the narrowly defined limited license for Deliverables (Section 5b) is through a separate, written, temporary, revocable, limited-scope licensing arrangement. Such an arrangement necessitates a formal Prior Informed Consent (PIC) process (Section 8), may require equitable benefit-sharing terms negotiated in good faith (acknowledging the value derived from Indigenous knowledge and contributing to wealth reclamation), and must explicitly acknowledge the Consultant's continuing, undiminished ownership and Inalienable Rights.
-   d.  **No Other Rights:** For the avoidance of doubt, no other rights or licenses (whether express, implied, by estoppel, or otherwise) are granted under this Agreement. Client obtains no right to use Consultant's name (beyond attribution as required), tribal affiliation (GTBOCI, Beaver Island descendant), specific traditional name, likeness, Dodem symbol, logos, or trademarks in any marketing, promotional material, or public statement without separate, prior written PIC for each instance. Client shall not attempt to reverse-engineer, decompile, disassemble, create Derivative Works from (except as implicitly necessary to utilize Deliverables internally per 5b), or otherwise derive or extract underlying methodologies or concepts from any Consultant IP or Deliverables.
-   e.  **Attribution:** Respectful and accurate attribution is a fundamental requirement reflecting the source of the knowledge. Client agrees to provide prominent, clear, and accurate attribution to Consultant in *all* internal or external documentation, publications, presentations, reports, or other materials that reference, summarize, are derived from, or utilize the Services or Deliverables provided hereunder. Such attribution must acknowledge the source consistent with Indigenous protocols and Section 3 of the Guiding License Principles. At a minimum, attribution shall include Consultant's full declared name usage (as specified in Section 17 and 22) and tribal affiliation (Grand Traverse Band of Ottawa and Chippewa Indians, Descendant of Chief Kinwaabakizi of the Beaver Island Band). If any Deliverables or findings are permitted to be externally published via PIC, the full BibTeX citation format specified in Section 3 of the Guiding License Principles (adapted for the consulting context to reflect the specific Deliverable and Agreement) may be required. Consultant will provide specific format requirements if applicable. Failure to provide proper attribution is a material breach.
+a) **"Services":** The specific consulting services provided by Consultant as defined in Section 1 of this Agreement.
+b) **"Deliverables":** Reports, analyses, recommendations, and other work products created by Consultant under this Agreement, subject to LICENSE protections.
+c) **"Work Products":** All materials created by Consultant during performance of Services, which are subject to the LICENSE terms and Consultant's Inalienable Rights as defined therein.
 
-   Client acknowledgment of IP ownership and license limitations: ________ (Client initials)
+#### Key LICENSE Principles Applied
 
-**6. Relationship of Parties:**
-   Consultant is an independent contractor, and nothing in this Agreement shall be construed to create a partnership, joint venture, agency, or employment relationship between Consultant and Client. Consultant is not entitled to any benefits provided by Client to its employees. Consultant is solely responsible for paying all applicable taxes on compensation received under this Agreement.
+Without limitation, this Agreement is governed by the following LICENSE principles:
 
-**7. Prohibited Uses:**
-   To prevent the historically common patterns of extraction, exploitation, misappropriation, and harm associated with the misuse of Indigenous knowledge and resources in colonial and neo-colonial contexts, and consistent with Section 7 of the Guiding License Principles, Client is expressly and absolutely **prohibited** from using the Services, Deliverables, Confidential Information, TK, TCEs, Indigenous Data, or any knowledge gained from Consultant (collectively "Consultant Materials") for any of the following purposes. Any such use constitutes a severe breach of this Agreement and an infringement of Consultant's Inalienable Rights. Exceptions are only possible if explicitly permitted in writing via a rigorous Prior Informed Consent (PIC) process (See Section 8) which may include additional conditions and benefit-sharing:
-   a.  **AI Training/Development:** As defined in Section 0(a), representing a high risk for unauthorized replication, bias encoding, and decontextualization of knowledge, updated to reflect 2024 precedents prohibiting AI training on copyrighted or protected materials without permission.
-   b.  **Commercialization:** Any Commercial Use (as defined in Section 0(b)) that goes beyond the direct, internal application explicitly defined in the Scope of Work (Section 1). This requires a separate, explicit written PIC agreement including mutually agreed equitable benefit-sharing terms designed to contribute to wealth reclamation and community benefit, acknowledging that value generated externally derives from Indigenous resources.
-   c.  **Misappropriation & Distortion:** Any use that misappropriates, misrepresents, distorts, decontextualizes, trivializes, modifies without consent, or otherwise damages the integrity, intended meaning, cultural significance, or spiritual context of the Consultant Materials, associated TK, TCEs, Indigenous Data, or cultural expressions. This includes removing attribution or presenting knowledge outside its proper cultural framework.
-   d.  **Violation of Moral Rights:** Any use violating the inherent moral rights of the Consultant and their community (attribution, integrity, right of withdrawal/control).
-   e.  **Harmful/Exploitative Applications:** Any application or use that could foreseeably cause harm (physical, economic, social, cultural, spiritual, environmental) to, or enable the exploitation or marginalization of, the Grand Traverse Band of Ottawa and Chippewa Indians, its members, its sovereign rights, its knowledge systems, its cultural practices, its data sovereignty, its lands, waters, or resources.
-   f.  **Protocol/Data Governance Violation:** Any use that disrespects or violates designated cultural protocols, community rules, data governance requirements communicated by Consultant, or the conditions applicable to shared TK/TCEs (equivalent in spirit to established TK Labels such as Non-Commercial, Culturally Sensitive, Community Use Only, Attribution Required, Outreach Required). Client must uphold any such communicated conditions.
-   g.  **Military/Weaponry/Surveillance:** Any use directly or indirectly in connection with military applications, weapons development or deployment, population surveillance technologies, intelligence gathering targeting Indigenous communities, or related activities that conflict with peace-oriented values.
-   h.  **Cultural Appropriation & Stereotyping:** Any use that promotes, facilitates, or results in cultural appropriation (using elements of the culture without permission, context, or respect), harmful stereotypes, or inaccurate, disrespectful, or offensive representations of Indigenous peoples (specifically Anishinaabek/Ottawa/Chippewa), cultures, histories, or spiritual practices.
-   i.  **Unauthorized Data Extraction/Use:** Any data mining, text mining, web scraping, automated data extraction, large-scale aggregation or analysis, or the creation or population of Derivative Datasets or databases from Consultant Materials beyond the minimum scope technically necessary for the agreed internal Services, and inconsistent with Indigenous Data Sovereignty principles requiring purpose limitation and data minimization.
-   j.  **Violation of Tribal Values/Law:** Any use demonstrably contrary to the core traditional values, customs, spiritual practices, ethical guidelines, or laws (written or unwritten) of the Grand Traverse Band of Ottawa and Chippewa Indians as communicated by Consultant or reasonably understood from the context of the engagement.
-   k.  **Disrespectful Contexts:** Use, presentation, or publication of the Consultant Materials in contexts that trivialize, profane, or disrespect their potential spiritual, cultural, historical, or collective significance.
-   l.  **Unauthorized Disclosure/Use related to Sacred Sites:** If Services involve information related to Sacred Sites (places of profound spiritual, cultural, or historical significance, as defined in the Guiding License Principles), any disclosure, mapping, publication, sharing, physical access facilitation, disturbance, commercial exploitation, or other use prohibited under Section 7(l)-(q) and 10.10.3 of the Guiding License Principles, without explicit, stringent PIC specific to that site and purpose.
-   
-   □ Additional prohibited uses detailed in Attachment B (check if applicable)
+- AI Training/Development restrictions (LICENSE Section 7.1-7.5)
+- Commercial Use limitations (LICENSE Section 11.1-11.3)
+- Indigenous Data Sovereignty (LICENSE Section 8.1-8.4)
+- Prior Informed Consent requirements (LICENSE Section 9)
+- Traditional Knowledge and Traditional Cultural Expression protections
+- Inalienable Rights framework
+- Tribal jurisdiction and governing law hierarchy (LICENSE Section 12)
 
-   Client acknowledgment of prohibited uses: ________ (Client initials)
+---
 
-**8. Prior Informed Consent (PIC) Requirement:**
-   Reflecting the fundamental right to self-determination and control over knowledge inherent in Indigenous sovereignty and international standards like UNDRIP, any use of the Services, Deliverables, Confidential Information, TK, TCEs, Indigenous Data, or knowledge gained from Consultant that falls outside the narrowly defined Scope of Work (Section 1) and the strictly limited internal use license (Section 5b), or any use listed as Prohibited (Section 7) for which an exception is sought by the Client, **requires obtaining Prior Informed Consent (PIC)**. This PIC must be secured in writing from the Consultant *before* any such use occurs. It is not a mere formality but a substantive process. The Client's request for PIC must provide full, transparent, and understandable disclosure regarding the proposed use, mirroring the requirements outlined in Section 9(b) of the Guiding License Principles (including, at minimum: specific intended use, all parties involved, ultimate purposes, methods/technologies employed, precise scope and duration, potential positive and negative impacts on Consultant/community/rights, data governance plan, anticipated outputs, proposed benefit-sharing if applicable). Consultant retains the absolute discretion to grant or deny PIC for any reason, and PIC, if granted, is specific to the disclosed use, subject to potential conditions, limited in duration, subject to revocation (See Section 12d and 12e), and strictly non-transferable.
-   
-   Client acknowledgment of PIC requirements: ________ (Client initials)
+### 1. Services
 
-**9. Remedies for Breach and Unauthorized Use:**
-   Given the potential for irreparable cultural, spiritual, and collective harm resulting from breaches, particularly misuse of knowledge and violation of rights, the parties agree that standard contractual remedies are often inadequate. Any violation of this Agreement, especially concerning the critical provisions on Confidentiality/TK/Data Sovereignty (Section 4), IP/Inalienability/Know-How restrictions (Section 5), Prohibited Uses (Section 7), the failure to obtain required PIC (Section 8), or failure to provide proper Attribution (Section 5e), constitutes an infringement of Consultant's Inalienable Rights and other fundamental rights, may cause severe and irreparable harm (including cultural, spiritual, reputational, and collective harm not easily quantifiable), and constitutes a material breach of this Agreement. Client acknowledges the gravity of such breaches and agrees that Consultant shall be entitled to seek the full range of remedies available under the applicable governing law (as defined by the hierarchy in Section 10), including, but not limited to, the following remedies pursued within the appropriate forum (Section 10), reflecting principles of restorative justice and wealth reclamation:
-   a.  **Injunctive Relief:** Immediate temporary, preliminary, and permanent injunctive relief issued by the competent forum (Section 10) to halt and prevent any unauthorized use, disclosure, commercialization, AI training, data misuse, or other infringing activity, acknowledging that monetary damages alone are insufficient.
-   b.  **Monetary Damages, Restitution, and Wealth Reclamation:** Aimed at making the Consultant and their community whole and reclaiming value unjustly derived from Indigenous knowledge/resources, in line with the license's wealth reclamation protections:
-       i. Actual damages suffered by Consultant, including economic loss, reputational harm, and costs incurred responding to the breach.
-       ii. **Full Disgorgement:** Acknowledging that unauthorized use creates unjust enrichment, Client agrees to the full disgorgement of any and all profits, revenues, cost savings, funding received, valuations increased, or other benefits (financial or non-financial, direct or indirect, including reputational enhancement or competitive advantage) derived by Client or any third party flowing from the breach, particularly in cases involving fraud, bad faith, or the unauthorized use, disclosure, or commercialization of Consultant IP, Confidential Information, TK, TCEs, or Indigenous Data. This explicitly includes profits that may be difficult to ascertain ("unknown profits"), the calculation of which shall be determined by the competent forum (Section 10) based on principles of equity, fairness, tribal law, and reasonable estimation methods (e.g., industry standards, expert testimony on value, proxy measures, reasonable royalty based on unique value, forensic accounting).
-       iii. **Revenue Percentage:** As an alternative or supplementary remedy, particularly where disgorgement is complex, the competent forum may award a predetermined percentage (e.g., 50% or higher, reflecting the foundational nature of the knowledge, to be determined as equitable by the forum) of all gross revenues generated by Client or related third parties from any product, service, activity, or funding derived from or utilizing misappropriated Confidential Information, TK, TCEs, Consultant IP, or Indigenous Data.
-       iv. **Cultural/Spiritual Harm Compensation:** Substantial compensation for cultural, spiritual, collective, and intergenerational harm caused by the breach, particularly involving misuse of TK/TCEs or violations of protocols. Client acknowledges that such harm is real and significant, even if not easily quantifiable in standard Western legal terms, and agrees that its assessment requires significant restitution as determined under applicable tribal law and custom by the competent forum (potentially involving community consultation or cultural expert testimony).
-       v. **Wealth Reclamation Alignment:** All other financial remedies consistent with the restorative justice and wealth reclamation principles outlined in the Guiding License Principles, applied proportionally to the context of this Agreement, aimed at ensuring that value derived from the misappropriation or unauthorized use of Indigenous knowledge and resources is returned or redirected for the benefit of the knowledge holders and their communities.
-   c.  **Full Recovery of Enforcement Costs:** To ensure Consultant is not deterred from enforcing their rights due to cost, Client shall be liable for **all** reasonable costs and expenses incurred by Consultant in investigating, addressing, mitigating, and enforcing this Agreement or remedying any breach, including but not limited to, attorneys' fees (in any forum), tribal court fees, federal/state court costs, expert witness fees (including cultural experts and knowledge holders), investigation costs (e.g., digital forensics, audits), travel expenses related to enforcement, and other professional fees, consistent with Section 11.9 of the Guiding License Principles. This obligation to cover costs is independent of, and in addition to, all other remedies and shall be awarded regardless of the magnitude of other damages.
-   d.  **Tribal Law Remedies:** Application of all relevant civil remedies, sanctions, traditional justice mechanisms, or restorative actions available under the laws, customs, and traditions of the Grand Traverse Band of Ottawa and Chippewa Indians, or other applicable tribal law as determined by the competent forum pursuant to Section 10.
-   e. **Termination:** Immediate termination of this Agreement and the limited license granted herein, at Consultant's sole discretion, upon notice of material breach.
+Consultant agrees to provide the following consulting services ("Services") to Client:
+(Describe scope of work, specific deliverables, and objectives in detail below)
 
-   Client acknowledgment of remedies for breach: ________ (Client initials)
+- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+- \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**10. Governing Law, Jurisdiction, and Dispute Resolution:**
-This section establishes the legal framework for the Agreement, prioritizing the Consultant's inherent sovereign rights and the legal system of their Nation.
-a.  **Governing Law Hierarchy:** This Agreement, its interpretation, enforcement, dispute resolution, and all rights and obligations arising hereunder shall be governed by and construed strictly in accordance with the following hierarchy of laws, applied in descending order of precedence by the competent forum, consistent with Section 11.5 of the Guiding License Principles:
-    i.  **Primary Authority:** The express terms and conditions of this Agreement itself, including the incorporated Guiding License Principles, interpreted according to the principles herein.
-    ii. **Secondary Authority:** The Constitution, statutes, codes, regulations, jurisprudence (court decisions), and the unwritten/customary/traditional laws and legal principles of the Grand Traverse Band of Ottawa and Chippewa Indians (GTBOCI), as the primary sovereign authority connected to the Consultant.
-    iii. **Tertiary Authority:** Applicable principles of federal Indian law of the United States, but only as interpreted consistently with tribal sovereignty and self-determination. This includes relevant treaties (specifically, but not limited to, the Treaty of Washington of 1836 and the Treaty of Detroit of 1855, which established the relationship between the Anishinaabe signatories and the US), the reserved rights doctrine, principles of tribal sovereignty, and particularly the established Indian canons of construction requiring that treaties and agreements involving tribes be interpreted liberally in favor of tribal interests and sovereignty, with ambiguities resolved in their favor.
-    iv. **Quaternary Authority:** International declarations, covenants, and instruments concerning the rights of Indigenous Peoples, including but not limited to the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP), particularly its articles affirming rights to self-determination, culture, lands, resources, knowledge, and jurisdiction.
-    v.  **Quinary Authority (Limited Applicability):** The laws of the State of Michigan, but *only* if and to the extent that they are (1) not inconsistent with, and do not conflict with or undermine, any higher-ranking law in this hierarchy (i-iv), and (2) do not infringe upon, diminish, or regulate the tribal sovereignty, treaty rights, cultural protocols, inherent jurisdiction, or internal affairs of the GTBOCI or the rights asserted by the Consultant herein, as recognized under tribal, federal Indian, or international law. State law failing this test shall be preempted and shall not apply.
-b.  **Jurisdiction and Forum Selection (Consultant's Election):** Client explicitly acknowledges that the Consultant is a member of a sovereign Indigenous nation (GTBOCI) and a descendant of another historical band (Beaver Island Band), possessing rights and status distinct from ordinary citizens. Therefore, Client knowingly and irrevocably consents and agrees that any legal action, dispute, claim, or controversy arising under, out of, or related to this Agreement (including its formation, interpretation, validity, performance, breach, termination, enforcement, or scope), **shall be brought, heard, and resolved, at the sole and exclusive election and discretion of the Consultant**, in one of the following forums, consistent with Section 11.1 and 11.2 of the Guiding License Principles:
-    i.  **Highest Priority Forum (Presumptive Jurisdiction):** The Tribal Court of the Grand Traverse Band of Ottawa and Chippewa Indians located in Peshawbestown, Michigan. This forum is recognized by the parties as having primary and presumptively exclusive subject matter and personal jurisdiction over disputes arising from this Agreement due to the Consultant's membership, the connection of the subject matter to GTBOCI rights and knowledge, and the Client's consent herein.
-    ii. **Alternative Tribal Forums:** At Consultant's election, any alternative tribal court, inter-tribal court system, peacemaking forum, or traditional dispute resolution body agreed upon by the Consultant or established under applicable tribal law or inter-tribal agreement.
-    iii. **Federal Court (Limited Federal Question Jurisdiction Only):** A United States federal district court possessing competent jurisdiction *only* if the dispute primarily involves a substantial question arising directly under federal Indian law (e.g., interpretation of a federal statute or treaty central to the dispute) and *only after* exhaustion of tribal court remedies as required by federal law (see 10c). In any such federal proceeding, Client agrees that tribal perspectives, GTBOCI's sovereign interests (potentially asserted via amicus curiae briefs, intervention, or expert testimony), the tribal exhaustion doctrine, and the governing law hierarchy in Section 10(a) (including canons of construction) will be vigorously asserted by Consultant and must be respected by the court.
-    iv. **State Court (Strictly Limited Enforcement Role):** State courts of Michigan shall have jurisdiction *only* where demonstrably necessary under applicable law for the sole and limited purpose of recognizing and enforcing a final, valid judgment previously obtained by the Consultant from a competent tribal or federal court under the hierarchy above (i-iii), and only to the extent such enforcement is fully consistent with tribal sovereignty, federal Indian law, and principles of comity. Client expressly agrees *not* to initiate any original action concerning this Agreement in any state court, and any such attempt shall be deemed a material breach and subject to dismissal based on this forum selection clause and exhaustion requirements.
-c.  **Tribal Court Exhaustion Mandatory:** The parties explicitly acknowledge and agree to abide by the well-established federal jurisdictional doctrine of tribal court exhaustion. This doctrine mandates that any disputes arguably falling within the actual or potential jurisdiction of the GTBOCI Tribal Court (or other selected tribal forum per 10(b)ii) **must first be heard, litigated, and fully resolved by that tribal court, including any and all challenges to the tribal court's own jurisdiction**, before any party may seek review or relief in any non-tribal forum (federal or state, subject to the limitations in 10(b)iii and 10(b)iv). Client agrees that Consultant retains the absolute right to insist on exhaustion of all available tribal court remedies (including appellate review within the tribal system) before any proceedings occur elsewhere. Any attempt by Client to initiate litigation in a non-tribal forum before exhaustion is complete, or to otherwise circumvent the authority of the designated tribal forum, constitutes a material breach of this Agreement and shall be grounds for immediate dismissal or stay of the non-tribal action.
-d.  **Waiver of Jurisdictional Challenges by Client:** In consideration for Consultant entering this Agreement, Client expressly, knowingly, voluntarily, and irrevocably waives any and all rights it might otherwise have to challenge or object to the exercise of personal jurisdiction, subject matter jurisdiction (regarding the tribal court's inherent or consensual authority over this Agreement and related disputes involving the Consultant), or venue concerning the forums selected by Consultant under Section 10(b), including defenses based on *forum non conveniens*, consistent with Section 11.8 of the Guiding License Principles. Client acknowledges that by engaging the Consultant (an enrolled member of the Grand Traverse Band of Ottawa and Chippewa Indians) and entering into this Agreement involving Indigenous knowledge and rights, it has established sufficient minimum contacts with the jurisdiction of the Grand Traverse Band of Ottawa and Chippewa Indians and purposefully availed itself of the privilege of conducting activities related thereto, making the exercise of jurisdiction by the GTBOCI Tribal Court (or other selected tribal forum) fair and reasonable.
+- [ ] Additional services detailed in Attachment A (check if applicable)
 
-e.  **Dispute Resolution Process:** The parties agree first to attempt to resolve any dispute arising out of or relating to this Agreement through good faith negotiation conducted respectfully and informed by the governing law hierarchy (Section 10a) and the underlying principles of this Agreement. If negotiation fails to achieve a resolution satisfactory to both parties within _______ days (30 days if not specified) after written notice of the dispute is given, Consultant may elect, at their sole discretion and without further obligation to negotiate, to pursue any and all available remedies by initiating proceedings in one of the jurisdictions specified in Section 10(b), strictly subject to the mandatory tribal court exhaustion requirement in Section 10(c). Alternatively, or additionally, Consultant may elect, at their discretion, to invoke relevant traditional GTBOCI dispute resolution methods or peacemaking processes, as referenced in Section 11.4 of the Guiding License Principles, the outcomes of which may inform subsequent actions.
+---
 
-**12. Termination; Sovereign Revocation Right:**
-   Termination provisions are standard, but this Agreement includes a non-standard Sovereign Revocation right rooted in inherent authority.
-a.  **Termination for Cause:** Either party may terminate this Agreement immediately upon written notice if the other party breaches any material term of this Agreement and fails to cure such breach within _______ days (15 days if not specified) following written notice. Failure to pay undisputed fees when due is a material breach. Violation of Sections 4, 5, 7, or 8 is a material breach potentially subject to immediate termination at Consultant's discretion.
-b.  **Termination for Convenience:** Either party may terminate this Agreement without cause upon _______ days (30 days if not specified) prior written notice.
-c.  **Effect of Termination:** Upon termination, Client shall pay Consultant for all Services rendered and expenses incurred up to the effective date of termination. Client shall immediately cease all use of Confidential Information, Indigenous Data, and Deliverables and, upon Consultant's request, return or destroy all copies thereof. Obligations under Sections 0 (Definitions), 4 (Confidentiality/TK/Data Sovereignty), 5 (IP/Inalienability), 7 (Prohibited Uses), 8 (PIC), 9 (Remedies), 10 (Governing Law/Jurisdiction), 12(c) (Effect of Termination), 12(d) (Sovereign Revocation - Survival of Effects), 12(e) (Sovereign Revocation - Constitutional Basis), 13 (No Waiver), 14 (Severability/Interpretation), 15 (Notices), 16 (Entire Agreement), 17 (Name Declaration), and the new Section on Audit Rights shall survive termination indefinitely.
-d.  **Adapted Sovereign Revocation Right:** Drawing upon the inherent sovereignty of Indigenous Nations acknowledged in law and policy, and reflecting the principles articulated in Section 5 of the Guiding License Principles, Consultant (as identified fully in Section 1 and 17, acting in their capacity connected to GTBOCI and Beaver Island Band heritage) reserves the absolute, inherent, non-negotiable, irrevocable, and perpetual right, assertable at any time during or after the Term, to terminate this Agreement immediately, revoke any and all licenses granted hereunder (including Section 5b), and demand the immediate cessation of *any and all use* of Services, Deliverables, Confidential Information, TK, TCEs, Indigenous Data, or any knowledge shared hereunder. This right may be exercised if Consultant determines, potentially in consultation with GTBOCI governmental leadership, traditional authorities, or elders where appropriate and feasible, that Client's actions, activities, or omissions (whether or not constituting a technical breach of other specific clauses) fundamentally violate core cultural protocols, act contrary to the well-being, dignity, or sovereignty of the GTBOCI or the broader Anishinaabe people, grossly misappropriate or disrespect the knowledge shared in a way that causes cultural or spiritual harm, undermine the foundational principles of respectful engagement underlying this Agreement, or otherwise create a situation inimical to the Consultant's responsibilities as a knowledge keeper and member of a sovereign nation. This is an extraordinary remedy reflecting the unique status of the parties and the knowledge involved.
-e.  **Constitutional, Treaty, and Inherent Basis of Revocation:** This sovereign revocation right is not merely contractual but derives fundamentally from the inherent sovereignty of the Grand Traverse Band of Ottawa and Chippewa Indians, which predates the United States Constitution and is protected under Article VI, Clause 2 of the U.S. Constitution (Supremacy Clause as applied to treaties), the aforementioned Treaties of 1836 and 1855, the reserved rights doctrine, principles of federal Indian law recognizing inherent tribal authority, and international norms like UNDRIP. As such, this right is understood by the parties to be superior to and take precedence over ordinary contractual termination provisions or limitations. Upon receiving written notification of revocation from the Consultant, Client must immediately comply with all cessation and return/destruction demands as outlined in Section 5 of the Guiding License Principles and Section 12(c) of this Agreement, without right of appeal regarding the decision to revoke itself, although disputes over compliance actions could potentially fall under Section 10.
+### 2. Term
 
-Client acknowledgment of sovereign revocation right: ________ (Client initials)
+This Agreement shall commence on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (MM/DD/YYYY) and shall continue until:
 
-**13. No Waiver of Sovereignty or Rights:**
-   Clarity on non-waiver is essential given the historical context of imposed agreements. Consistent with Section 12 of the Guiding License Principles and fundamental principles of tribal sovereignty, nothing in this Agreement, including the consent to specific forums for dispute resolution or the agreement to certain procedures, shall be construed implicitly or explicitly as a waiver of the sovereign immunity of the Grand Traverse Band of Ottawa and Chippewa Indians (a non-party to this Agreement whose immunity is absolute unless expressly waived by the Tribe itself), any other tribal nation whose forum may be selected, or any rights, privileges, or immunities held by the Consultant connected to their status as a member of GTBOCI or under applicable tribal, federal, or international law. The carefully structured inclusion of limited non-tribal forums in Section 10 is solely for the potential practical purpose of enforcing Consultant's rights or judgments against a non-tribal entity where necessary, and does not diminish the primary sovereignty and jurisdiction of GTBOCI or the requirement for tribal court exhaustion where applicable. Consultant expressly reserves all rights, remedies, and defenses not explicitly granted or limited herein.
+- [ ] \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (MM/DD/YYYY)
+- [ ] Completion of Services described in Section 1
+- [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**14. Severability and Interpretation:**
-   Standard severability is included, but interpretation principles prioritize Indigenous rights. If any term or provision of this Agreement is held invalid, illegal, or unenforceable in a particular jurisdiction by a competent forum (selected according to Section 10 and giving due deference to the chosen tribal forum's interpretation), such invalidity, illegality, or unenforceability shall not affect any other term or provision of this Agreement or invalidate or render unenforceable such term or provision in any other jurisdiction, provided the fundamental purpose of the Agreement can still be achieved. Upon such determination, the provision shall be modified or reformed by the competent forum to the minimum extent necessary to make it valid, legal, and enforceable while most closely preserving the original intent and the protective purposes of the Agreement. Furthermore, consistent with Section 15 of the Guiding License Principles and the established Indian canons of construction under federal Indian law (which Client acknowledges apply here due to the nature of the Agreement and the Consultant's status), any ambiguity, uncertainty, or disputed meaning in this Agreement shall be resolved liberally in favor of the Consultant, the protection of tribal rights, the assertion of tribal sovereignty, the safeguarding of Indigenous data sovereignty, the preservation of TK/TCEs, and the furtherance of cultural interests. This pro-tribal, pro-Consultant rule of interpretation shall guide any forum selected under Section 10 when adjudicating any dispute related to this Agreement.
+unless earlier terminated as provided herein ("Term").
 
-**15. Notices:**
+---
+
+### 3. Compensation
+
+#### a. Fees
+
+Client shall pay Consultant for the Services rendered at the following rate(s) (check all that apply and specify details):
+
+- [ ] $\_\_\_\_\_\_\_\_\_\_\_\_\_\_$ per hour
+- [ ] Fixed fee of $\_\_\_\_\_\_\_\_\_\_\_\_\_\_$ for entire project
+- [ ] Monthly retainer of $\_\_\_\_\_\_\_\_\_\_\_\_\_\_$ per month
+- [ ] Daily rate of $\_\_\_\_\_\_\_\_\_\_\_\_\_\_$ per day
+- [ ] Percentage-based fee: \_\_\_\_\_% of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Specify basis, e.g., total project budget, specific revenue stream generated by Services, net profit derived from Services. Define calculation method and reporting requirements clearly, potentially in an Attachment).
+- [ ] Combination/Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Describe structure, e.g., base fee plus percentage)
+
+In addition, for any Commercial Use requiring PIC pursuant to Sections 5(d), 7(b), and 8, compensation shall include equitable benefit-sharing terms with a minimum of twenty percent (20%) of any commercial value derived going to the Consultant or designated Indigenous community beneficiaries, and Mandatory Contributions to the Legacy Beneficiary as defined in the Guiding License Principles. Such benefit-sharing acknowledges that commercial value derived from Indigenous knowledge and Work Products contributes to wealth reclamation and community benefit as fundamental principles of this Agreement.
+
+---
+
+### 4. Confidentiality, Traditional Knowledge Protection, and Indigenous Data Sovereignty
+
+This section establishes stringent protections reflecting the sensitive, often sacred, and collectively held nature of much Indigenous knowledge, demanding a higher standard of care than typical commercial confidentiality.
+
+#### a. Definition
+
+"Confidential Information" includes, but is not limited to, all information disclosed by Consultant to Client, regardless of format (oral, visual, written, electronic), that is designated as confidential or that reasonably should be understood to be confidential given its nature (e.g., non-public, culturally specific) and the circumstances of disclosure. This specifically includes, without limitation, and requires the highest level of protection for:
+
+1. Any and all Traditional Knowledge (TK), Traditional Cultural Expressions (TCEs), spiritual knowledge, ceremonial knowledge (even if generalized or discussed in principle, as context can be sensitive), knowledge derived from Consultant's specific cultural background, Anishinaabe worldview, and community role/responsibilities, interpretations of treaty rights grounded in community understanding, specific tribal governance insights, non-public community information, or knowledge associated with genetic resources or environmental data shared by Consultant. This knowledge is often held collectively and its disclosure governed by protocols beyond individual discretion.
+2. Any proprietary business methods, strategies developed within an Indigenous framework, financial information reflecting community priorities, technical data related to culturally specific practices, know-how, processes, designs, formulas, software (if applicable reflecting Indigenous design principles), client lists involving tribal entities, or project details disclosed by Consultant that are not public knowledge.
+3. The specific advice, analyses, recommendations, reports, and other deliverables provided by Consultant under this Agreement ("Deliverables"), as they represent the application of Consultant's unique knowledge base.
+4. Any data pertaining to the Consultant, their community (GTBCI, Beaver Island descendants), TK, TCEs, lands, waters, resources, or cultural practices, which shall be managed strictly according to Indigenous Data Sovereignty principles, acknowledging the governmental authority of the Grand Traverse Band of Ottawa and Chippewa Indians over such data.
+
+#### b. Obligations
+
+Recognizing the potential for harm from misuse or unauthorized disclosure, Client agrees to undertake the following duties with utmost diligence:
+
+1. Hold all Confidential Information in the strictest confidence, treating it with the respect due to culturally significant information.
+2. Use Confidential Information solely and exclusively for the explicit purpose of utilizing the Services as narrowly defined in Section 1 of this Agreement and *not* for any other purpose whatsoever (including internal research, comparative analysis, or unrelated projects) without Consultant's express, prior, written, and informed consent (See Section 8: Prior Informed Consent), which may be withheld for any reason.
+3. Implement and maintain robust physical, technical, and administrative security measures to prevent any unauthorized access, disclosure, use, copying, modification, or destruction of Confidential Information. These measures shall meet or exceed industry best practices and be at least as protective as those Client uses for its own most sensitive confidential information, but shall in no event be less than a reasonable standard of care appropriate for protecting highly sensitive cultural and proprietary information.
+4. Not disclose Confidential Information to any third party (including affiliates, subcontractors, or partners) without the prior, specific, written consent of Consultant for each instance of disclosure. If disclosure is legally compelled (e.g., by court order), Client must provide Consultant with prompt written notice *before* disclosure, allowing Consultant reasonable opportunity to seek protective orders or contest the disclosure, and disclose only the minimum information legally required, asserting any applicable privileges (including potential cultural privileges).
+5. Actively respect and adhere to any specific cultural protocols, handling instructions, or data governance requirements communicated by Consultant regarding the handling, storage, access limitation, use, discussion, or eventual return/destruction of certain Confidential Information, particularly TK, TCEs, or Indigenous Data. This includes respecting restrictions on who may access or discuss certain information.
+6. Govern any collection, access, analysis, management, storage, dissemination, and use of Indigenous Data shared by or derived from Consultant strictly according to the principles of Indigenous Data Sovereignty (as defined in Section 0(d)) and any specific data protocols communicated by Consultant, ensuring data serves the interests defined by the Consultant and their community.
+
+#### c. Duration
+
+Recognizing that the value and sensitivity of Indigenous knowledge and data do not diminish over time, the obligations of confidentiality, TK protection, and adherence to Indigenous Data Sovereignty principles under this Section shall survive the termination or expiration of this Agreement indefinitely and perpetually, particularly concerning TK, TCEs, Indigenous Data, and information related to cultural heritage or sovereign rights.
+
+Client acknowledgment of confidentiality obligations: \_\_\_\_\_\_\_\_ (Client initials)
+
+---
+
+### 5. Intellectual Property, Work Product Ownership, and Inalienable Rights
+
+#### LICENSE Framework Controls
+
+All intellectual property protections, including Inalienable Rights, Traditional Knowledge protections, and Indigenous Data Sovereignty principles, are governed by the comprehensive framework established in the LICENSE, which is incorporated herein by reference.
+
+#### Consulting-Specific Provisions
+
+a. **Work Product Ownership:** Consultant retains sole, exclusive, and perpetual ownership of all Work Products created during performance of Services. No work-for-hire relationship is created.
+
+b. **Limited Internal Use License:** Consultant grants Client a limited, temporary, non-exclusive, non-transferable, revocable license to use Work Products solely for the internal purposes defined in Section 1 (Services) during the Term only. This license automatically terminates upon Agreement termination.
+
+c. **Assignment Prohibited:** Work Products cannot be assigned, transferred, or conveyed to Client. Extensions beyond internal use require separate PIC agreement with benefit-sharing (minimum 20% of commercial value derived).
+
+d. **Attribution Required:** Client must provide prominent attribution to Consultant in all materials using or referencing Services or Work Products, following LICENSE attribution requirements and including Consultant's full name and tribal affiliation.
+
+e. **Client Assistance:** Client agrees to assist Consultant in protecting and enforcing intellectual property rights related to Work Products.
+
+Client acknowledgment of IP ownership and license limitations: \_\_\_\_\_\_\_\_ (Client initials)
+
+---
+
+### 6. Relationship of Parties
+
+Consultant is an independent contractor, and nothing in this Agreement shall be construed to create a partnership, joint venture, agency, or employment relationship between Consultant and Client. Consultant is not entitled to any benefits provided by Client to its employees. Consultant is solely responsible for paying all applicable taxes on compensation received under this Agreement.
+
+---
+
+### 7. Prohibited Uses
+
+#### Primary Restrictions
+
+All prohibited uses defined in the LICENSE (including but not limited to AI Training restrictions in LICENSE Section 7.1-7.5, Commercial Appropriation prohibitions in LICENSE Section 11.1-11.3, Indigenous Data Sovereignty violations in LICENSE Section 8.1-8.4, and all other restrictions therein) apply in their entirety to the Services, Work Products, Confidential Information, and any knowledge gained from Consultant.
+
+#### Consulting-Specific Additional Restrictions
+
+Beyond the comprehensive LICENSE prohibitions, Client is specifically prohibited from:
+
+- a. **Scope Violation:** Using Services, Work Products, or knowledge gained beyond the specific, narrowly defined internal purposes set forth in Section 1 (Services) without explicit Prior Informed Consent.
+- b. **Client-Specific Misuse:** Sharing Consultant Materials with third parties (including affiliates, subcontractors, or partners) without prior written consent for each instance of disclosure.
+- c. **Consulting Relationship Exploitation:** Leveraging the consulting relationship or Consultant's name, tribal affiliation, or reputation for marketing, promotional, or credential purposes without separate written authorization.
+
+#### Exceptions
+
+Any exception to LICENSE or consulting-specific prohibitions requires explicit written Prior Informed Consent pursuant to Section 8 and LICENSE Section 9, potentially including benefit-sharing requirements.
+
+- [ ] Additional prohibited uses detailed in Attachment B (check if applicable)
+
+Client acknowledgment of prohibited uses: \_\_\_\_\_\_\_\_ (Client initials)
+
+---
+
+### 8. Prior Informed Consent (PIC) Requirement
+
+#### LICENSE Framework Applied
+
+Any use of Services, Work Products, Confidential Information, or knowledge gained from Consultant that falls outside the narrowly defined Scope of Work (Section 1) requires obtaining Prior Informed Consent (PIC) in accordance with the comprehensive framework established in LICENSE Section 9, which is incorporated herein by reference.
+
+#### Consulting-Specific PIC Requirements
+
+For this consulting relationship, PIC is additionally required for:
+
+- a. Any use beyond the specific internal purposes defined in Section 1 (Services)
+- b. Any sharing with third parties beyond what is explicitly permitted herein
+- c. Any exception to prohibited uses defined in Section 7 or the LICENSE
+
+#### Process
+
+PIC requests must follow LICENSE Section 9 requirements and be submitted in writing with full disclosure of proposed use, parties involved, purposes, scope, duration, and potential impacts. Consultant retains absolute discretion to grant, deny, or conditionally approve PIC requests.
+
+Client acknowledgment of PIC requirements: \_\_\_\_\_\_\_\_ (Client initials)
+
+---
+
+### 9. Remedies for Breach and Unauthorized Use
+
+#### LICENSE Remedies Framework
+
+All remedies for breach and unauthorized use are governed by the comprehensive enforcement and remedies framework established in LICENSE Section 13, which is incorporated herein by reference, including violation escalation procedures, monetary damages, injunctive relief, and restoration requirements.
+
+#### Consulting-Specific Remedies
+
+For breaches of this consulting Agreement, Consultant may additionally seek:
+
+- a. **Immediate Injunctive Relief:** To halt unauthorized use of Services or Work Products beyond the limited internal license granted herein.
+- b. **Termination:** Immediate termination of this Agreement and all licenses granted herein at Consultant's sole discretion.
+- c. **Full Cost Recovery:** Recovery of all reasonable enforcement costs, including legal fees, tribal court costs, and expert witness fees.
+- d. **Restitution and Disgorgement:** Full disgorgement of any profits or benefits derived from unauthorized use, consistent with LICENSE wealth reclamation principles.
+
+#### Standard of Harm
+
+Violations involving Traditional Knowledge, Traditional Cultural Expressions, or Indigenous Data Sovereignty constitute irreparable harm requiring immediate relief.
+
+Client acknowledgment of remedies for breach: \_\_\_\_\_\_\_\_ (Client initials)
+
+---
+
+### 10. Governing Law, Jurisdiction, and Dispute Resolution
+
+#### LICENSE Framework Controls
+
+This Agreement is governed by the comprehensive governing law hierarchy, jurisdiction, and dispute resolution framework established in LICENSE Section 12, which is incorporated herein by reference in its entirety.
+
+#### Consulting-Specific Provisions
+
+For this consulting relationship:
+
+- a. **Primary Authority:** This Agreement and the LICENSE, interpreted according to tribal sovereignty principles.
+- b. **Tribal Court Primacy:** Grand Traverse Band of Ottawa and Chippewa Indians tribal courts have primary jurisdiction over all disputes.
+- c. **Client Consent:** Client expressly consents to tribal court jurisdiction and waives any jurisdictional challenges.
+- d. **Exhaustion Required:** Tribal court exhaustion is mandatory before any other forum may be accessed.
+- e. **Dispute Resolution:** Good faith negotiation for \_\_\_\_\_ days (30 if unspecified), followed by Consultant's election of appropriate forum under LICENSE Section 12.
+
+---
+
+### 12. Termination; Sovereign Revocation Right
+
+Termination provisions are standard, but this Agreement includes a non-standard Sovereign Revocation right rooted in inherent authority.
+
+#### a. Termination for Cause
+
+Either party may terminate this Agreement immediately upon written notice if the other party breaches any material term of this Agreement and fails to cure such breach within \_\_\_\_\_\_\_ days (15 days if not specified) following written notice. Failure to pay undisputed fees when due is a material breach. Violation of Sections 4, 5, 7, or 8 is a material breach potentially subject to immediate termination at Consultant's discretion.
+
+#### b. Termination for Convenience
+
+Either party may terminate this Agreement without cause upon \_\_\_\_\_\_\_ days (30 days if not specified) prior written notice.
+
+#### c. Effect of Termination
+
+Upon termination, Client shall pay Consultant for all Services rendered and expenses incurred up to the effective date of termination. Client shall immediately cease all use of Confidential Information, Indigenous Data, and Deliverables and, upon Consultant's request, return or destroy all copies thereof. Obligations under Sections 0 (Definitions), 4 (Confidentiality/TK/Data Sovereignty), 5 (IP/Inalienability), 7 (Prohibited Uses), 8 (PIC), 9 (Remedies), 10 (Governing Law/Jurisdiction), 12(c) (Effect of Termination), 12(d) (Sovereign Revocation - Survival of Effects), 12(e) (Sovereign Revocation - Constitutional Basis), 13 (No Waiver), 14 (Severability/Interpretation), 15 (Notices), 16 (Entire Agreement), 17 (Name Declaration), and the new Section on Audit Rights shall survive termination indefinitely.
+
+#### d. Adapted Sovereign Revocation Right
+
+Drawing upon the inherent sovereignty of Indigenous Nations acknowledged in law and policy, and reflecting the principles articulated in Section 5 of the Guiding License Principles, Consultant (as identified fully in Section 1 and 17, acting in their capacity connected to GTBOCI and Beaver Island Band heritage) reserves the absolute, inherent, non-negotiable, irrevocable, and perpetual right, assertable at any time during or after the Term, to terminate this Agreement immediately, revoke any and all licenses granted hereunder (including Section 5b), and demand the immediate cessation of *any and all use* of Services, Deliverables, Confidential Information, TK, TCEs, Indigenous Data, or any knowledge shared hereunder. This right may be exercised if Consultant determines, potentially in consultation with GTBOCI governmental leadership, traditional authorities, or elders where appropriate and feasible, that Client's actions, activities, or omissions (whether or not constituting a technical breach of other specific clauses) fundamentally violate core cultural protocols, act contrary to the well-being, dignity, or sovereignty of the GTBOCI or the broader Anishinaabe people, grossly misappropriate or disrespect the knowledge shared in a way that causes cultural or spiritual harm, undermine the foundational principles of respectful engagement underlying this Agreement, or otherwise create a situation inimical to the Consultant's responsibilities as a knowledge keeper and member of a sovereign nation. This is an extraordinary remedy reflecting the unique status of the parties and the knowledge involved.
+
+#### e. Constitutional, Treaty, and Inherent Basis of Revocation
+
+This sovereign revocation right is not merely contractual but derives fundamentally from the inherent sovereignty of the Grand Traverse Band of Ottawa and Chippewa Indians, which predates the United States Constitution and is protected under Article VI, Clause 2 of the U.S. Constitution (Supremacy Clause as applied to treaties), the aforementioned Treaties of 1836 and 1855, the reserved rights doctrine, principles of federal Indian law recognizing inherent tribal authority, and international norms like UNDRIP. As such, this right is understood by the parties to be superior to and take precedence over ordinary contractual termination provisions or limitations. Upon receiving written notification of revocation from the Consultant, Client must immediately comply with all cessation and return/destruction demands as outlined in Section 5 of the Guiding License Principles and Section 12(c) of this Agreement, without right of appeal regarding the decision to revoke itself, although disputes over compliance actions could potentially fall under Section 10.
+
+Client acknowledgment of sovereign revocation right: \_\_\_\_\_\_\_\_ (Client initials)
+
+---
+
+### 13. No Waiver of Sovereignty or Rights
+
+Clarity on non-waiver is essential given the historical context of imposed agreements. Consistent with Section 12 of the Guiding License Principles and fundamental principles of tribal sovereignty, nothing in this Agreement, including the consent to specific forums for dispute resolution or the agreement to certain procedures, shall be construed implicitly or explicitly as a waiver of the sovereign immunity of the Grand Traverse Band of Ottawa and Chippewa Indians (a non-party to this Agreement whose immunity is absolute unless expressly waived by the Tribe itself), any other tribal nation whose forum may be selected, or any rights, privileges, or immunities held by the Consultant connected to their status as a member of GTBOCI or under applicable tribal, federal, or international law. The carefully structured inclusion of limited non-tribal forums in Section 10 is solely for the potential practical purpose of enforcing Consultant's rights or judgments against a non-tribal entity where necessary, and does not diminish the primary sovereignty and jurisdiction of GTBOCI or the requirement for tribal court exhaustion where applicable. Consultant expressly reserves all rights, remedies, and defenses not explicitly granted or limited herein.
+
+---
+
+### 14. Severability and Interpretation
+
+Standard severability is included, but interpretation principles prioritize Indigenous rights. If any term or provision of this Agreement is held invalid, illegal, or unenforceable in a particular jurisdiction by a competent forum (selected according to Section 10 and giving due deference to the chosen tribal forum's interpretation), such invalidity, illegality, or unenforceability shall not affect any other term or provision of this Agreement or invalidate or render unenforceable such term or provision in any other jurisdiction, provided the fundamental purpose of the Agreement can still be achieved. Upon such determination, the provision shall be modified or reformed by the competent forum to the minimum extent necessary to make it valid, legal, and enforceable while most closely preserving the original intent and the protective purposes of the Agreement. Furthermore, consistent with Section 15 of the Guiding License Principles and the established Indian canons of construction under federal Indian law (which Client acknowledges apply here due to the nature of the Agreement and the Consultant's status), any ambiguity, uncertainty, or disputed meaning in this Agreement shall be resolved liberally in favor of the Consultant, the protection of tribal rights, the assertion of tribal sovereignty, the safeguarding of Indigenous data sovereignty, the preservation of TK/TCEs, and the furtherance of cultural interests. This pro-tribal, pro-Consultant rule of interpretation shall guide any forum selected under Section 10 when adjudicating any dispute related to this Agreement.
+
+---
+
+### 15. Notices
+
 All notices required or permitted under this Agreement shall be in writing and sent to the addresses listed above by certified mail (return receipt requested), reputable overnight courier, or email (with confirmation of receipt).
 
-**16. Entire Agreement; Amendments:**
+---
+
+### 16. Entire Agreement; Amendments
+
 This Agreement, including the referenced Guiding License Principles, constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior or contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written. No amendment or modification of this Agreement shall be effective unless in writing and signed by both parties.
 
-**17. Declaration of Name Usage:**
-    This declaration asserts the Consultant's right to comprehensive self-identification, challenging historical colonial practices of name suppression and assimilation, and affirming identity as a fundamental aspect of sovereignty and cultural continuity recognized under tribal sovereignty principles, federal policy (e.g., Indian Child Welfare Act emphasis on identity), and international instruments like UNDRIP. The Consultant asserts their right to be identified by all of the following names and identifiers, each holding significance:
-    
-    1. Traditional Name (Primary Cultural Identity): ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi)
-    2. Birth Certificate Name (Legal Identity imposed by State): JUSTIN PAUL KENWABIKISE
-    3. Professional Documentation Name (Bridging): Nbiish-Justin Paul Kenwabikise
-    4. Anishinaabek Dodem (Anishinaabe Clan – Kinship/Governance): Animikii (Thunder)
-    5. Ancestral Lineage (Pre-Colonial/Treaty Era Heritage): Descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi) of the Beaver Island Band (the historical community also known as "Beaver Island Indians" whose descendants are primarily enrolled citizens of GTBOCI and LTBB today)
+---
 
-   This explicit and comprehensive identification is asserted as a right, pushing back against the historical context of forced assimilation and Indigenous name suppression. It affirms the Consultant's right to full self-determination in identity, grounded in tribal sovereignty principles, inherent rights, federal Indian law recognizing cultural distinctiveness, and international indigenous rights frameworks (e.g., UNDRIP Articles 8, 11, 13, 33).
+### 17. Declaration of Name Usage
 
-**18. Payment Redirection in Event of Detention or Incapacitation:**
+This declaration asserts the Consultant's right to comprehensive self-identification, challenging historical colonial practices of name suppression and assimilation, and affirming identity as a fundamental aspect of sovereignty and cultural continuity recognized under tribal sovereignty principles, federal policy (e.g., Indian Child Welfare Act emphasis on identity), and international instruments like UNDRIP. The Consultant asserts their right to be identified by all of the following names and identifiers, each holding significance:
+
+1. **Traditional Name (Primary Cultural Identity):** ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi)
+2. **Birth Certificate Name (Legal Identity imposed by State):** JUSTIN PAUL KENWABIKISE
+3. **Professional Documentation Name (Bridging):** Nbiish-Justin Paul Kenwabikise
+4. **Anishinaabek Dodem (Anishinaabe Clan – Kinship/Governance):** Animikii (Thunder)
+5. **Ancestral Lineage (Pre-Colonial/Treaty Era Heritage):** Descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi) of the Beaver Island Band (the historical community also known as "Beaver Island Indians" whose descendants are primarily enrolled citizens of GTBOCI and LTBB today)
+
+This explicit and comprehensive identification is asserted as a right, pushing back against the historical context of forced assimilation and Indigenous name suppression. It affirms the Consultant's right to full self-determination in identity, grounded in tribal sovereignty principles, inherent rights, federal Indian law recognizing cultural distinctiveness, and international indigenous rights frameworks (e.g., UNDRIP Articles 8, 11, 13, 33).
+
+---
+
+### 18. Payment Redirection in Event of Detention or Incapacitation
+
 The parties agree that in the event Consultant is temporarily detained, arrested, jailed, incarcerated, hospitalized, incapacitated, or otherwise unable to directly receive or access payment for Services rendered, the following provisions shall automatically apply:
 
-   1. **Automatic Payment Redirection:** All payments due to Consultant under this Agreement shall be automatically redirected to cover Consultant's immediate needs, including but not limited to legal dues, fees, court costs, commissary expenses, medical bills, support for dependents, or other critical expenses as circumstances require.
+1. **Automatic Payment Redirection:** All payments due to Consultant under this Agreement shall be automatically redirected to cover Consultant's immediate needs, including but not limited to legal dues, fees, court costs, commissary expenses, medical bills, support for dependents, or other critical expenses as circumstances require.
 
-   2. **Payment Instructions:** Consultant or Consultant's designated representative will provide specific written payment instructions to Client regarding the appropriate recipient(s), amounts, and methods of payment. Client agrees to follow these instructions promptly and without undue delay, provided they do not materially increase Client's administrative burden or costs.
+2. **Payment Instructions:** Consultant or Consultant's designated representative will provide specific written payment instructions to Client regarding the appropriate recipient(s), amounts, and methods of payment. Client agrees to follow these instructions promptly and without undue delay, provided they do not materially increase Client's administrative burden or costs.
 
-   3. **Flexible Allocation:** Client acknowledges that the appropriate allocation of redirected payments may change based on Consultant's immediate and evolving needs. Client agrees to accommodate reasonable changes in payment instructions provided in writing by Consultant or Consultant's authorized representative.
+3. **Flexible Allocation:** Client acknowledges that the appropriate allocation of redirected payments may change based on Consultant's immediate and evolving needs. Client agrees to accommodate reasonable changes in payment instructions provided in writing by Consultant or Consultant's authorized representative.
 
-   4. **Duration:** These payment redirection provisions shall remain in effect until Consultant provides written notice that regular payment procedures should resume, or until this Agreement is properly terminated pursuant to Section 12.
+4. **Duration:** These payment redirection provisions shall remain in effect until Consultant provides written notice that regular payment procedures should resume, or until this Agreement is properly terminated pursuant to Section 12.
 
-   5. **No Termination for Incapacitation:** Client shall not use Consultant's temporary detention, incarceration, or incapacitation as grounds for termination of this Agreement, provided that arrangements can be made for the continuation of Services or their resumption upon Consultant's release or recovery. If Services must be temporarily suspended, the Term of this Agreement shall be extended by a period equal to the duration of such suspension.
+5. **No Termination for Incapacitation:** Client shall not use Consultant's temporary detention, incarceration, or incapacitation as grounds for termination of this Agreement, provided that arrangements can be made for the continuation of Services or their resumption upon Consultant's release or recovery. If Services must be temporarily suspended, the Term of this Agreement shall be extended by a period equal to the duration of such suspension.
 
-   6. **Confidentiality:** Client shall maintain strict confidentiality regarding any information about Consultant's detention, incarceration, or incapacitation, and shall not disclose such information to any third party without Consultant's explicit consent, except as required by law.
+6. **Confidentiality:** Client shall maintain strict confidentiality regarding any information about Consultant's detention, incarceration, or incapacitation, and shall not disclose such information to any third party without Consultant's explicit consent, except as required by law.
 
-   7. **Survival of Payment Obligations:** Client's obligation to pay for Services already rendered shall survive regardless of Consultant's detention, incarceration, or incapacitation, and shall not be used as grounds to withhold or delay payment.
+7. **Survival of Payment Obligations:** Client's obligation to pay for Services already rendered shall survive regardless of Consultant's detention, incarceration, or incapacitation, and shall not be used as grounds to withhold or delay payment.
 
-   8. **Court-Appointed Fiduciary/Representative:** In the absence of a pre-designated representative or agent, Client agrees to honor payment instructions from any court-appointed fiduciary, guardian, conservator, or other legal representative authorized to act on Consultant's behalf. Client shall be entitled to rely upon court documentation evidencing such appointment without further inquiry.
+8. **Court-Appointed Fiduciary/Representative:** In the absence of a pre-designated representative or agent, Client agrees to honor payment instructions from any court-appointed fiduciary, guardian, conservator, or other legal representative authorized to act on Consultant's behalf. Client shall be entitled to rely upon court documentation evidencing such appointment without further inquiry.
 
-   9. **Tribal Authority Designation:** In the absence of a pre-designated representative or agent and where no court-appointed fiduciary exists, Client agrees to honor payment instructions from an authorized representative of the Grand Traverse Band of Ottawa and Chippewa Indians who has been designated by tribal authorities to act on Consultant's behalf in accordance with tribal law and governance procedures.
+9. **Tribal Authority Designation:** In the absence of a pre-designated representative or agent and where no court-appointed fiduciary exists, Client agrees to honor payment instructions from an authorized representative of the Grand Traverse Band of Ottawa and Chippewa Indians who has been designated by tribal authorities to act on Consultant's behalf in accordance with tribal law and governance procedures.
 
-   10. **Default Payment Protocol:** If Consultant is unable to receive direct payment and no designated representative, court-appointed fiduciary, or tribal authority has provided alternative payment instructions within thirty (30) days of Client's knowledge of Consultant's detention or incapacitation, Client shall:
-   
-       i. Place all amounts due to Consultant in an interest-bearing escrow account specifically designated for this purpose;
-   
-       ii. Maintain such funds in escrow until (a) Consultant provides payment instructions, (b) a designated representative, court-appointed fiduciary, or tribal authority provides valid payment instructions, or (c) Consultant resumes direct receipt of payments;
-   
-       iii. Provide written documentation to Consultant's last known address and to the tribal authorities of the Grand Traverse Band of Ottawa and Chippewa Indians regarding the status and location of escrowed funds, with updates at least quarterly; and
-   
-       iv. Release the escrowed funds, including any accrued interest, promptly upon receiving proper instructions from Consultant or an authorized representative.
+10. **Default Payment Protocol:** If Consultant is unable to receive direct payment and no designated representative, court-appointed fiduciary, or tribal authority has provided alternative payment instructions within thirty (30) days of Client's knowledge of Consultant's detention or incapacitation, Client shall:
 
-   11. **Emergency Needs Payment:** Notwithstanding the absence of a pre-designated representative, if Client receives credible information that Consultant requires funds for immediate legal representation, medical care, or other critical needs relating to Consultant's detention or incapacitation, Client shall make reasonable efforts to facilitate payment for such needs from amounts due to Consultant. This may include direct payments to legal counsel, medical providers, or other service providers upon presentation of invoices for services rendered to Consultant. Client shall document all such payments and provide an accounting to Consultant or Consultant's representative.
+    i. Place all amounts due to Consultant in an interest-bearing escrow account specifically designated for this purpose;
 
-   **Optional Designations:** (Check all that apply)
+    ii. Maintain such funds in escrow until (a) Consultant provides payment instructions, (b) a designated representative, court-appointed fiduciary, or tribal authority provides valid payment instructions, or (c) Consultant resumes direct receipt of payments;
 
-   □ **Alternative Payee Designation:** Consultant hereby designates the following individual(s) as authorized to receive redirected payments on Consultant's behalf:
-      Primary Designee: _______________________________________________________________________________
-      Relationship to Consultant: _____________________________________________________________________
-      Contact Information: __________________________________________________________________________
-      
-      Alternative Designee: _________________________________________________________________________
-      Relationship to Consultant: _____________________________________________________________________
-      Contact Information: __________________________________________________________________________
+    iii. Provide written documentation to Consultant's last known address and to the tribal authorities of the Grand Traverse Band of Ottawa and Chippewa Indians regarding the status and location of escrowed funds, with updates at least quarterly; and
 
-   □ **Durable Power of Attorney:** Consultant has executed a separate Durable Power of Attorney appointing an agent to manage financial affairs in the event of incapacity. This document shall govern the redirection of payments, and Client agrees to honor directions from the designated agent.
+    iv. Release the escrowed funds, including any accrued interest, promptly upon receiving proper instructions from Consultant or an authorized representative.
 
-   □ **Other Arrangements:** ___________________________________________________________________
-      _____________________________________________________________________________________
-      _____________________________________________________________________________________
+11. **Emergency Needs Payment:** Notwithstanding the absence of a pre-designated representative, if Client receives credible information that Consultant requires funds for immediate legal representation, medical care, or other critical needs relating to Consultant's detention or incapacitation, Client shall make reasonable efforts to facilitate payment for such needs from amounts due to Consultant. This may include direct payments to legal counsel, medical providers, or other service providers upon presentation of invoices for services rendered to Consultant. Client shall document all such payments and provide an accounting to Consultant or Consultant's representative.
 
-   Client acknowledgment of payment redirection provisions: ________ (Client initials)
+**Optional Designations:** (Check all that apply)
 
-   □ Additional payment redirection terms detailed in Attachment D (check if applicable)
+- [ ] **Alternative Payee Designation:** Consultant hereby designates the following individual(s) as authorized to receive redirected payments on Consultant's behalf:
+  Primary Designee: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  Relationship to Consultant: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  Contact Information: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**19. Audit Rights:**
-    Consistent with Section 12 of the Guiding License Principles, Consultant (or their designated representative) shall have the right, upon providing reasonable written notice (no less than 10 business days), to audit and inspect the records, systems, facilities, and practices of Client relevant to this Agreement. The purpose of such audits is to verify Client's compliance with all terms and conditions, including but not limited to: scope of service usage (Section 1), Confidentiality/TK/Data Sovereignty (Section 4), IP/Inalienability/Licensing (Section 5), Prohibited Uses (Section 7), PIC requirements (Section 8), Attribution (Section 5e), and data handling/governance protocols. Audits shall be conducted during normal business hours and in a manner that minimizes disruption to Client's operations. Client shall provide reasonable cooperation and access to necessary personnel, records, and systems. If an audit reveals a material breach, Client shall bear the full reasonable costs associated with the audit, in addition to any other remedies pursued by Consultant under Section 9. Confidential information of Client obtained during an audit shall be treated with appropriate confidentiality by Consultant, subject to disclosure obligations required for Agreement enforcement or under applicable law.
+  Alternative Designee: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  Relationship to Consultant: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  Contact Information: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-    Client acknowledgment of audit rights: ________ (Client initials)
+- [ ] **Durable Power of Attorney:** Consultant has executed a separate Durable Power of Attorney appointing an agent to manage financial affairs in the event of incapacity. This document shall govern the redirection of payments, and Client agrees to honor directions from the designated agent.
 
-**20. Additional Terms and Conditions:**
-   □ Insurance: Client requires Consultant to maintain professional liability insurance
-      Coverage amount: $__________________
-      
-   □ Non-solicitation: During the Term of this Agreement and for _____ months thereafter, 
-      Client shall not directly or indirectly solicit or attempt to solicit any employee, 
-      contractor, or affiliate of Consultant for employment or engagement.
+- [ ] **Other Arrangements:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-   □ Client Responsibilities (check all that apply):
-      □ Provide timely access to necessary information, personnel, and resources
-      □ Designate a primary contact person: ____________________________________
-      □ Provide feedback on deliverables within _____ business days
-      □ Attend scheduled meetings and consultations
-      □ Other: _________________________________________________
+Client acknowledgment of payment redirection provisions: \_\_\_\_\_\_\_\_ (Client initials)
 
-   □ Additional provisions detailed in Attachment C (check if applicable)
+- [ ] Additional payment redirection terms detailed in Attachment D (check if applicable)
 
-**21. IN WITNESS WHEREOF,** the parties hereto have executed this Consulting Agreement as of the Effective Date first written above. By signing below, Client acknowledges having read, understood, and agreed to all terms and conditions of this Agreement, including all sections requiring Client initials.
+---
 
-**22. CONSULTANT:**
+### 19. Audit Rights
 
-   _____________________________________________
-   Signature
+Consistent with Section 12 of the Guiding License Principles, Consultant (or their designated representative) shall have the right, upon providing reasonable written notice (no less than 10 business days), to audit and inspect the records, systems, facilities, and practices of Client relevant to this Agreement. The purpose of such audits is to verify Client's compliance with all terms and conditions, including but not limited to: scope of service usage (Section 1), Confidentiality/TK/Data Sovereignty (Section 4), IP/Inalienability/Licensing (Section 5), Prohibited Uses (Section 7), PIC requirements (Section 8), Attribution (Section 5e), and data handling/governance protocols. Audits shall be conducted during normal business hours and in a manner that minimizes disruption to Client's operations. Client shall provide reasonable cooperation and access to necessary personnel, records, and systems. If an audit reveals a material breach, Client shall bear the full reasonable costs associated with the audit, in addition to any other remedies pursued by Consultant under Section 9. Confidential information of Client obtained during an audit shall be treated with appropriate confidentiality by Consultant, subject to disclosure obligations required for Agreement enforcement or under applicable law.
 
-   Acknowledging the full identity asserted herein:
-   Traditional Name in Syllabics: ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ
-   Traditional Name Romanized: Nbiish Waabanimikii-Kinawaabakizi
-   Legal Name (State Context): JUSTIN PAUL KENWABIKISE
-   Professional Documentation Name (Bridging): Nbiish-Justin Paul Kenwabikise
-   Anishinaabek Dodem (Clan Responsibility): Animikii (Thunder)
-   Ancestral Lineage (Historical Connection): Descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi), Beaver Island Band (historical community also known as "Beaver Island Indians," descendants primarily enrolled in GTBOCI and LTBB today)
-   Political Affiliation (Sovereign Nation): Member of the Grand Traverse Band of Ottawa and Chippewa Indians
-   Date: ____________________________________
+Client acknowledgment of audit rights: \_\_\_\_\_\_\_\_ (Client initials)
 
-   Tribal Enrollment Number: ___________________
+---
 
-   **DECLARATION OF NAME USAGE (Reiteration for Emphasis):**
-   The comprehensive set of names listed above represents the Consultant's complete identity and must be used respectfully in accordance with Section 5(e) on Attribution. This includes:
-   1. Traditional Name (Primary Cultural Identity): ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi)
-   2. Birth Certificate Name (Legal Identity imposed by State): JUSTIN PAUL KENWABIKISE
-   3. Professional Documentation Name (Functional Bridge): Nbiish-Justin Paul Kenwabikise
-   4. Anishinaabek Dodem (Anishinaabe Clan – Kinship/Governance): Animikii (Thunder)
-   5. Ancestral Lineage (Pre-Colonial/Treaty Era Heritage): Descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi) of the Beaver Island Band (the historical community also known as "Beaver Island Indians" whose descendants are primarily enrolled citizens of GTBOCI and LTBB today)
+### 20. Additional Terms and Conditions
 
-   This explicit and comprehensive identification is asserted as a right, pushing back against the historical context of forced assimilation and Indigenous name suppression. It affirms the Consultant's right to full self-determination in identity, grounded in tribal sovereignty principles, inherent rights, federal Indian law recognizing cultural distinctiveness, and international indigenous rights frameworks (e.g., UNDRIP Articles 8, 11, 13, 33).
+- [ ] Insurance: Client requires Consultant to maintain professional liability insurance
+  Coverage amount: $\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**23. CLIENT:**
+- [ ] Non-solicitation: During the Term of this Agreement and for \_\_\_\_\_ months thereafter,
+  Client shall not directly or indirectly solicit or attempt to solicit any employee,
+  contractor, or affiliate of Consultant for employment or engagement.
 
-   _____________________________________________
-   [Entity Name/Individual Name]
-   By: ______________________________________
-   Name: ___________________________________
-   Title: ____________________________________
-   Date: ____________________________________
+- [ ] Client Responsibilities (check all that apply):
+  - [ ] Provide timely access to necessary information, personnel, and resources
+  - [ ] Designate a primary contact person: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+  - [ ] Provide feedback on deliverables within \_\_\_\_\_ business days
+  - [ ] Attend scheduled meetings and consultations
+  - [ ] Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**24. IMPORTANT DISCLAIMER:**
-   This document is a template provided for informational purposes only and DOES NOT constitute legal advice. Laws regarding contracts, intellectual property, traditional knowledge, tribal jurisdiction, the tribal court exhaustion doctrine, and forum selection are complex and vary. You MUST consult with a qualified attorney knowledgeable in Federal Indian Law, Tribal Law (specifically GTBOCI law, if possible), Contract Law, and Intellectual Property/TK protection to review, customize, and advise on the suitability and enforceability of this agreement for your specific circumstances BEFORE using it. The forum selection and jurisdiction provisions in Section 10 must be carefully reviewed to ensure they are consistent with applicable tribal, federal, and state law in your jurisdiction. Use of this template without independent legal advice is at your own sole risk.
+- [ ] Additional provisions detailed in Attachment C (check if applicable)
+
+---
+
+### 21. IN WITNESS WHEREOF
+
+the parties hereto have executed this Consulting Agreement as of the Effective Date first written above. By signing below, Client acknowledges having read, understood, and agreed to all terms and conditions of this Agreement, including all sections requiring Client initials.
+
+---
+
+### 22. CONSULTANT
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Signature
+
+Acknowledging the full identity asserted herein:
+Traditional Name in Syllabics: ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ
+Traditional Name Romanized: Nbiish Waabanimikii-Kinawaabakizi
+Legal Name (State Context): JUSTIN PAUL KENWABIKISE
+Professional Documentation Name (Bridging): Nbiish-Justin Paul Kenwabikise
+Anishinaabek Dodem (Clan Responsibility): Animikii (Thunder)
+Ancestral Lineage (Historical Connection): Descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi), Beaver Island Band (historical community also known as "Beaver Island Indians," descendants primarily enrolled in GTBOCI and LTBB today)
+Political Affiliation (Sovereign Nation): Member of the Grand Traverse Band of Ottawa and Chippewa Indians
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Tribal Enrollment Number: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**DECLARATION OF NAME USAGE (Reiteration for Emphasis):**
+
+The comprehensive set of names listed above represents the Consultant's complete identity and must be used respectfully in accordance with Section 5(e) on Attribution. This includes:
+
+1. **Traditional Name (Primary Cultural Identity):** ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi)
+2. **Birth Certificate Name (Legal Identity imposed by State):** JUSTIN PAUL KENWABIKISE
+3. **Professional Documentation Name (Functional Bridge):** Nbiish-Justin Paul Kenwabikise
+4. **Anishinaabek Dodem (Anishinaabe Clan – Kinship/Governance):** Animikii (Thunder)
+5. **Ancestral Lineage (Pre-Colonial/Treaty Era Heritage):** Descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi) of the Beaver Island Band (the historical community also known as "Beaver Island Indians" whose descendants are primarily enrolled citizens of GTBOCI and LTBB today)
+
+This explicit and comprehensive identification is asserted as a right, pushing back against the historical context of forced assimilation and Indigenous name suppression. It affirms the Consultant's right to full self-determination in identity, grounded in tribal sovereignty principles, inherent rights, federal Indian law recognizing cultural distinctiveness, and international indigenous rights frameworks (e.g., UNDRIP Articles 8, 11, 13, 33).
+
+---
+
+### 23. CLIENT
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+[Entity Name/Individual Name]
+By: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Title: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+---
+
+### 24. IMPORTANT DISCLAIMER
+
+This document is a template provided for informational purposes only and DOES NOT constitute legal advice. Laws regarding contracts, intellectual property, traditional knowledge, tribal jurisdiction, the tribal court exhaustion doctrine, and forum selection are complex and vary. You MUST consult with a qualified attorney knowledgeable in Federal Indian Law, Tribal Law (specifically GTBOCI law, if possible), Contract Law, and Intellectual Property/TK protection to review, customize, and advise on the suitability and enforceability of this agreement for your specific circumstances BEFORE using it. The forum selection and jurisdiction provisions in Section 10 must be carefully reviewed to ensure they are consistent with applicable tribal, federal, and state law in your jurisdiction. Use of this template without independent legal advice is at your own sole risk.

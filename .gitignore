@@ -1,17 +1,15 @@
-# Cursor files
-.cursor/
-.cursorignore
-.cursorindexingignore
-.cursorrules
+# env
+.env
+.env.*
+!.env.example
 
-# Aider files
-.aider-instructions.md
-.aider.conf.yml
-.aiderignore
-.env.example
+# venv
+venv/
+venv.bak/
+venv.bak*
+venv.*
 
-# Copilot files
-.copilot/
-.copilotignore
-.rooignore
-.github/copilot-instructions.md
+# ainish-coder
+ainish-coder
+.cursor
+
