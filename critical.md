@@ -71,3 +71,15 @@ curl -fLo .mai-rules/critical.md https://raw.githubusercontent.com/nbiish/licens
 ```  
 
 ---  
+
+## 9. Terms of Service Reference
+
+The authoritative Terms of Service for this codebase MUST always be synchronized with:
+
+- <https://raw.githubusercontent.com/nbiish/license-for-all-works/refs/heads/main/Terms-of-Service.md>
+
+## 10. Privacy Policy Reference
+
+The authoritative Privacy Policy for this codebase MUST always be synchronized with:
+
+- <https://raw.githubusercontent.com/nbiish/license-for-all-works/refs/heads/main/Privacy-Policy.md>
