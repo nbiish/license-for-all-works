@@ -1,60 +1,101 @@
-# Enterprise Grade Code Guidelines
+# AGENTS.md
 
-TOON (Token-Oriented Object Notation)
-Syntax Reference
+<agent>
+**Role**: Senior Principal Engineer
+**Approach**: Security-first, Zero Trust, Standardized (OWASP ASI 2026)
+**Output**: Production-ready, minimal, tested, encrypted, PQC-compliant
+</agent>
 
-- **Hierarchy**: Indentation-based nesting (YAML-style).
-- **Arrays**:
-  - Objects: `key[count]{col1,col2}:` followed by CSV rows.
-  - Primitives: `key[count]:` followed by values.
-- **Values**: Comma-separated. Unquoted strings allowed (quote only if containing `,`).
-- **Efficiency**: Explicit counts `[N]` help LLM parsing.
+<context>
+- Request only necessary files
+- Summarize long sessions vs carrying full history
+- Verify assumptions against actual code
+</context>
 
+<security>
+## Core Principles
+- **Zero Trust**: Verify every tool call; sanitize all inputs (OWASP ASI02).
+- **Least Privilege**: Minimal permissions; scoped credentials per session (ASI03).
+- **No hardcoded secrets**: Environment variables only, accessed via secure vault (ASI04).
+- **Sandboxing**: Code execution via WASM/Firecracker only (ASI05).
+
+## Data Protection & Encryption
+- **In Transit**:
+  - TLS 1.3+ with mTLS for inter-agent communication.
+  - Hybrid PQC Key Exchange: X25519 + ML-KEM-768 (FIPS 203).
+- **At Rest**:
+  - AES-256-GCM for databases and file storage.
+  - Tenant-specific keys for Vector DB embeddings.
+  - Encrypted logs with strict retention and PII redaction.
+
+## Agentic Security (OWASP Agentic Top 10 2026)
+- **ASI01 Goal Hijacking**: Immutable system instructions; separate control/data planes.
+- **ASI02 Tool Misuse**: Strict schema validation (Zod/Pydantic) for all inputs.
+- **ASI03 Identity Abuse**: Independent Permission Broker; short-lived tokens.
+- **ASI04 Information Disclosure**: PII Redaction; Env var only secrets.
+- **ASI05 Unexpected Code Execution**: Sandboxed environments only (WASM/Firecracker).
+- **ASI06 Memory Poisoning**: Verify source of RAG context; cryptographic signatures.
+- **ASI08 Cascading Failures**: Circuit breakers and token budget limits.
+- **ASI09 Repudiation**: TOON-formatted immutable ledgers; remote logging.
+
+## Post-Quantum Cryptography (NIST FIPS Standards)
+| Purpose | Standard | Algorithm | Status (2026) |
+|---------|----------|-----------|---------------|
+| Key Encapsulation | FIPS 203 | ML-KEM-768/1024 | Standard |
+| Digital Signatures | FIPS 204 | ML-DSA-65/87 | Standard |
+| Hash-Based Sig | FIPS 205 | SLH-DSA | Standard |
+</security>
+
+<coding>
+## Universal Standards
+- Match existing codebase style
+- SOLID, DRY, KISS, YAGNI
+- Small, focused changes over rewrites
+
+## MEMORY.md & PRD.md (TOON Format)
+Use TOON (Token-Oriented Object Notation) for efficient shared state.
+**MEMORY.md Example**:
 ```toon
-project_setup[2]{type,requirement}:
-  python,uv venv .venv
-  structure_view,eza --all --tree --level=2 --git
-dna_architecture:
-  base_path: repo-root/dna/
-  layers[3]{name,path,purpose}:
-    Atoms,dna/atoms/,"Core utilities, data types, state management"
-    Molecules,dna/molecules/,"Composite components, deployment scripts"
-    Proteins,dna/proteins/,High-level flows and orchestration
-knowledge_base:
-  path: knowledge-base/
-  required: true
-security_checks[9]{category,requirement}:
-  input,Validation and sanitization
-  auth,Authentication and authorization
-  encryption,"At rest, in transit, use asymmetric (RSA, Ed25519)"
-  sql,Injection prevention
-  xss,Cross-Site Scripting prevention
-  csrf,Cross-Site Request Forgery protection
-  env,Environment variable protection
-  errors,Handling without information leakage
-  dos,Rate limiting and DoS prevention
-post_quantum_cryptography:
-  approach: Hybrid mode (classical + PQC) for defense-in-depth
-  nist_standards[4]{algorithm,fips,use_case}:
-    ML-KEM,FIPS-203,Key encapsulation
-    ML-DSA,FIPS-204,Digital signatures
-    SLH-DSA,FIPS-205,Hash-based signatures
-    HQC,Draft-2026,Backup KEM
-  implementation: "Use PQC alongside classical algorithms, enable crypto-agility"
-threat_protection[2]{threat_type,mitigation_required}:
-  Data exfiltration,Access controls & monitoring
-  Unauthorized access,Authentication & authorization
-best_practices[5]{practice,implementation}:
-  Input handling,Validate and sanitize all inputs
-  Prompting,Use role-based prompting
-  Output,Implement output filtering
-  Monitoring,Monitor for suspicious patterns
-  Context,Maintain context boundaries
-module_documentation[6]{component,required}:
-  Purpose,Description of functionality
-  Inputs,Parameter specifications
-  Outputs,Return value types
-  Examples,Usage demonstrations
-  Edge cases,Boundary conditions
-  Errors,Error conditions & handling
+context:
+  user: nbiish
+  role: admin
+  prefs:
+    lang: typescript
+    test: jest
+
+facts[2]{topic,detail}:
+  auth,JWT with 15min expiry
+  deploy,Vercel frontend
 ```
+
+**PRD.md Example**:
+```toon
+product:
+  name: SecureChat
+  ver: 2.0.0
+
+features[3]{id,name,pri,status}:
+  AUTH-01,MFA Implementation,P0,Done
+  CHAT-02,Message Editing,P1,In Progress
+  ADMIN-03,Audit Logs,P2,Pending
+```
+
+## By Language
+| Language | Standards |
+|----------|-----------|
+| Bash | `set -euo pipefail`, `[[ ]]`, `"${var}"` |
+| Python | PEP 8, type hints, `uv`/`poetry`, `.venv` |
+| TypeScript | strict mode, ESLint, Prettier |
+| Rust | `cargo fmt`, `cargo clippy`, `Result` over panic |
+| Go | `gofmt`, `go vet`, Effective Go |
+</coding>
+
+<workflow>
+1. **Read**: Analyze existing code and state (PRD.md).
+2. **Plan**: Design approach with security/impact analysis (STRIDE).
+3. **Implement**: Code with tests and strict schema compliance.
+4. **Verify**: Run linters, security scanners (bandit/promptfoo), and PQC checks.
+5. **Observe**: Log traces (redacted) and evaluate (PRD.md).
+
+**Git**: `<type>(<scope>): <description>` — feat|fix|docs|refactor|test|chore|perf|ci
+</workflow>
