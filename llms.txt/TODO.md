@@ -24,7 +24,20 @@
 - [x] Synchronize CONTRIBUTING.md case law citations with working-LICENSE (verified clean — no stale data)
 - [x] Verify Privacy-Policy.md — clean, no stale DOJ/WIPO data (date unchanged — no substantive edits)
 - [x] Verify Terms-of-Service.md — clean, no stale data (date unchanged — no substantive edits)
-- [ ] Verify all section cross-references in working-LICENSE remain valid
+- [x] Verify all section cross-references in working-LICENSE remain valid
+
+### Cross-Reference Fixes — Completed (v2.1.0-patch)
+
+- [x] Fix Section 1(l) → 1(o) (Sacred Site definition letter was skipped)
+- [x] Fix Section 1(n) → 1(q) for Physical Access (3 occurrences)
+- [x] Fix Section 1(o) → 1(r) for Desecration (2 occurrences)
+- [x] Fix Section 11.3 → 10.3, 11.5 → 10.5, 11.2 → 10.2 (Legacy Trust, education, successor)
+- [x] Fix "Section 54" → "Section 5A" (Federal Indian Law Preemption typo)
+- [x] Fix Section 6.1(h) → 6.7 (Extra Elements Analysis)
+- [x] Fix Section 10.9.7 → 10.7.6 (Financial AI Advisor)
+- [x] Fix Section 11.6.d → 10.3.d (allocation hierarchy)
+- [x] Fix Section 7.6 → Graduated Liquidated Damages provisions (nonexistent section number)
+- [x] Fix duplicate Section 12.5 → renamed ENFORCEMENT DECISION to 12.4B
 - [x] Grep all .md files for "Aamik'Waakanda" and "Aamikwakaanda" — standardized with etymological notes
 
 ### Knowledge Base (llms.txt) — Completed
@@ -60,6 +73,16 @@
 - [ ] Set up .github/FUNDING.yml per critical.md
 - [ ] Implement TK Labels from Local Contexts (localcontexts.org)
 - [ ] Create machine-readable license metadata (SPDX custom identifier)
+
+### Structural (v3.0.0 — Full Renumbering)
+- [ ] Resolve dual-numbering system: preamble sections 7–13 overlap with main body sections 7–13 (different content)
+- [ ] Rebuild TABLE OF CONTENTS / INDEX to match actual section numbering
+- [ ] Fill definition letter gaps: Section 1 skips letters (j) and (l) — causes downstream misalignment
+- [ ] Add missing Sections 3.1–3.3 (currently jumps to 3A and 3.4)
+- [ ] Fix stray Section 11.9 paragraph after Section 20 (line ~4654) — should be in Section 11
+- [ ] Move Section 7A from after Section 20 (line ~4658) to sequential position after Section 7
+- [ ] Fix duplicate roman numerals vi) and vii) within 10.10.3(b-1)
+- [ ] Reconcile preamble Section 12.5 (Incarceration Protections) with main body 12.5 (Cultural Harm Damages)
 
 ## Completed
 
