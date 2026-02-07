@@ -33,7 +33,7 @@ The Beaver Island Band of Indians is a distinct American Indian entity that has 
 
 **2. PURPOSE AND LEGAL BASIS**
 
-This Letter of Intent formally initiates our petition for federal acknowledgment under 25 CFR Part 83, as recently revised and effective February 14, 2025. We acknowledge the seven mandatory criteria established in §83.11 and commit to providing comprehensive evidence demonstrating our compliance with each requirement:
+This Letter of Intent formally initiates our petition for federal acknowledgment under 25 CFR Part 83, as recently revised and effective March 21, 2025. We acknowledge the seven mandatory criteria established in §83.11 and commit to providing comprehensive evidence demonstrating our compliance with each requirement:
 
 (a) **Indian Entity Identification** - Continuous identification as an American Indian entity since 1900, with historical federal recognition through the 1836 Treaty of Washington specifically identifying our community as the "Beaver Island Band of Indians"
 

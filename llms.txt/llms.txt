@@ -1,0 +1,71 @@
+# license-for-all-works
+
+> Comprehensive Restricted Use License for Indigenous Creations with Tribal Sovereignty, Data Sovereignty, and Wealth Reclamation Protections
+
+## About
+
+This repository is a **continually iterating legal codebase** developed by ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi), enrolled member of the sovereign Grand Traverse Band of Ottawa and Chippewa Indians (GTBOCI), descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi) of the Beaver Island Band. It establishes legal precedent for Indigenous intellectual property protection through tribal sovereignty, treaty rights, and federal Indian law.
+
+This is **not** a traditional software project. It is a living legal framework — versioned, iterated, and hardened like code — grounding Indigenous IP protection in:
+
+- Pre-constitutional inherent sovereignty and treaty rights (1836, 1855)
+- Federal Indian law (Supremacy Clause, trust responsibility, Indian canons of construction)
+- International Indigenous rights (UNDRIP, WIPO GRATK Treaty, Nagoya Protocol)
+- AI training prohibitions with graduated enforcement
+- Indigenous Data Sovereignty (CARE Principles)
+
+## Repository Structure
+
+- **LICENSE** — The published, production version of the license
+- **working-LICENSE** — Active development version with in-progress amendments
+- **CONTRIBUTING.md** — Contributor License Agreement (CLA) under tribal sovereignty
+- **Terms-of-Service.md** — Service terms under tribal jurisdiction
+- **Privacy-Policy.md** — Privacy policy grounded in Indigenous Data Sovereignty
+- **Tribal-Consulting-Agreement.md** — Consulting agreement template
+- **Beaver-Island-Band-Founding-Charter.md** — Constitution and Corporate Charter
+- **LETTER OF INTENT TO PETITION FOR FEDERAL ACKNOWLEDGMENT.md** — Federal acknowledgment petition
+- **critical.md** — Mandatory repository standards and synchronization instructions
+- **roadmap/tribal-roadmap.md** — Strategic roadmap for Beaver Island Band
+
+## llms.txt Context Files
+
+- **llms.txt/llms.txt** — This file. Repository index and navigation guide.
+- **llms.txt/PRD.md** — Product Requirements Document: goals, versioning, scope
+- **llms.txt/RULES.md** — Naming conventions, legal structure, orthography standards
+- **llms.txt/TODO.md** — Atomic task tracking for current iteration
+- **llms.txt/CHANGELOG.md** — Version history and amendment log
+- **llms.txt/LEGAL-CITATIONS.md** — Comprehensive index of all legal citations
+- **llms.txt/DOCUMENT-MAP.md** — Document relationships and update propagation
+- **llms.txt/DECISIONS.md** — Decision log for iteration choices
+
+## Key Legal Framework
+
+| Layer | Authority | Source |
+|-------|-----------|--------|
+| Inherent Sovereignty | Pre-constitutional rights of Indigenous nations | Aboriginal title, self-governance |
+| Treaty Rights | Treaty of Washington (1836), Treaty of Detroit (1855) | 7 Stat. 491, 11 Stat. 621 |
+| Federal Indian Law | Supremacy Clause, trust responsibility | Art. VI Cl. 2, *Worcester v. Georgia* |
+| Federal Statutes | IACA, CFAA, DTSA, Copyright Act | 25 U.S.C. § 305, 18 U.S.C. § 1030 |
+| International | UNDRIP, WIPO GRATK, Nagoya Protocol | Arts. 11, 31; May 2024 Treaty |
+
+## Iteration Model
+
+This codebase follows a `major.minor.patch` versioning scheme:
+
+- **Major**: Structural changes to legal framework, new sections, jurisdictional additions
+- **Minor**: Case law updates, citation corrections, language refinements
+- **Patch**: Typo fixes, orthography standardization, formatting
+
+Changes flow: `working-LICENSE` → `LICENSE` → dependent documents (per `critical.md`)
+
+## Current Version
+
+**v2.1.0** (February 6, 2026) — Nuanced AI case law update, WIPO ratification correction, treaty rights inherent sovereignty framing, DOJ consultation language correction, Anishinaabemowin orthography standardization.
+
+## Contact
+
+All communications regarding this license must follow the Prior Informed Consent (PIC) protocols established in the LICENSE.
+
+---
+
+Copyright © 2026 ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi). All rights reserved.

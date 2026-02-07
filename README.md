@@ -32,7 +32,7 @@ This repository serves as the official and permanent location for the Comprehens
 
 - [LICENSE](./LICENSE) - Comprehensive Restricted Use License for Indigenous Creations with Tribal Sovereignty, Data Sovereignty, and Wealth Reclamation Protections.
 - [Tribal-Consulting-Agreement.md](./Tribal-Consulting-Agreement.md) - A template for consulting agreements that respects and protects Indigenous knowledge, Traditional Cultural Expressions (TCEs), and intellectual property rights.
-- [LICENSE_IMPROVEMENT_PLAN.md](./LICENSE_IMPROVEMENT_PLAN.md) - Documentation of planned improvements to the license.
+- [llms.txt/](./llms.txt/) - Knowledge base for continual iteration: PRD, rules, legal citations, changelog, decisions, and document map.
 
 <div align="center">
 ╭──────────────[ ◈◆◇ SYSTEM OVERVIEW ◇◆◈ ]──────────────╮
