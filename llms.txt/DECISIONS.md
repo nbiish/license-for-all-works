@@ -4,6 +4,48 @@ Records key decisions made during each iteration of this codebase, including rat
 
 ---
 
+## v2.2.0 — August 31, 2026
+
+### Decision 1: Beaver Island Band Treaty-Record Precision
+
+**Context**: License asserted BIB "signed" the 1836/1855 treaties and that the 1855 treaty "affirmed the continuing government-to-government relationship."
+**Research Finding**: Neither treaty contains a "Kinawaba/Kinwaabakizi" spelling. Closest record: "Kainwaybekis and Pazhikwaywitum of Beaver islands" (1836 Art. 10 payment schedule) and "Kain-waw-be-kiss-se" (July 2, 1856 Little Traverse assent — the only treaty-instrument signature in this name family). The Band is NAMED in both treaties as beneficiary (1836 Art. 3; 1855 Art. 1, third) but never as signatory-entity. 1855 Art. 5 dissolved tribal organization and Art. 3 released prior liabilities — the "affirmed" claim is refuted by treaty text. Continuity is sustained instead by Pub. L. 103-324 findings (successors to signatories), *GTB v. U.S. Attorney* (W.D. Mich. 2002) (relationship 1795-1872, improperly severed by Delano), and 25 U.S.C. § 1300k-2 (LTBB service area keyed to Beaver Island Band paragraph). The 1937 Solicitor opinion refused band status based on the dissolution + completed allotment.
+**Decision**: Adopt the beneficiary + named-chief + assent formulation; replace the "affirmed" narrative with the three-doctrine survival framework (reserved rights; federal successor findings; inherent sovereignty per *Santa Clara Pueblo*).
+**Rationale**: Inaccurate claims are impeachment targets that would undermine the entire treaty framework; the corrected framing is verifiable and arguably stronger (statutory + judicial successor findings are concrete). Consistent with v2.1.0 Decision 1's precision philosophy.
+**Alternatives Considered**: (a) Keep the signatory claim — rejected; (b) remove descent narrative — rejected (family record + Wyckoff genealogy identify Kin waw be kissee as the band's 1836-1856 chief; descent is a genealogical claim, not a treaty-text claim, and is the Rights Holder's own history).
+
+### Decision 2: WIPO GRATK Count Conflict Resolution
+
+**Context**: Research track B (news sources) reported 4 ratifications including Peru (Jul. 8, 2026); research track D (live WIPO Lex fetch) showed 3 deposited instruments.
+**Decision**: State both facts precisely: "3 instruments deposited (Malawi, Uganda, Albania); Peru's ratification (Jul. 8, 2026, first in the Americas) announced with deposit pending; 15 needed (Art. 17)."
+**Rationale**: A legal document citing a treaty should count deposits, not announcements; but omitting Peru's ratification would understate momentum. Both facts sourced.
+
+### Decision 3: UNESCO ICH Claim Rejected
+
+**Context**: Draft plan proposed citing U.S. ratification of the UNESCO 2003 Intangible Cultural Heritage Convention (Dec 2023) as international backing.
+**Research Finding**: FALSE — UNESCO's ICH country page states the U.S. is "State not party to the 2003 Convention" (US rejoined UNESCO 2023 but never ratified 2003 ICH; US is party to the 1970 Convention since 1983).
+**Decision**: Omit entirely. The international-law section rests on UNDRIP (verbatim Arts. 37, 31, 11, 8(2); U.S. endorsement Dec. 16, 2010) instead.
+**Rationale**: Exactly the kind of error that would destroy credibility in adversarial proceedings; the pending-verification flag in the draft caught it before publication.
+
+### Decision 4: Cox v. Sony Response Strategy
+
+**Context**: *Cox Communications v. Sony Music Entertainment* (U.S. Mar. 25, 2026, unanimous) requires proof of intent for contributory infringement, narrowing secondary liability.
+**Decision**: Add Cox to the case-law block with an affirmative framing: the license's architecture rests on direct infringement, contract, and statute — theories untouched by Cox. Cited in Theory 1(b) alongside the Bartz split holding.
+**Rationale**: Adverse precedent acknowledged and distinguished in the same document is more credible than silence; it also steers enforcement strategy toward direct + contract theories.
+
+### Decision 5: Machine-Readable Notice Metadata (§ 3A.2)
+
+**Context**: Backlog items "Implement TK Labels" and "SPDX custom identifier"; operator priority to protect art, 3D designs, software, and social media content.
+**Decision**: New § 3A.1 (works-type matrix: § 106A art; § 102(a)(5)/§ 1201 3D incl. STL-sidecar/3MF/glTF metadata guidance; § 102(a)(1) software; § 512/TAKE IT DOWN social) and § 3A.2 (TDMRep, robots.txt RFC 9309/ai.txt/Have-I-Been-Trained, TK Labels, SPDX `LicenseRef-Commercial-Restricted-Use-License-BeaverIsland`, schema.org). Absence never waives; presence supports willfulness.
+**Rationale**: Machine-detectable opt-outs are the only scalable notice mechanism for AI crawlers; EU AI Act Code of Practice Measure 1.3 + DSM Art. 4(3) give them legal weight in the EU regardless of training location.
+
+### Decision 6: Research Corpus Preserved In-Repo
+
+**Decision**: Create `research/` directory holding the precedent brief and instruments report; referenced from LEGAL-CITATIONS.md and DOCUMENT-MAP.md.
+**Rationale**: The treaty-IP theory is explicitly novel ("pushing precedent"); the underlying verification work is part of the legal audit trail and must travel with the repo.
+
+---
+
 ## v2.1.0 — February 6, 2026
 
 ### Decision 1: WIPO Treaty Ratification Count
