@@ -128,7 +128,7 @@ Key section cross-references within working-LICENSE (verify after structural edi
 | Document | Version | Last Updated | Notes |
 |----------|---------|--------------|-------|
 | working-LICENSE | 2.2.0 | 2026-08-31 | Active development |
-| LICENSE | 2.1.0 | 2026-02-06 | Production — promotion of 2.2.0 pending Rights Holder review |
+| LICENSE | 2.2.0 | 2026-08-31 | Production — promoted from working-LICENSE (backup: working-LICENSE.08312026.backup) |
 | CONTRIBUTING.md | 2.0.0 | 2026-01-13 | Clean — no stale data |
 | Terms-of-Service.md | 2.0 | 2026-01-13 | Clean — no stale data |
 | Privacy-Policy.md | 2.0 | 2026-01-13 | Clean — no stale data |

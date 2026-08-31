@@ -166,3 +166,6 @@ AGENTS/*.COMMS.live.md
 .windsurf/
 docs/
 
+
+# Deployed skill packs (ainish-coder deploy artifacts — machine-local, not tracked)
+.agents/skills/
