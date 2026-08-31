@@ -60,7 +60,7 @@ Changes flow: `working-LICENSE` → `LICENSE` → dependent documents (per `crit
 
 ## Current Version
 
-**v3.0.0** (August 31, 2026) — Structural cleanup: dual section-numbering framed as PART I (Supplementary Operational Provisions) / PART II (License Terms) with a READER'S NOTE; EOF strays re-homed into logical body sections (forum→§11.10, sovereign immunity→§11.11, jurisdictional-challenge→§11.12, notices→§16/§18, 7A data-repatriation→§12.8); § 3.4→§ 3.1 renumber; § 1 definition-letter de-gap (j/l); INDEX OF SECTIONS regenerated from actual headings; version footer bumped.
+**v3.1.0** (August 31, 2026) — Sync of dependent documents to the v3.0.0 license & verified law: CONTRIBUTING.md + Terms-of-Service.md collectively embody the v2.2.0/v3.0.0 work (Worcester corrected to 1832; 1855 reframed as beneficiary/successor; treaty-as-supreme-law case line + *Medellín* distinction; *Winans* reserved-rights; WIPO GRATK gate status; §1.8 "Pushing Precedent"; Aug-2026 AI case status; TAKE IT DOWN/NO FAKES; machine-readable notice metadata). LICENSE content and numbering unchanged.
 
 ## Contact
 

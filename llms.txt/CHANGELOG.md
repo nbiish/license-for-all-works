@@ -6,6 +6,21 @@ Format: [Semantic Versioning](https://semver.org/) — `MAJOR.MINOR.PATCH`
 
 ---
 
+## [3.1.0] — 2026-08-31
+
+### Changed
+- **Synced `CONTRIBUTING.md` (CLA) and `Terms-of-Service.md` to the v3.0.0 license and verified law** so both subordinate documents collectively embody the v2.2.0/v3.0.0 work: tribal rights, treaty-as-supreme-law (U.S. Const. art. VI, cl. 2), and global TK/IP instruments. No substantive law moved out of `LICENSE`; the two documents remain consistent mirrors, not the governing instrument.
+- **CONTRIBUTING** — § 1.2: fixed *Worcester v. Georgia* to **31 U.S. (6 Pet.) 515 (1832)** (was 1831) and added the full treaty-as-supreme-law case line (*Foster & Elam v. Neilson*, *Head Money Cases*, *Whitney v. Robertson*, *Missouri v. Holland*) with the *Medellín* self-execution distinction. § 1.3: reframed the 1855 Treaty of Detroit from the refuted "affirming continuing government-to-government relationship" to the beneficiary/successor record (Art. 1, third Beaver Island Band naming; Art. 5 dissolution + Art. 3 release; Pub. L. 103-324 (1994); 25 U.S.C. § 1300k-2; *Grand Traverse Band v. Office of the U.S. Attorney* (2002); improper-1872-severance); added *Winans* and *Washington State Commercial Passenger Fishing Vessel Ass'n* to the reserved-rights doctrine. § 1.4: added WIPO GRATK gate status (not yet in force; 3 deposits; Peru ratified July 8, 2026; 15 required) and the UNDRIP 2010 U.S. endorsement. Added **§ 1.8 Pushing Precedent — The Untreated Frontier**. § 6.1: refreshed the AI-copyright litigation status (*Bartz* final approval July 20, 2026; *Thomson Reuters* 3d Cir. argued June 11, 2026, No. 25-2153; *Kadrey* cert. denied July 8, 2026; *Cox v. Sony* March 25, 2026; *Sony Music v. Anthropic* Aug 2026). § 6.2(h): TAKE IT DOWN Act (Pub. L. No. 119-22) + NO FAKES Act (S. 4591). § 6.3(g): machine-readable notice metadata (LICENSE § 3A.2) — TDMRep, robots.txt/ai.txt, TK Labels, SPDX LicenseRef, schema.org.
+- **Terms-of-Service** — version header/footer bumped 2.0 → **3.1.0** (effective Aug 31, 2026). § 2.7: added the treaty-as-supreme-law case line + *Medellín* distinction + *Winans* reserved-rights. § 7.1.1 / § 9.1: referenced the WIPO GRATK Treaty by name + deposit status, and grounded protections in the Beaver Island Band beneficiary record. § 6.2: added **§ 6.2.6 AI Training and Model Development**. § 4.4: removed the duplicated "Geographic Availability" heading.
+
+### Fixed
+- CONTRIBUTING § 1.5 stale internal cross-reference: "liquidated damages under Section 9.4" → **§ 8.3** (Specific Performance is § 9.4).
+- Terms-of-Service § 4.4 duplicate heading (two consecutive "### 4.4 Geographic Availability") collapsed to one.
+- Verified zero UNESCO 2003 ICH citations (per RULES/verified-false constraint) and zero banned crypto/algorithm/secrets references.
+
+### Preserved
+- `LICENSE` content and all Article/§ numbering unchanged (v3.1.0 is a dependent-document sync; no license renumbering, no `working-LICENSE`/`LICENSE` content change, so no promotion required).
+
 ## [3.0.0] — 2026-08-31
 
 ### Changed

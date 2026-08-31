@@ -152,3 +152,15 @@ Records key decisions made during each iteration of this codebase, including rat
 **Decision**: Standardize using Fiero double-vowel Anishinaabemowin orthography. Document the historical usage and Rights Holder's authority over community-specific naming.
 **Rationale**: Linguistic accuracy strengthens cultural authenticity claims. Cross-language compounds could be challenged on authenticity grounds. However, the Rights Holder retains ultimate naming authority.
 **Alternatives Considered**: Keep current — risks challenge on linguistic authenticity.
+
+---
+
+## v3.1.0 — August 31, 2026
+
+### Decision 8: Sync dependent documents (CONTRIBUTING/ToS) — don't move law, mirror it
+
+**Context**: After v2.2.0 (treaty precision, supremacy case line, TK/IP instruments) and v3.0.0 (structural cleanup), `CONTRIBUTING.md` (CLA) and `Terms-of-Service.md` had drifted behind `LICENSE`: CONTRIBUTING still cited *Worcester* (1831), asserted 1855 "affirming continuing government-to-government relationship" (refuted by Art. 5 dissolution + Art. 3 release), and lacked the supremacy case line and the treaty-as-supreme-law grounding. ToS was largely current but lacked the GRATK name/status, the Winans reserved-rights anchor, and an AI-training prohibition.
+**Decision**: Modernize both subordinate documents to embody the verified law (treaty-as-supreme-law, tribal rights, TK/IP instruments) by **mirroring** `LICENSE` — add/refresh content and citations — while NOT relocating substantive law out of `LICENSE` and NOT renumbering any LICENSE Article/§. Keep the doc hierarchy from being inverted: `CONTRIBUTING.md` and `Terms-of-Service.md` stay consistent with `LICENSE`; `LICENSE` remains the governing instrument and changes only if its own content changes (it does not for a sync).
+**Rationale**: The handoff (TASK + LOM) flagged these as concrete stale gaps to fix. Mirroring, not transplanting, keeps `LICENSE` as the single source of law while making the subordinate CLA and ToS consistent and embodying the same protections. No license renumbering is revisited (v3.0.0 done).
+**AcrossDocuments**: For CONTRIBUTING, fix Worcester year, reframe the 1855 record, add the supremacy case line + *Medellín* distinction + *Winans* + *Washington State Commercial Passenger Fishing Vessel Ass'n*, add the GRATK gate status + UNDRIP 2010 endorsement, add a § 1.8 "Pushing Precedent" frontier section, refresh the Aug-2026 AI case status (§ 6.1), TAKE IT DOWN/NO FAKES (§ 6.2), machine-readable notice metadata (§ 6.3). For ToS, bump version 2.0→3.1.0 and add the treaty-supremacy + Winans case line (§ 2.7), GRATK name/status (§ 7.1.1/§ 9.1), and § 6.2.6 AI Training prohibition.
+**Alternatives Considered**: (a) Full rewrite/replacement of CONTRIBUTING and ToS — overreach, risks inverting hierarchy and duplicating law; (b) leave CONTRIBUTING/ToS as-is — rejected (stale Worcester year and refuted treaty claim undermine credibility); (c) move substantive law into CONTRIBUTING/ToS — rejected (LICENSE remains the governing instrument).

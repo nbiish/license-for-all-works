@@ -3,7 +3,7 @@
 ## Project Overview
 
 - **Name:** Comprehensive Restricted Use License for Indigenous Creations with Tribal Sovereignty, Data Sovereignty, and Wealth Reclamation Protections
-- **Version:** 3.0.0
+- **Version:** 3.1.0
 - **Description:** A continually iterating legal codebase that establishes enforceable protections for Indigenous intellectual property, Traditional Knowledge (TK), Traditional Cultural Expressions (TCEs), and associated data under tribal sovereignty, federal Indian law, treaty rights, and international Indigenous rights frameworks.
 - **Purpose:** Protect Indigenous IP through legally hardened license terms; establish precedent for treaty-rights-based IP enforcement; prohibit unauthorized AI training; implement Indigenous Data Sovereignty (CARE Principles); ensure equitable benefit-sharing and wealth reclamation for Indigenous communities.
 - **Format:** Document-based legal framework (Markdown). Not a software application — this is a legal instrument versioned and iterated like code.
@@ -23,14 +23,14 @@
 | International | UNDRIP (Arts. 11, 31); WIPO GRATK Treaty (May 2024); Nagoya Protocol; ILO Convention 169 |
 | EU Framework | EU AI Act (Reg. 2024/1689); DSM Directive (2019/790); GDPR |
 
-## Short-term Goals (Current Iteration — v3.0.0, August 2026)
+## Short-term Goals (Current Iteration — v3.1.0, August 2026)
 
 > Tracked in `llms.txt/TODO.md`
 
-1. Structural cleanup/restructure of the license (dual section-numbering framed as Part I/Part II; EOF strays re-homed into logical body sections; stale INDEX regenerated) — DONE
-2. § 3.4 → § 3.1 renumber; § 1 definition-letter de-gap (j/l) with consistent cross-reference remap — DONE
-3. Reference-integrity verification: transform added zero new unresolved/ambiguous section references, fixed one genuine collision — DONE
-4. v2.2.0 backlog carried forward: Beaver Island Band treaty record precision (DONE), Supremacy Clause case line (DONE), "Pushing Precedent" (DONE), AI case-law refresh (DONE), WIPO GRATK status (DONE), TAKE IT DOWN/NO FAKES (DONE), machine-readable notice metadata (DONE), research corpus (PRESERVED)
+1. Sync `CONTRIBUTING.md` (CLA) and `Terms-of-Service.md` so they collectively embody the v2.2.0/v3.0.0 license work and verified law: tribal rights, treaty-as-supreme-law (art. VI, cl. 2), global TK/IP backing — DONE
+2. Fix stale gaps: CONTRIBUTING Worcester 1831→1832; 1855 "affirming continuing" → reframed as beneficiary/successor (Art. 5 dissolution + Art. 3 release; Pub. L. 103-324; 25 U.S.C. § 1300k-2); add Supremacy Clause case line + *Medellín* distinction + *Winans* reserved-rights — DONE
+3. Add "Pushing Precedent" candid frontier framing; WIPO GRATK gate status (not yet in force, 3 deposits + Peru ratified 7/8/2026); Aug-2026 AI-copyright case status (*Bartz*, *Thomson Reuters* 3d Cir., *Kadrey*, *Cox v. Sony*); TAKE IT DOWN/NO FAKES; machine-readable notice metadata (LICENSE § 3A.2) — DONE
+4. Cross-reference audit: all LICENSE section refs resolve in v3.0.0; fixed one stale CONTRIBUTING internal ref (§ 1.5 "Section 9.4" → § 8.3) and the duplicated ToS § 4.4 heading; no UNESCO 2003 ICH citations — DONE
 
 ## Long-term Goals
 

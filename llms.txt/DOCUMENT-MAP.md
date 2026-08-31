@@ -129,8 +129,8 @@ Key section cross-references within working-LICENSE (verify after structural edi
 |----------|---------|--------------|-------|
 | working-LICENSE | 3.0.0 | 2026-08-31 | Active development — structural cleanup (Part I/II framing; EOF strays re-homed; INDEX regenerated) |
 | LICENSE | 3.0.0 | 2026-08-31 | Production — promoted from working-LICENSE (backup: LICENSE.08312026.backup) |
-| CONTRIBUTING.md | 2.0.0 | 2026-01-13 | Clean — no stale data |
-| Terms-of-Service.md | 2.0 | 2026-01-13 | Clean — no stale data |
+| CONTRIBUTING.md | 3.1.0 | 2026-08-31 | Synced to v3.0.0/verified law (Worcester 1832; 1855 beneficiary/successor reframe; supremacy case line + *Medellín*; *Winans* reserved-rights; GRATK status; §1.8 Pushing Precedent; AI case refresh; TAKE IT DOWN/NO FAKES; machine-readable notice metadata) |
+| Terms-of-Service.md | 3.1.0 | 2026-08-31 | Synced to v3.0.0/verified law (supremacy + *Winans* case line; GRATK name/status; §6.2.6 AI training prohibition; §4.4 duplicate heading removed) |
 | Privacy-Policy.md | 2.0 | 2026-01-13 | Clean — no stale data |
 | Tribal-Consulting-Agreement.md | 1.0 | 2025 | Template |
 | critical.md | 1.0 | 2025 | Sync standards |

@@ -2,6 +2,28 @@
 
 > Keep tasks atomic and testable. Organized by priority and category.
 
+## Version 3.1.0 — Completed (August 31, 2026)
+
+### CONTRIBUTING.md (v3.1.0 — sync to v3.0.0/verified law)
+- [x] § 1.2 — fix *Worcester v. Georgia* year (1831 → **1832**, 31 U.S. (6 Pet.) 515); add treaty-as-supreme-law case line (*Foster & Elam*, *Head Money Cases*, *Whitney v. Robertson*, *Missouri v. Holland*) + *Medellín* self-execution distinction
+- [x] § 1.3 — reframe 1855 Treaty of Detroit (beneficiary/successor record: Art. 1, third "For the Beaver Island Band"; Art. 5 dissolution + Art. 3 release; Pub. L. 103-324 (1994); 25 U.S.C. § 1300k-2; *GTB v. U.S. Attorney* (2002); improper-1872-severance); add *Winans* + *Washington State Commercial Passenger Fishing Vessel Ass'n* to reserved-rights doctrine
+- [x] § 1.4 — add WIPO GRATK gate status (adopted May 24, 2024; not yet in force; 3 deposits: Malawi, Uganda, Albania; Peru ratified 7/8/2026 deposit pending; 15 required) + UNDRIP 2010 U.S. endorsement
+- [x] § 1.8 (new) — "Pushing Precedent — The Untreated Frontier" candid framing
+- [x] § 6.1(f) — Aug-2026 AI-copyright case status (*Bartz* final approval 7/20/2026; *Thomson Reuters* 3d Cir. No. 25-2153 argued 6/11/2026; *Kadrey* cert. denied 7/8/2026; *Cox v. Sony* 3/25/2026; *Sony Music v. Anthropic* Aug 2026; TRAIN Act no action)
+- [x] § 6.2(h) — TAKE IT DOWN Act (Pub. L. No. 119-22) + NO FAKES Act (S. 4591)
+- [x] § 6.3(g) — machine-readable notice metadata (LICENSE § 3A.2): TDMRep, robots.txt/ai.txt, TK Labels, SPDX LicenseRef, schema.org
+- [x] § 1.5 — fix stale internal cross-ref ("Section 9.4" → **§ 8.3**)
+
+### Terms-of-Service.md (v3.1.0 — sync to v3.0.0/verified law)
+- [x] Version header/footer 2.0 → **3.1.0** (effective Aug 31, 2026)
+- [x] § 2.7 — add treaty-as-supreme-law case line + *Medellín* distinction + *Winans* reserved-rights
+- [x] § 7.1.1 / § 9.1 — reference WIPO GRATK Treaty by name + deposit status; ground in Beaver Island Band beneficiary record
+- [x] § 6.2.6 (new) — AI Training and Model Development prohibition; TAKE IT DOWN/NO FAKES
+- [x] § 4.4 — remove duplicated "Geographic Availability" heading
+
+### DOX sync (v3.1.0)
+- [x] CHANGELOG.md ([3.1.0] entry); DECISIONS.md (Decision 8); PRD.md (version → 3.1.0 + short-term goals); TODO.md (this section); LEGAL-CITATIONS.md (already current); DOCUMENT-MAP.md (version rows); llms.txt/llms.txt (Current Version)
+
 ## Version 3.0.0 — Completed (August 31, 2026)
 
 ### working-LICENSE (v3.0.0 — structural cleanup)
