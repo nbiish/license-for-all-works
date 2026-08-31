@@ -2,6 +2,20 @@
 
 > Keep tasks atomic and testable. Organized by priority and category.
 
+## Version 3.0.0 — Completed (August 31, 2026)
+
+### working-LICENSE (v3.0.0 — structural cleanup)
+- [x] Resolve dual section-numbering: frame front detailed 7.x–13.x as PART I (Supplementary Operational Provisions) and body Articles 1–20 as PART II (License Terms); add READER'S NOTE (no renumber of colliding subsections)
+- [x] Re-home EOF strays into logical body sections: forum→§11.10; sovereign immunity→§11.11; jurisdictional-challenge→§11.12; notices→§16/§18; 7A data-repatriation→§12.8
+- [x] § 3.4 → § 3.1 renumber (only § 3 subsection; no refs to § 3.4 existed)
+- [x] § 1 definition-letter de-gap (j/l) → contiguous a–p, with consistent reference remap (1(o)→1(m), 1(q)→1(o), 1(r)→1(p))
+- [x] Regenerate INDEX OF SECTIONS from actual headings (fixes false "§12 Audit Rights" and "§11.4 Traditional Dispute Resolution")
+- [x] Reference-integrity verification: zero new unresolved/ambiguous refs; fixed one genuine collision (stray 11.4 vs body 11.4)
+- [x] Bump IMPORTANT NOTICE version reference to 3.0.0
+
+### v2.2.0 carryover (preserved / not regression)
+- [x] Beaver Island Band treaty-record precision; Supremacy Clause case line; "Pushing Precedent"; AI case-law refresh; WIPO GRATK; TAKE IT DOWN/NO FAKES; machine-readable notice metadata — all preserved in the v3.0.0 build
+
 ## Version 2.2.0 — Completed (August 31, 2026)
 
 ### Research (4 parallel tracks — corpus in `research/`)

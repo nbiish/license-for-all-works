@@ -127,7 +127,7 @@ Key section cross-references within working-LICENSE (verify after structural edi
 
 | Document | Version | Last Updated | Notes |
 |----------|---------|--------------|-------|
-| working-LICENSE | 2.2.0 | 2026-08-31 | Active development |
+| working-LICENSE | 3.0.0 | 2026-08-31 | Active development — structural cleanup (Part I/II framing; EOF strays re-homed; INDEX regenerated) |
 | LICENSE | 2.2.0 | 2026-08-31 | Production — promoted from working-LICENSE (backup: working-LICENSE.08312026.backup) |
 | CONTRIBUTING.md | 2.0.0 | 2026-01-13 | Clean — no stale data |
 | Terms-of-Service.md | 2.0 | 2026-01-13 | Clean — no stale data |

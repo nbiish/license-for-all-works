@@ -3,7 +3,7 @@
 ## Project Overview
 
 - **Name:** Comprehensive Restricted Use License for Indigenous Creations with Tribal Sovereignty, Data Sovereignty, and Wealth Reclamation Protections
-- **Version:** 2.2.0
+- **Version:** 3.0.0
 - **Description:** A continually iterating legal codebase that establishes enforceable protections for Indigenous intellectual property, Traditional Knowledge (TK), Traditional Cultural Expressions (TCEs), and associated data under tribal sovereignty, federal Indian law, treaty rights, and international Indigenous rights frameworks.
 - **Purpose:** Protect Indigenous IP through legally hardened license terms; establish precedent for treaty-rights-based IP enforcement; prohibit unauthorized AI training; implement Indigenous Data Sovereignty (CARE Principles); ensure equitable benefit-sharing and wealth reclamation for Indigenous communities.
 - **Format:** Document-based legal framework (Markdown). Not a software application — this is a legal instrument versioned and iterated like code.
@@ -23,18 +23,14 @@
 | International | UNDRIP (Arts. 11, 31); WIPO GRATK Treaty (May 2024); Nagoya Protocol; ILO Convention 169 |
 | EU Framework | EU AI Act (Reg. 2024/1689); DSM Directive (2019/790); GDPR |
 
-## Short-term Goals (Current Iteration — v2.2.0, August 2026)
+## Short-term Goals (Current Iteration — v3.0.0, August 2026)
 
 > Tracked in `llms.txt/TODO.md`
 
-1. Precision of Beaver Island Band treaty record (beneficiary naming, Kainwaybekis/Kain-waw-be-kiss-se, 1855 successor framing) — DONE
-2. Supremacy Clause case line (Foster/Head Money/Whitney/Holland) + Medellín self-execution distinction — DONE
-3. "Pushing Precedent" section: treaty-reservation doctrine applied to intangible TK/TCE (untested frontier, candidly framed) — DONE
-4. AI case-law status refresh to Aug 2026 (Bartz final approval, Thomson Reuters argued, Kadrey cert denied, Cox v. Sony, TRAIN Act status) — DONE
-5. WIPO GRATK deposit status (3 deposited; Peru ratified Jul 2026, deposit pending) — DONE
-6. TAKE IT DOWN Act + NO FAKES Act in §7.9; EU AI Act timeline (Digital Omnibus deferrals) in §7.8 — DONE
-7. Machine-readable notice metadata (§3A.2) + works-type matrix (§3A.1: art, 3D, software, social media) — DONE
-8. Research corpus preserved in `research/` (precedent brief; instruments & mechanisms report)
+1. Structural cleanup/restructure of the license (dual section-numbering framed as Part I/Part II; EOF strays re-homed into logical body sections; stale INDEX regenerated) — DONE
+2. § 3.4 → § 3.1 renumber; § 1 definition-letter de-gap (j/l) with consistent cross-reference remap — DONE
+3. Reference-integrity verification: transform added zero new unresolved/ambiguous section references, fixed one genuine collision — DONE
+4. v2.2.0 backlog carried forward: Beaver Island Band treaty record precision (DONE), Supremacy Clause case line (DONE), "Pushing Precedent" (DONE), AI case-law refresh (DONE), WIPO GRATK status (DONE), TAKE IT DOWN/NO FAKES (DONE), machine-readable notice metadata (DONE), research corpus (PRESERVED)
 
 ## Long-term Goals
 

@@ -60,7 +60,7 @@ Changes flow: `working-LICENSE` → `LICENSE` → dependent documents (per `crit
 
 ## Current Version
 
-**v2.1.0** (February 6, 2026) — Nuanced AI case law update, WIPO ratification correction, treaty rights inherent sovereignty framing, DOJ consultation language correction, Anishinaabemowin orthography standardization.
+**v3.0.0** (August 31, 2026) — Structural cleanup: dual section-numbering framed as PART I (Supplementary Operational Provisions) / PART II (License Terms) with a READER'S NOTE; EOF strays re-homed into logical body sections (forum→§11.10, sovereign immunity→§11.11, jurisdictional-challenge→§11.12, notices→§16/§18, 7A data-repatriation→§12.8); § 3.4→§ 3.1 renumber; § 1 definition-letter de-gap (j/l); INDEX OF SECTIONS regenerated from actual headings; version footer bumped.
 
 ## Contact
 

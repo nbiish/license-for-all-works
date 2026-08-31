@@ -6,6 +6,31 @@ Format: [Semantic Versioning](https://semver.org/) — `MAJOR.MINOR.PATCH`
 
 ---
 
+## [3.0.0] — 2026-08-31
+
+### Changed
+- **Structural cleanup — dual section-numbering resolved.** The two numbering tracks (front-matter detailed `7.x`/`8.x`/`9.x`/`10.x`/`11.x`/`12.x`/`13.x` operational protections, and the canonical body Articles 1–20) are now explicitly framed as **PART I (Supplementary Operational Provisions)** and **PART II (License Terms)**, with a **READER'S NOTE** at the front disambiguating them. Cross-track references are unambiguous by content; no section was renumbered where that would corrupt a cross-reference (the Indian canons resolve residual ambiguity in favor of tribal sovereignty).
+- **EOF stray content re-homed into the body** (all legal text preserved, only relocated and re-labeled — no deletions):
+  - Forum-exhaustion / choice-of-forum / cross-jurisdictional enforcement block → new **§ 11.10**.
+  - Sovereign-immunity clause (was a stray `11.4.`) → new **§ 11.11** (the stray no longer collides with body § 11.4 *Jurisdictional Principles*).
+  - Jurisdictional-challenge/exhaustion fragment (was a stray `11.9`) → new **§ 11.12**.
+  - Update-notification paragraph → folded into **§ 16** (Notification and Communication).
+  - USCO-registration + CC-BY-NC-SA paragraphs → folded into **§ 18** (Support for Complementary Protections).
+  - `7A. COMPREHENSIVE DATA REPATRIATION PROTOCOL` → new **§ 12.8** (breach-remediation/enforcement context).
+  - The version/IMPORTANT-NOTICE footer is now the final block; no stray body content follows it.
+- **§ 3.4 → § 3.1**: *Defensive Publication and Prior Art* renumbered to the only § 3 subsection (no § 3.1–§ 3.3 existed; no cross-references to § 3.4 existed).
+- **§ 1 definition letters de-gapped**: the lettered definitions (`a`–`t`) had gaps at `j` and `l`; renumbered to a contiguous `a`–`p` and remapped every `Section 1(x)` reference consistently (`1(o)`→`1(m)`, `1(q)`→`1(o)`, `1(r)`→`1(p)`). Intended definitions and all cross-references preserved.
+- **INDEX OF SECTIONS regenerated from the actual section headings.** The prior index was stale/false (it listed § 12 as "Audit Rights" and § 11.4 as "Traditional Dispute Resolution," neither of which matches the body). The regenerated index lists every article and sub-section as it really appears, with correct nested indentation.
+
+### Fixed
+- Removed the false/stale INDEX entries that mislabeled § 12, § 11.4, § 11.1, and § 11.3 (the body's real § 11.x subsections are numbered and labeled differently).
+- Resolved the ambiguous-cross-reference set: the transform was verified to introduce **zero** new unresolved/ambiguous section references and to **fix** one genuine collision (stray `11.4 SOVEREIGN IMMUNITY` vs body `11.4 Jurisdictional Principles`).
+
+### Preserved
+- All legal text, remedies, damages, treaty/precedent citations are byte-preserved; the only text changes are relocated positions, re-labeled headings, de-gapped definition letters, and the regenerated navigation INDEX.
+
+---
+
 ## [2.2.0] — 2026-08-31
 
 ### Changed
