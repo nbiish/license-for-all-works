@@ -73,6 +73,14 @@ This document describes the relationships between all files in the repository, t
          │  DOCUMENT-MAP.md — This file        │
          │  DECISIONS.md — Decision log        │
          └─────────────────────────────────────┘
+
+         ┌─────────────────────────────────────┐
+         │          research/                  │
+         │  precedent-brief-treaty-ip-         │
+         │    supreme-law.md (v2.2.0 basis)    │
+         │  INSTRUMENTS_AND_MECHANISMS_        │
+         │    REPORT.md (TK/IP + opt-outs)     │
+         └─────────────────────────────────────┘
 ```
 
 ## Update Propagation Chain
@@ -119,8 +127,8 @@ Key section cross-references within working-LICENSE (verify after structural edi
 
 | Document | Version | Last Updated | Notes |
 |----------|---------|--------------|-------|
-| working-LICENSE | 2.1.0 | 2026-02-06 | Active development |
-| LICENSE | 2.1.0 | 2026-02-06 | Production — promoted from working-LICENSE |
+| working-LICENSE | 2.2.0 | 2026-08-31 | Active development |
+| LICENSE | 2.1.0 | 2026-02-06 | Production — promotion of 2.2.0 pending Rights Holder review |
 | CONTRIBUTING.md | 2.0.0 | 2026-01-13 | Clean — no stale data |
 | Terms-of-Service.md | 2.0 | 2026-01-13 | Clean — no stale data |
 | Privacy-Policy.md | 2.0 | 2026-01-13 | Clean — no stale data |

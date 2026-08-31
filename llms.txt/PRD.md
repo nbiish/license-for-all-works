@@ -3,7 +3,7 @@
 ## Project Overview
 
 - **Name:** Comprehensive Restricted Use License for Indigenous Creations with Tribal Sovereignty, Data Sovereignty, and Wealth Reclamation Protections
-- **Version:** 2.1.0
+- **Version:** 2.2.0
 - **Description:** A continually iterating legal codebase that establishes enforceable protections for Indigenous intellectual property, Traditional Knowledge (TK), Traditional Cultural Expressions (TCEs), and associated data under tribal sovereignty, federal Indian law, treaty rights, and international Indigenous rights frameworks.
 - **Purpose:** Protect Indigenous IP through legally hardened license terms; establish precedent for treaty-rights-based IP enforcement; prohibit unauthorized AI training; implement Indigenous Data Sovereignty (CARE Principles); ensure equitable benefit-sharing and wealth reclamation for Indigenous communities.
 - **Format:** Document-based legal framework (Markdown). Not a software application — this is a legal instrument versioned and iterated like code.
@@ -23,19 +23,18 @@
 | International | UNDRIP (Arts. 11, 31); WIPO GRATK Treaty (May 2024); Nagoya Protocol; ILO Convention 169 |
 | EU Framework | EU AI Act (Reg. 2024/1689); DSM Directive (2019/790); GDPR |
 
-## Short-term Goals (Current Iteration — v2.1.0)
+## Short-term Goals (Current Iteration — v2.2.0, August 2026)
 
 > Tracked in `llms.txt/TODO.md`
 
-1. Correct WIPO Treaty ratification count (2 confirmed, not 4)
-2. Nuanced AI case law update (Bartz split holding, Thomson Reuters Third Circuit, Kadrey v. Meta, TRAIN Act)
-3. Correct DOJ/Castro-Huerta language (consultations, not suits)
-4. Strengthen treaty rights framing (pre-constitutional inherent sovereignty)
-5. Refine Beaver Island Band treaty successor framework
-6. Standardize Anishinaabemowin orthography across all documents
-7. Add new case law (Flying T Ranch v. Stillaguamish, Martorello v. Williams)
-8. Build out llms.txt knowledge base structure
-9. Synchronize dependent documents (LICENSE, CONTRIBUTING.md, Terms-of-Service, Privacy-Policy)
+1. Precision of Beaver Island Band treaty record (beneficiary naming, Kainwaybekis/Kain-waw-be-kiss-se, 1855 successor framing) — DONE
+2. Supremacy Clause case line (Foster/Head Money/Whitney/Holland) + Medellín self-execution distinction — DONE
+3. "Pushing Precedent" section: treaty-reservation doctrine applied to intangible TK/TCE (untested frontier, candidly framed) — DONE
+4. AI case-law status refresh to Aug 2026 (Bartz final approval, Thomson Reuters argued, Kadrey cert denied, Cox v. Sony, TRAIN Act status) — DONE
+5. WIPO GRATK deposit status (3 deposited; Peru ratified Jul 2026, deposit pending) — DONE
+6. TAKE IT DOWN Act + NO FAKES Act in §7.9; EU AI Act timeline (Digital Omnibus deferrals) in §7.8 — DONE
+7. Machine-readable notice metadata (§3A.2) + works-type matrix (§3A.1: art, 3D, software, social media) — DONE
+8. Research corpus preserved in `research/` (precedent brief; instruments & mechanisms report)
 
 ## Long-term Goals
 

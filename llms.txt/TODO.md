@@ -2,7 +2,39 @@
 
 > Keep tasks atomic and testable. Organized by priority and category.
 
-## Version 2.1.0 — Current Iteration (February 2026)
+## Version 2.2.0 — Completed (August 31, 2026)
+
+### Research (4 parallel tracks — corpus in `research/`)
+- [x] BIB treaty-record verification (Kappler/OSU, NARA, 1937 Solicitor Op., GTB 2002 findings)
+- [x] AI-copyright litigation status as of Aug 2026 (WIPO, Bartz, Thomson Reuters, Kadrey, TRAIN Act, USCO)
+- [x] Supremacy Clause / federal Indian law precedent brief
+- [x] TK/IP instruments + machine-readable opt-out mechanisms report
+
+### working-LICENSE (v2.2.0)
+- [x] Fix Worcester year (1831→1832); Thomson Reuters court (S.D.N.Y.→D. Del.)
+- [x] 1855 treaty reframing (beneficiary naming + successor doctrine; drop "affirmed" claim)
+- [x] 1836 treaty precision (Art. 3 reservation; Art. 10 Kainwaybekis; 1856 assent signature)
+- [x] Add "SURVIVAL THROUGH THREE CONVERGING DOCTRINES" subsection
+- [x] Add Supremacy Clause case line + Medellín distinction + Winans
+- [x] Add "PUSHING PRECEDENT — THE UNTREATED FRONTIER" section
+- [x] WIPO GRATK: 3 deposited + Peru pending (Aug 2026)
+- [x] Case-law refresh: Bartz final approval 7/20/2026; Thomson Reuters argued 6/11/2026; Kadrey cert denied 7/8/2026; Cox v. Sony 3/25/2026; Sony Music v. Anthropic; NYT discovery date fix
+- [x] USCO § 7.2(a) characterization fix (no burden shift)
+- [x] § 7.8 EU AI Act timeline (GPAI 2025; CoP 2025; Omnibus deferrals 2027-2028)
+- [x] § 7.9 TAKE IT DOWN Act (Pub. L. 119-22) + NO FAKES Act (S. 4591)
+- [x] § 3A.1 works-type matrix (art, 3D, software, social media)
+- [x] § 3A.2 machine-readable notice metadata (TDMRep, robots.txt/ai.txt, TK Labels, SPDX, schema.org)
+- [x] Version notice: 2.2.0 / August 31, 2026
+
+### DOX sync (v2.2.0)
+- [x] PRD.md (version, current iteration)
+- [x] LEGAL-CITATIONS.md (full refresh + research corpus section)
+- [x] CHANGELOG.md ([2.2.0] entry)
+- [x] DECISIONS.md (v2.2.0 decisions)
+- [x] DOCUMENT-MAP.md (versions, research/)
+- [x] Dependent docs verified clean (CONTRIBUTING.md, Terms-of-Service.md, Privacy-Policy.md, README.md)
+
+## Version 2.1.0 — (February 2026) — COMPLETE
 
 ### Completed (v2.1.0)
 
