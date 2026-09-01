@@ -133,8 +133,8 @@ Key section cross-references within working-LICENSE (verify after structural edi
 | Terms-of-Service.md | 3.1.0 | 2026-08-31 | Synced to v3.0.0/verified law (supremacy + *Winans* case line; GRATK name/status; §6.2.6 AI training prohibition; §4.4 duplicate heading removed) |
 | Privacy-Policy.md | 2.0 | 2026-01-13 | Clean — no stale data |
 | Tribal-Consulting-Agreement.md | 1.0 | 2025 | Template |
-| critical.md | 1.0 | 2025 | Sync standards |
-| README.md | current | 2026-02-06 | Stale LICENSE_IMPROVEMENT_PLAN.md link fixed |
+| critical.md | 2.0.0 | 2026-09-01 | Sync standards — academic restructure + cross-repo self-update bootstrap (§ 1.2) + canonical source matrix |
+| README.md | current | 2026-09-01 | critical.md v2.0.0 compliance pass (citation/support/FUNDING/copyright verified; WS-normalized) |
 | Beaver-Island-Band-Founding-Charter.md | 1.0 | 2025 | Independent |
 | LETTER OF INTENT | 1.0 | 2026-02-06 | 25 CFR Part 83 effective date corrected |
 | roadmap/tribal-roadmap.md | 1.0 | 2025-07-15 | Strategic planning |
