@@ -1,9 +1,11 @@
 # Critical Repository Standards
 
-**Version:** 2.0.0
-**Last Updated:** 2026-09-01
-**Jurisdiction:** Tribal — Beaver Island Band lineage; sovereign Grand Traverse Band of Ottawa and Chippewa Indians
-**Steward:** ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi), also known legally as JUSTIN PAUL KENWABIKISE, professionally documented as Nbiish-Justin Paul Kenwabikise, Anishinaabek Dodem (Anishinaabe Clan): Animikii (Thunder), a descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi) of the Beaver Island Band, and an enrolled member of the sovereign Grand Traverse Band of Ottawa and Chippewa Indians
+| Field | Value |
+|-------|-------|
+| **Version** | 2.0.0 |
+| **Last Updated** | 2026-09-01 |
+| **Jurisdiction** | Tribal — Beaver Island Band lineage; sovereign Grand Traverse Band of Ottawa and Chippewa Indians |
+| **Steward** | ᓂᐲᔥ ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Nbiish Waabanimikii-Kinawaabakizi), also known legally as JUSTIN PAUL KENWABIKISE, professionally documented as Nbiish-Justin Paul Kenwabikise, Anishinaabek Dodem (Anishinaabe Clan): Animikii (Thunder), a descendant of Chief ᑭᓇᐙᐸᑭᓯ (Kinwaabakizi) of the Beaver Island Band, and an enrolled member of the sovereign Grand Traverse Band of Ottawa and Chippewa Indians |
 
 ---
 
