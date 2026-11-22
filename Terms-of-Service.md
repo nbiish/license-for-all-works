@@ -1,8 +1,8 @@
 # Terms of Service
 
 **Last Updated:** August 31, 2026  
-**Effective Date:** August 31, 2026  
-**Version:** 3.1.0
+**Effective Date:** November 22, 2026  
+**Version:** 3.2.0
 
 ---
 
@@ -408,7 +408,7 @@ You may NOT:
 #### 6.2.6 AI Training and Model Development
 
 - Use any Services, Content, or User Content to train, develop, improve, or enhance any artificial intelligence system, machine learning model, neural network, or large language model without the **Prior Informed Consent (PIC)** of the Rights Holder (LICENSE Section 7.1)
-- Create deepfakes, synthetic media, or manipulated content using the Work or the likeness of the Rights Holder, without authorization — additionally actionable under the TAKE IT DOWN Act (Pub. L. No. 119-22) and the NO FAKES Act (S. 4591)
+- Create deepfakes, synthetic media, or manipulated content using the Work or the likeness of the Rights Holder, without authorization — additionally actionable under the TAKE IT DOWN Act (Pub. L. No. 119-12, 139 Stat. 55) and the NO FAKES Act (S. 4591, pending)
 
 ### 6.3 Enforcement
 
@@ -587,7 +587,7 @@ Rights Holder recognizes that Traditional Knowledge (TK) is:
 2. **Intergenerational** knowledge passed down through generations
 3. **Living knowledge** that continues to evolve and develop
 4. **Sacred** in many instances, requiring special protection
-5. **Protected** under international law including UNDRIP Article 31, the WIPO GRATK Treaty (adopted May 24, 2024; not yet in force — three instruments deposited: Malawi, Uganda, Albania; Peru ratified July 8, 2026, deposit pending; 15 deposits required), and the Nagoya Protocol
+5. **Protected** under international law including UNDRIP Article 31, the WIPO GRATK Treaty (adopted May 24, 2024; not yet in force — four instruments deposited: Malawi, Uganda, Albania, and Peru (deposited July 8, 2026); 15 deposits required), and the Nagoya Protocol
 
 These protections are grounded in the treaty-reserved rights of the Grand Traverse Band and its treaty beneficiaries — including the **Beaver Island Band** (named beneficiary under Art. 1, third of the 1855 Treaty of Detroit, "For the Beaver Island Band—High Island, and Garden Island") — exercised through inherent sovereignty and the reserved-rights doctrine (*United States v. Winans*, 198 U.S. 371 (1905)).
 
@@ -1756,8 +1756,8 @@ Email: legal@in-digi-nous.com
 
 **END OF TERMS OF SERVICE**
 
-**Document Version:** 3.1.0  
-**Effective Date:** August 31, 2026  
+**Document Version:** 3.2.0  
+**Effective Date:** November 22, 2026  
 **Last Updated:** August 31, 2026
 
 **Copyright © 2026 ᓂᐲᔥ Nbiish-Justin Kenwabikise ᑭᓇᐙᐱᑭᓯ. All rights reserved.**

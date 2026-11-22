@@ -68,7 +68,7 @@ This Agreement implements protections consistent with international Indigenous r
 - Article 3: Mandatory disclosure requirements for patent applications using TK
 - Article 5: Remedies for non-disclosure (patent invalidation, enforcement prevention)
 - Article 7: Cross-border cooperation provisions
-- **Gate status:** three instruments deposited (Malawi, Uganda, Albania); Peru ratified July 8, 2026 (deposit pending); **15 deposits required to enter into force** — the Treaty is not yet operative, so its disclosure/enforcement provisions are asserted here as an emerging international norm rather than a binding instrument.
+- **Gate status:** four instruments deposited (Malawi, December 5, 2024; Uganda, July 9, 2025; Albania accession, March 13, 2026; Peru, deposited July 8, 2026); **15 deposits required to enter into force** — the Treaty is not yet operative, so its disclosure/enforcement provisions are asserted here as an emerging international norm rather than a binding instrument.
 
 **c) ILO Convention 169 - Indigenous and Tribal Peoples Convention:**
 - Article 2: Coordinated government action to protect Indigenous rights
@@ -402,7 +402,7 @@ Your Contribution and any use thereof are subject to all technology restrictions
 
 **b) Nine-Theory Legal Framework:** You acknowledge that the AI training prohibition is supported by NINE independent and cumulative legal theories, each providing a distinct basis for liability:
 
-1. **Copyright Infringement** (17 U.S.C. § 101 et seq.) - Based on *Thomson Reuters v. Ross Intelligence* (D. Del.) precedent, now on appeal (3d Cir. No. 25-2153, argued June 11, 2026)
+1. **Copyright Infringement** (17 U.S.C. § 101 et seq.) - Based on *Thomson Reuters v. Ross Intelligence* (D. Del.) precedent, affirmed on appeal (3d Cir. No. 25-2153, decided September 29, 2026, precedential; limited to non-generative tools)
 2. **Computer Fraud and Abuse Act** (18 U.S.C. § 1030) - Unauthorized access violations
 3. **Breach of Contract** (Extra elements doctrine) - Contractual prohibitions with non-copyright elements
 4. **Trade Secret Misappropriation** (18 U.S.C. § 1836 - DTSA) - For non-public aspects
@@ -434,7 +434,7 @@ Your Contribution and any use thereof are subject to all technology restrictions
 
 **e) Your Obligation:** You shall not facilitate, enable, or permit AI training on your Contribution or the Work.
 
-**f) Current AI-Copyright Litigation Status (as of August 2026):** This prohibition is asserted while the copyright-AI liability landscape remains unsettled. Current postures: the Eleventh Circuit granted **final approval** of the *Bartz* settlement (July 20, 2026); *Thomson Reuters v. Ross Intelligence* was **argued** before the Third Circuit (June 11, 2026, No. 25-2153); *Kadrey v. Meta* **certiorari denied** (July 8, 2026); *Cox v. Sony* (Mar. 25, 2026) is proceeding; and *Sony Music v. Anthropic* was filed (August 2026). The TRAIN Act (S. 2455, introduced July 2025) has seen no further action. None of these resolves the distinct tribal-IP and TK questions addressed by this Agreement, which rest on independent contractual, treaty-based, and statutory authority.
+**f) Current AI-Copyright Litigation Status (as of November 2026):** This prohibition is asserted while the copyright-AI liability landscape remains unsettled. Current postures: the district court granted **final approval** of the *Bartz* settlement (July 20, 2026; appeals of the fee order filed August 2026, class payments unaffected); *Thomson Reuters v. Ross Intelligence* was **decided** by the Third Circuit (September 29, 2026, No. 25-2153, precedential — AI training on the copyrighted material was not fair use on those facts, expressly limited to non-generative tools); *Kadrey v. Meta* **interlocutory review denied** (July 8, 2026; § 1292(b) certification declined, no certiorari petition absent final judgment; litigation continues); *Cox v. Sony* (Mar. 25, 2026) narrowed secondary liability; and *Sony Music v. Anthropic* litigation continues (new publisher suit filed August 2026). The TRAIN Act (S. 2455, introduced July 2025) has seen no further action. None of these resolves the distinct tribal-IP and TK questions addressed by this Agreement, which rest on independent contractual, treaty-based, and statutory authority.
 
 ### 6.2 Emerging Technology Restrictions
 
@@ -454,7 +454,7 @@ Your Contribution is subject to LICENSE Section 7 restrictions on:
 
 **g) Surveillance Technologies:** Prohibition on military, law enforcement, or government surveillance applications without explicit PIC.
 
-**h) Deepfakes and Synthetic Media:** Prohibition on creating deepfakes, synthetic media, or manipulated content using the Work or likeness of the Rights Holder. Synthetic-media misuse is additionally actionable under the **TAKE IT DOWN Act** (Pub. L. No. 119-22) and the **NO FAKES Act** (S. 4591) as enacted or on offer.
+**h) Deepfakes and Synthetic Media:** Prohibition on creating deepfakes, synthetic media, or manipulated content using the Work or likeness of the Rights Holder. Synthetic-media misuse is additionally actionable under the **TAKE IT DOWN Act** (Pub. L. No. 119-12, 139 Stat. 55) and the **NO FAKES Act** (S. 4591, pending) upon enactment.
 
 ### 6.3 Data Sovereignty and Security Requirements
 
