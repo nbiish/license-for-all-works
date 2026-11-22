@@ -2,6 +2,15 @@
 
 > Keep tasks atomic and testable. Organized by priority and category.
 
+## OFSL/OCA 1.0.0 — Completed (November 22, 2026)
+
+- [x] `LICENSE-OPEN-FAIR-SHARE.md` — Tier 1 community grant (≤ $50K/yr) + Tier 2 fair-share crossover (Exhibit A form) + retained rights + § 12.7 enforcement incorporation + precedent declaration
+- [x] `CONTRIBUTING-OPEN.md` — inbound=outbound contribution license + DCO sign-off + cultural guardrails
+- [x] README Community Licensing section
+- [x] Cross-ref check: incorporated Master License sections (10.3, 10.3A, 11, 12.7, 13.1, 7) verified present at HEAD
+- [ ] Set final Exhibit A contribution rate (default 10% — operator call)
+- [ ] Deploy on target projects (nbiish.me, ggufy.com, in-digi-nous.com, learnsyllabics, betterbrowsermcp, goal-first-trillion)
+
 ## Version 3.2.0 — Completed (November 22, 2026)
 
 ### Sectioned lanes + verification

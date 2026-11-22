@@ -6,6 +6,19 @@ Format: [Semantic Versioning](https://semver.org/) — `MAJOR.MINOR.PATCH`
 
 ---
 
+## [OFSL 1.0.0 / OCA 1.0.0] — 2026-11-22
+
+### Added
+- **`LICENSE-OPEN-FAIR-SHARE.md` (Open Fair-Share License, `LicenseRef-OFSL-1.0`)** — deployable open-source-manner use license: royalty-free community grant (use/modify/distribute/commercialize) while Annual Commercial Revenue from products utilizing the Works is at or below **USD $50,000/calendar year** (per licensee group); above the threshold, a Fair-Share Contribution Agreement (Exhibit A form; default 10% of above-threshold revenue) directs contributions to the ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Waabanimikii-Kinawaabakizi) Legacy Trust and Beaver Island Band programs. Retained rights (treaty 1836/1855, federal Indian law, UNDRIP/WIPO GRATK, no AI training without PIC, cultural protections) preserved; enforcement incorporated from Master License §§ 11–13 incl. § 12.7 automatic-trigger machinery; sovereignty/precedent declaration included.
+- **`CONTRIBUTING-OPEN.md` (Open Contribution Agreement, `LicenseRef-OCA-1.0`)** — inbound=outbound contribution license with DCO-style sign-off, cultural-heritage guardrails, and express preservation of the benefit-sharing architecture.
+- README "Community Licensing" section pointing to both instruments.
+
+### Notes
+- The OFSL is "open-source-manner", not certified OSI open source (revenue condition) — stated honestly in the instrument.
+- Exhibit A's 10% default contribution rate is a draft position for the Rights Holder to set.
+
+---
+
 ## [3.2.0] — 2026-11-22
 
 ### Added

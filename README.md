@@ -8,6 +8,13 @@ This repository contains legal documents developed by ᓂᐲᔥ ᐙᐸᓂᒥᑮ-
 
 This repository serves as the official and permanent location for the Comprehensive Restricted Use License that can be directly referenced and linked to from any document or codebase using: https://github.com/nbiish/license-for-all-works/blob/main/LICENSE
 
+## ◈──◆──◇ COMMUNITY LICENSING ◇──◆──◈
+
+Open-source-manner licensing for community use is available in addition to the Master License:
+
+- **[Open Fair-Share License (OFSL)](LICENSE-OPEN-FAIR-SHARE.md)** — use, modify, distribute, and commercialize freely while your products that utilize the Works make at or below **$50,000/year**; above that threshold, execute the Fair-Share Contribution Agreement (Exhibit A) to contribute to the Waabanimikii-Kinawaabakizi Legacy Trust and Beaver Island Band community programs. All treaty, tribal, federal, and intellectual-property rights are preserved; AI training remains prohibited without Prior Informed Consent.
+- **[Open Contribution Agreement (OCA)](CONTRIBUTING-OPEN.md)** — contribute to projects in an open-source manner (DCO sign-off, no CLA paperwork), with cultural-heritage guardrails and the benefit-sharing architecture preserved.
+
 <div align="center">
   <hr width="50%">
   <h3>Support This Project</h3>

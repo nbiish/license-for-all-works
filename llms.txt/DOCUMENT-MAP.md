@@ -134,7 +134,9 @@ Key section cross-references within working-LICENSE (verify after structural edi
 | Privacy-Policy.md | 2.0 | 2026-01-13 | Clean — no stale data |
 | Tribal-Consulting-Agreement.md | 1.0 | 2025 | Template |
 | critical.md | 2.0.0 | 2026-09-01 | Sync standards — academic restructure + cross-repo self-update bootstrap (§ 1.2) + canonical source matrix |
-| README.md | current | 2026-09-01 | critical.md v2.0.0 compliance pass (citation/support/FUNDING/copyright verified; WS-normalized) |
+| README.md | current | 2026-11-22 | Community Licensing section added (OFSL/OCA pointers); critical.md v2.0.0 compliance |
+| LICENSE-OPEN-FAIR-SHARE.md | 1.0.0 | 2026-11-22 | OFSL — deployable open-source-manner use license ($50K/yr community tier + fair-share crossover to the Legacy Trust) |
+| CONTRIBUTING-OPEN.md | 1.0.0 | 2026-11-22 | OCA — inbound=outbound contribution license (DCO sign-off, cultural guardrails) |
 | Beaver-Island-Band-Founding-Charter.md | 1.0 | 2025 | Independent |
 | LETTER OF INTENT | 1.0 | 2026-02-06 | 25 CFR Part 83 effective date corrected |
 | roadmap/tribal-roadmap.md | 1.0 | 2025-07-15 | Strategic planning |
