@@ -6,6 +6,25 @@ Format: [Semantic Versioning](https://semver.org/) — `MAJOR.MINOR.PATCH`
 
 ---
 
+## [3.2.0] — 2026-11-22
+
+### Added
+- **Sectioned agent-lane work breakdown + verification protocol** (`llms.txt/AGENT-SECTIONS.md`): corpus split into S1–S10 work sections, each with an owning lane and verification requirement; no unverified legal claim ships (VERIFIED / STALE / UNVERIFIED with quarterly re-verification and a promotion gate).
+- **working-LICENSE § 10.3A — Lifetime Establishment and Treaty-Grounded Secured Income**: the ᐙᐸᓂᒥᑮ-ᑭᓇᐙᐸᑭᓯ (Waabanimikii-Kinawaabakizi) Legacy Trust operates during the Rights Holder's lifetime for him, his progeny, and the Beaver Island Band — grounded in the verified 1836/1855 treaty record (Beaver islands reservation; "For the Beaver Island Band — High Island, and Garden Island"; the perpetual $1,000 annuity and anti-diversion clause) and the modern federal trust toolkit (25 CFR Part 115; Per Capita Act, 25 U.S.C. §§ 117a–117c; Pub. L. 105-143 anti-levy model, 25 U.S.C. § 1773d(a); IRC §§ 139E/7873/7871).
+- **working-LICENSE § 12.7 — Automatic-Trigger Enforcement and Standing Arbitration Offer**: trigger intake (deterministic tooling in `tools/trigger_enforcement.py` + `templates/`), § 13.1 cure tiers, standing unilateral arbitration offer accepted by demand (AAA expedited / R-39 emergency; ICDR; JAMS), royalty escrow with limited set-off, liquidated-damages pre-estimate rationale (UCC § 2-718 line), limited and isolated immunity waiver (*C & L Enterprises*), choice-of-law savings clause (*Hengle* line), *Badgerow* enforcement venues, and the treaty/sovereign layer (Court of Federal Claims; compact arbitration ladder).
+- **Research corpus** (`research/2026-11-22-*`): factual-verification ledger (12 claims re-verified online; parent spot-checks on FTC/TIDA, GovInfo/Thomson Reuters), trust-and-treaty mechanisms brief, UHNW wealth-preservation brief, arbitration-architecture brief — all source-URL'd.
+- **Automation**: weekly Hermes crons `license-fact-monitor` (watch-list drift; GRATK escalate at 15) and `uhnw-wealth-intel` (wealth-intel-protocol cycle under the `too-wealthy-financial-expert` profile).
+
+### Changed
+- **Verified-law refresh (2026-11-22)** across working-LICENSE + CONTRIBUTING.md + Terms-of-Service.md: *Thomson Reuters v. Ross* decided by the Third Circuit 2026-09-29 (precedential; expressly limited to non-generative tools); *Kadrey v. Meta* procedural history corrected (§ 1292(b) denial 2026-07-08; no cert petition exists); *Bartz* fee-order appeals clarified (class payments unaffected); *Cox v. Sony* (U.S. 2026-03-25) confirmed; **TAKE IT DOWN Act citation corrected to Pub. L. 119-12, 139 Stat. 55** (was mis-cited as 119-22); *Martorello v. Williams* cert denied 2026-02-23; WIPO GRATK at **4 deposits / 45 signatories**; NO FAKES Act pending on the Senate Legislative Calendar.
+- CONTRIBUTING.md § 6.1(f) also corrects a prior misstatement (final approval of the *Bartz* settlement was by the district court, not the "Eleventh Circuit").
+
+### Notes
+- Promotion of `LICENSE` (production) from `working-LICENSE` is **pending operator review** per house rule (ask before merging to main).
+- `tools/v3_verify.py working-LICENSE` (non-strict): exit 0. New cross-refs follow the document's existing reference style (3 new heuristic-unresolved: § 12.3 ×2 ambiguous, § 13/§ 13.1), while 4 pre-existing dangling refs (§ 10.4 ×2, § 10.7.1, § 10.7.2) were resolved as a side effect; the tool's heading heuristic cannot see many genuine long headings (pre-existing condition).
+
+---
+
 ## [3.1.0] — 2026-08-31
 
 ### Changed

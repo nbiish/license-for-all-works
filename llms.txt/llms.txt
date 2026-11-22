@@ -26,10 +26,13 @@ This is **not** a traditional software project. It is a living legal framework �
 - **LETTER OF INTENT TO PETITION FOR FEDERAL ACKNOWLEDGMENT.md** — Federal acknowledgment petition
 - **critical.md** — Mandatory repository standards and synchronization instructions
 - **roadmap/tribal-roadmap.md** — Strategic roadmap for Beaver Island Band
+- **research/** — Dated verification reports and precedent briefs (the fact-verification ledger)
+- **tools/, templates/, tests/** — Deterministic enforcement tooling (trigger intake → notice/cure → arbitration demand packets)
 
 ## llms.txt Context Files
 
 - **llms.txt/llms.txt** — This file. Repository index and navigation guide.
+- **llms.txt/AGENT-SECTIONS.md** — Sectioned agent work breakdown (S1–S10 lanes) + online fact-verification protocol. Read before picking up any section.
 - **llms.txt/PRD.md** — Product Requirements Document: goals, versioning, scope
 - **llms.txt/RULES.md** — Naming conventions, legal structure, orthography standards
 - **llms.txt/TODO.md** — Atomic task tracking for current iteration
@@ -60,7 +63,9 @@ Changes flow: `working-LICENSE` → `LICENSE` → dependent documents (per `crit
 
 ## Current Version
 
-**v3.1.0** (August 31, 2026) — Sync of dependent documents to the v3.0.0 license & verified law: CONTRIBUTING.md + Terms-of-Service.md collectively embody the v2.2.0/v3.0.0 work (Worcester corrected to 1832; 1855 reframed as beneficiary/successor; treaty-as-supreme-law case line + *Medellín* distinction; *Winans* reserved-rights; WIPO GRATK gate status; §1.8 "Pushing Precedent"; Aug-2026 AI case status; TAKE IT DOWN/NO FAKES; machine-readable notice metadata). LICENSE content and numbering unchanged.
+**v3.2.0** (November 22, 2026) — Sectioned agent lanes + online fact-verification protocol (`AGENT-SECTIONS.md`); working-LICENSE § 10.3A (lifetime treaty-grounded Legacy Trust securing income for the Rights Holder, his progeny, and the Beaver Island Band) and § 12.7 (automatic-trigger enforcement with standing arbitration offer, deterministic tooling in `tools/`); verified-law refresh (*Thomson Reuters v. Ross* 3d Cir. Sept. 29, 2026; *Kadrey* correction; TAKE IT DOWN Act cite fix (Pub. L. 119-12); *Martorello* cert denied Feb. 23, 2026; WIPO GRATK 4 deposits/45 signatories); weekly automation (`license-fact-monitor`, `uhnw-wealth-intel`). LICENSE promotion from working-LICENSE pending operator review.
+
+Prior: **v3.1.0** (August 31, 2026) — Sync of dependent documents to the v3.0.0 license & verified law: CONTRIBUTING.md + Terms-of-Service.md collectively embody the v2.2.0/v3.0.0 work (Worcester corrected to 1832; 1855 reframed as beneficiary/successor; treaty-as-supreme-law case line + *Medellín* distinction; *Winans* reserved-rights; WIPO GRATK gate status; §1.8 "Pushing Precedent"; Aug-2026 AI case status; TAKE IT DOWN/NO FAKES; machine-readable notice metadata). LICENSE content and numbering unchanged.
 
 ## Contact
 

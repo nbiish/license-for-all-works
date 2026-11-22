@@ -127,10 +127,10 @@ Key section cross-references within working-LICENSE (verify after structural edi
 
 | Document | Version | Last Updated | Notes |
 |----------|---------|--------------|-------|
-| working-LICENSE | 3.0.0 | 2026-08-31 | Active development — structural cleanup (Part I/II framing; EOF strays re-homed; INDEX regenerated) |
-| LICENSE | 3.0.0 | 2026-08-31 | Production — promoted from working-LICENSE (backup: LICENSE.08312026.backup) |
-| CONTRIBUTING.md | 3.1.0 | 2026-08-31 | Synced to v3.0.0/verified law (Worcester 1832; 1855 beneficiary/successor reframe; supremacy case line + *Medellín*; *Winans* reserved-rights; GRATK status; §1.8 Pushing Precedent; AI case refresh; TAKE IT DOWN/NO FAKES; machine-readable notice metadata) |
-| Terms-of-Service.md | 3.1.0 | 2026-08-31 | Synced to v3.0.0/verified law (supremacy + *Winans* case line; GRATK name/status; §6.2.6 AI training prohibition; §4.4 duplicate heading removed) |
+| working-LICENSE | 3.2.0 (dev) | 2026-11-22 | Active development — § 10.3A lifetime treaty trust + § 12.7 auto-trigger enforcement + verified-law refresh (LICENSE promotion pending operator review) |
+| LICENSE | 3.0.0 | 2026-08-31 | Production — promoted from working-LICENSE (backup: LICENSE.08312026.backup); 3.2.0 promotion pending operator review |
+| CONTRIBUTING.md | 3.2.0 | 2026-11-22 | Fact-sync to v3.2.0 verified law (Thomson Reuters 3d Cir. 2026-09-29; Kadrey correction; Bartz fee-order appeals; TAKE IT DOWN cite (Pub. L. 119-12); GRATK 4 deposits; § 6.1(f) "Eleventh Circuit" error corrected) |
+| Terms-of-Service.md | 3.2.0 | 2026-11-22 | Fact-sync (TAKE IT DOWN cite (Pub. L. 119-12); GRATK 4 deposits; version header/footer bumped to 3.2.0) |
 | Privacy-Policy.md | 2.0 | 2026-01-13 | Clean — no stale data |
 | Tribal-Consulting-Agreement.md | 1.0 | 2025 | Template |
 | critical.md | 2.0.0 | 2026-09-01 | Sync standards — academic restructure + cross-repo self-update bootstrap (§ 1.2) + canonical source matrix |
@@ -138,3 +138,9 @@ Key section cross-references within working-LICENSE (verify after structural edi
 | Beaver-Island-Band-Founding-Charter.md | 1.0 | 2025 | Independent |
 | LETTER OF INTENT | 1.0 | 2026-02-06 | 25 CFR Part 83 effective date corrected |
 | roadmap/tribal-roadmap.md | 1.0 | 2025-07-15 | Strategic planning |
+| llms.txt/AGENT-SECTIONS.md | 1.0 | 2026-11-22 | Sectioned agent lanes (S1–S10) + online fact-verification protocol |
+| research/2026-11-22-factual-verification.md | — | 2026-11-22 | Verification ledger (12 claims) + watch-list |
+| research/2026-11-22-trust-mechanisms.md | — | 2026-11-22 | Treaty/federal trust mechanisms (Lane B) |
+| research/2026-11-22-uhnw-wealth-brief.md | — | 2026-11-22 | UHNW wealth preservation brief (Lane C) |
+| research/2026-11-22-arbitration-architecture.md | — | 2026-11-22 | Arbitration/auto-trigger architecture (Lane D) |
+| tools/trigger_enforcement.py + templates/ + tests/ | 1.0 | 2026-11-22 | Trigger intake → notice/cure → demand packets (deterministic; golden-tested) |
