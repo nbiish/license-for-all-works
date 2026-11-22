@@ -3,7 +3,7 @@
 ## Project Overview
 
 - **Name:** Comprehensive Restricted Use License for Indigenous Creations with Tribal Sovereignty, Data Sovereignty, and Wealth Reclamation Protections
-- **Version:** 3.1.0
+- **Version:** 3.2.0
 - **Description:** A continually iterating legal codebase that establishes enforceable protections for Indigenous intellectual property, Traditional Knowledge (TK), Traditional Cultural Expressions (TCEs), and associated data under tribal sovereignty, federal Indian law, treaty rights, and international Indigenous rights frameworks.
 - **Purpose:** Protect Indigenous IP through legally hardened license terms; establish precedent for treaty-rights-based IP enforcement; prohibit unauthorized AI training; implement Indigenous Data Sovereignty (CARE Principles); ensure equitable benefit-sharing and wealth reclamation for Indigenous communities.
 - **Format:** Document-based legal framework (Markdown). Not a software application — this is a legal instrument versioned and iterated like code.
@@ -23,7 +23,7 @@
 | International | UNDRIP (Arts. 11, 31); WIPO GRATK Treaty (May 2024); Nagoya Protocol; ILO Convention 169 |
 | EU Framework | EU AI Act (Reg. 2024/1689); DSM Directive (2019/790); GDPR |
 
-## Short-term Goals (Current Iteration — v3.1.0, August 2026)
+## Short-term Goals (Current Iteration — v3.2.0, November 2026)
 
 > Tracked in `llms.txt/TODO.md`
 

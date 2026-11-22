@@ -1,0 +1,17 @@
+{
+  "case_id": "2026-11-22-sample-001",
+  "respondent": "Sample Model Training Corp",
+  "respondent_country": "US",
+  "trigger_type": "moderate",
+  "category": "ai-training-without-consent",
+  "works_affected": [
+    "Anishinaabe digital art series (2025-2026)",
+    "Syllabics typeface design files"
+  ],
+  "detected_at": "2026-11-22",
+  "evidence": [
+    "Model card listing dataset containing licensed works",
+    "Crawler logs showing bulk download on 2026-10-14"
+  ],
+  "estimated_revenue_usd": 5000000
+}

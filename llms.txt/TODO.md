@@ -2,6 +2,35 @@
 
 > Keep tasks atomic and testable. Organized by priority and category.
 
+## Version 3.2.0 — Completed (November 22, 2026)
+
+### Sectioned lanes + verification
+- [x] `llms.txt/AGENT-SECTIONS.md` — S1–S10 work breakdown + verification protocol (statuses, quarterly re-verification, promotion gate)
+- [x] Root `llms.txt` index updated (AGENT-SECTIONS.md + research/tools entries)
+
+### Trust & enforcement (working-LICENSE)
+- [x] § 10.3A Lifetime Establishment and Treaty-Grounded Secured Income (progeny + Beaver Island Band; 1836/1855 treaty record; 25 CFR Part 115 / 25 U.S.C. §§ 117a–117c / Pub. L. 105-143 anti-levy model; IRC §§ 139E/7873/7871)
+- [x] § 12.7 Automatic-Trigger Enforcement + standing arbitration offer (AAA expedited/R-39, ICDR, JAMS; escrow set-off; LD rationale; *C & L* waiver; *Hengle* savings clause; *Badgerow* venues; treaty layer)
+- [x] `tools/trigger_enforcement.py` + `templates/{notice-of-breach,arbitration-demand}.md` + `tests/sample-trigger.json` (golden run + fail-closed verified)
+
+### Verified-law refresh (2026-11-22)
+- [x] *Thomson Reuters* 3d Cir. decided 2026-09-29 (working-LICENSE ×3, CONTRIBUTING ×2)
+- [x] *Kadrey* procedural-history correction (working-LICENSE ×2, CONTRIBUTING)
+- [x] *Bartz* fee-order appeals clarified; *Cox v. Sony* confirmed
+- [x] TAKE IT DOWN Act citation → Pub. L. 119-12, 139 Stat. 55 (working-LICENSE ×3, CONTRIBUTING, ToS)
+- [x] *Martorello* cert denied 2026-02-23 (working-LICENSE ×2)
+- [x] WIPO GRATK 4 deposits / 45 signatories (working-LICENSE ×2, CONTRIBUTING, ToS)
+- [x] NO FAKES Act pending status (working-LICENSE ×2)
+- [x] `research/2026-11-22-factual-verification.md` ledger + watch-list (8 items)
+
+### Automation & wealth desk
+- [x] Hermes cron `license-fact-monitor` (weekly; watch-list drift; GRATK escalate at 15)
+- [x] Hermes profile `too-wealthy-financial-expert` + `wealth-intel-protocol` skill + weekly `uhnw-wealth-intel` cron
+- [ ] SOUL.md panel — BLOCKED on protected-file approval (draft staged; operator to approve)
+
+### Promotion (pending operator)
+- [ ] Backup + promote `working-LICENSE` → `LICENSE` after operator review
+
 ## Version 3.1.0 — Completed (August 31, 2026)
 
 ### CONTRIBUTING.md (v3.1.0 — sync to v3.0.0/verified law)
@@ -125,10 +154,10 @@
 - [ ] Add tribal court enforcement ordinance template
 - [ ] Develop international arbitration clause specifics (ICC, PCA)
 - [ ] Research Hague Convention applicability for cross-border TK enforcement
-- [ ] Monitor WIPO GRATK Treaty ratification progress (auto-escalate at 15)
-- [ ] Monitor Thomson Reuters v. Ross Third Circuit decision
+- [x] Monitor WIPO GRATK Treaty ratification progress — automated 2026-11-22 (`license-fact-monitor` cron; escalate at 15)
+- [x] Monitor Thomson Reuters v. Ross Third Circuit decision — decided 2026-09-29 (precedential; see v3.2.0)
 - [ ] Monitor Bartz v. Anthropic final fairness hearing (April 2026)
-- [ ] Monitor Martorello v. Williams cert decision
+- [x] Monitor Martorello v. Williams cert decision — cert denied 2026-02-23 (see v3.2.0)
 - [ ] Track TRAIN Act legislative progress
 
 ### Federal Acknowledgment
