@@ -48,8 +48,7 @@ Plan: `.agents/plans/2026-11-22-21-sectioned-lanes-trust-enforcement.md`
   approval gate (prompt timed out; not routed around). Draft staged at
   `/Users/nbiish/.hermes/cache/scratch/too-wealthy-financial-expert-SOUL-draft.md`; install
   + persona probe await explicit operator consent (profile still has default SOUL.md).
-- LICENSE promotion (working-LICENSE → LICENSE + backup) after operator review.
-- Merge to main = operator action (never self-merge).
+- CLOSED: LICENSE promoted (7351493) and **PR #1 merged** (2026-11-22T22:52:55Z, merge eef4ae); main checkout fast-forwarded; v3.0.0 backup at LICENSE.11222026.backup; DOX rewrite stashed (stash@{0}).
 
 ## Findings left for later (`.agents/suggestions/`)
 - `2026-11-22-21-verify-before-use.md` — ICC/UNCITRAL current rule texts; AK/DE/SD trust

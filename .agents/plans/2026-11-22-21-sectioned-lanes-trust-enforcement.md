@@ -133,7 +133,7 @@ hermes cron (monitor)        = recurring fact re-verification + trigger inbox sc
 - [~] Hermes profile too-wealthy-financial-expert — profile + skill + cron DONE; SOUL.md BLOCKED at protected-file approval (draft staged); probe pending
 - [x] DOX sync: CHANGELOG/DECISIONS/TODO/DOCUMENT-MAP/PRD → 3.2.0
 - [x] v3_verify.py run on working-LICENSE (result recorded)
-- [ ] critical.md compliance report; branch pushed; PR opened (operator merges)
+- [x] critical.md compliance report; branch pushed; PR #1 opened and merged (2026-11-22)
 
 ## 6. Test and verification plan
 
