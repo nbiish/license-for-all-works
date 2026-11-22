@@ -41,3 +41,6 @@ Plan: `.agents/plans/2026-11-22-22-open-fair-share-license.md`
   betterbrowsermcp, goal-first-trillion) — separate deployment tasks.
 - OSI positioning: instrument honestly says "open-source-manner"; pursue formal
   classification only if desired.
+
+## Status
+**PR #2 merged** 2026-11-22T23:00:40Z (merge c4bead0); main checkout fast-forwarded; both instruments live at repo root.
