@@ -6,6 +6,14 @@ Format: [Semantic Versioning](https://semver.org/) — `MAJOR.MINOR.PATCH`
 
 ---
 
+## [critical.md 2.1.0 + CI] — 2026-11-22
+
+### Added
+- **critical.md 2.1.0**: OFSL/OCA added to the canonical fetch set (§ 1.3) and source-of-truth hierarchy (§ 1.4); new **§ 7 License Content Sync (CI)** — `license-sync.yml` in every Rights Holder repository integrates canonical license content on PR-merge + weekly, `license-ci.yml` verifies this repository on every PR/merge (xref regression ceiling, enforcement golden test + fail-closed negative, stale-fact guard, OFSL incorporated-section checks, § 2–4 compliance surface); § 6 compliance adds the workflow item.
+- **`.github/workflows/license-ci.yml`** and **`.github/workflows/license-sync.yml`** (canonical template deployed to consuming repos).
+
+---
+
 ## [OFSL 1.0.0 / OCA 1.0.0] — 2026-11-22
 
 ### Added

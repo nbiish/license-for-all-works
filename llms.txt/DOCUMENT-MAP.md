@@ -146,3 +146,6 @@ Key section cross-references within working-LICENSE (verify after structural edi
 | research/2026-11-22-uhnw-wealth-brief.md | — | 2026-11-22 | UHNW wealth preservation brief (Lane C) |
 | research/2026-11-22-arbitration-architecture.md | — | 2026-11-22 | Arbitration/auto-trigger architecture (Lane D) |
 | tools/trigger_enforcement.py + templates/ + tests/ | 1.0 | 2026-11-22 | Trigger intake → notice/cure → demand packets (deterministic; golden-tested) |
+| critical.md | 2.1.0 | 2026-11-22 | Canonical standards + § 7 license-content sync (CI); distributed by copy to all Rights Holder repos |
+| .github/workflows/license-ci.yml | 1.0 | 2026-11-22 | Post-merge verification suite (xref ceiling, golden test, stale-fact guard, compliance surface) |
+| .github/workflows/license-sync.yml | 1.0 | 2026-11-22 | Canonical sync template for consuming repos (PR-merge + weekly integration PRs) |

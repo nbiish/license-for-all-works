@@ -2,6 +2,13 @@
 
 > Keep tasks atomic and testable. Organized by priority and category.
 
+## critical.md 2.1.0 + CI — Completed (November 22, 2026)
+
+- [x] critical.md 2.1.0 — OFSL/OCA in canonical fetch set + hierarchy; § 7 CI sync contract; § 6 item 5
+- [x] `.github/workflows/license-ci.yml` — post-merge verification suite
+- [x] `.github/workflows/license-sync.yml` — canonical template for consuming repos
+- [x] Fan-out deployment of OFSL/OCA/license-sync.yml to target repos (nbiish-dot-me, ggufy-dot-com, in-digi-nous, learnsyllabics-dot-com, betterbrowsermcp, goal-first-trillion [local-only])
+
 ## OFSL/OCA 1.0.0 — Completed (November 22, 2026)
 
 - [x] `LICENSE-OPEN-FAIR-SHARE.md` — Tier 1 community grant (≤ $50K/yr) + Tier 2 fair-share crossover (Exhibit A form) + retained rights + § 12.7 enforcement incorporation + precedent declaration
