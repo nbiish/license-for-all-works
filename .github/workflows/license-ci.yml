@@ -1,0 +1,77 @@
+name: license-ci
+# Runs on every PR and on every merge to main: verifies the license corpus is
+# internally consistent and free of known-stale legal facts (critical.md § 7.1).
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cross-reference integrity (working-LICENSE, regression ceiling)
+        run: |
+          python3 tools/v3_verify.py working-LICENSE > v3-report.txt || true
+          tail -5 v3-report.txt
+          # Regression ceiling as of 2026-11-22 (pre-existing heuristic limits,
+          # documented in CHANGELOG 3.2.0 Notes). Fail if the ceiling is exceeded.
+          python3 - <<'EOF'
+          import re, sys
+          text = open("v3-report.txt", encoding="utf-8").read()
+          m = re.search(r"by type: \{'AMBIGUOUS': (\d+), 'DANGLING \(no heading\)': (\d+)\}", text)
+          if not m:
+              print("could not parse issue summary"); sys.exit(1)
+          ambiguous, dangling = int(m.group(1)), int(m.group(2))
+          print(f"AMBIGUOUS={ambiguous} DANGLING={dangling}")
+          if ambiguous > 60 or dangling > 96:
+              print(f"::error::reference regression: AMBIGUOUS {ambiguous} > 60 or DANGLING {dangling} > 96")
+              sys.exit(1)
+          EOF
+
+      - name: Enforcement tooling golden test (deterministic, fail-closed)
+        run: |
+          python3 tools/trigger_enforcement.py tests/sample-trigger.json --out /tmp/out
+          test -f /tmp/out/2026-11-22-sample-001/NOTICE-OF-BREACH.md
+          test -f /tmp/out/2026-11-22-sample-001/ARBITRATION-DEMAND.md
+          test -f /tmp/out/2026-11-22-sample-001/docket.json
+          echo '{"case_id":"bad id"}' > /tmp/bad.json
+          if python3 tools/trigger_enforcement.py /tmp/bad.json --out /tmp/out-bad; then
+            echo "::error::fail-closed regression: bad trigger was accepted"; exit 1
+          fi
+
+      - name: Stale-fact guard (known-corrected citations must not reappear)
+        run: |
+          if grep -RInE "Pub\. L\. No\. 119-22|certiorari denied.{0,20}July 8, 2026|3 instruments deposited|25 CFR Part 24[^0-9]|Rev\. Rul\. 2005-44" \
+               working-LICENSE CONTRIBUTING.md Terms-of-Service.md; then
+            echo "::error::known-stale legal fact detected (see research/2026-11-22-factual-verification.md)"
+            exit 1
+          fi
+
+      - name: OFSL incorporated-section check
+        run: |
+          grep -q "10.3A LIFETIME ESTABLISHMENT" LICENSE
+          grep -q "12.7 AUTOMATIC-TRIGGER" LICENSE
+          grep -q "Fair-Share Threshold" LICENSE-OPEN-FAIR-SHARE.md
+          grep -q "50,000" LICENSE-OPEN-FAIR-SHARE.md
+          grep -q "Signed-off-by" CONTRIBUTING-OPEN.md
+
+      - name: critical.md compliance surface (§ 2-4)
+        run: |
+          test -f .github/FUNDING.yml
+          grep -q "@misc" README.md
+          grep -q "Support This Project" README.md
+
+      - name: Version coherence notice
+        run: |
+          grep -oE "Version 3\.[0-9]+\.[0-9]+" LICENSE | head -1
+          grep -oE "Version 3\.[0-9]+\.[0-9]+" working-LICENSE | head -1
