@@ -41,3 +41,9 @@ this record.
 - Workflow YAML lint clean (write_file lint); stale-fact patterns verified absent from
   working-LICENSE/CONTRIBUTING/ToS before guard thresholds set; per-repo read-back after
   fan-out (file presence + README pointer).
+
+## Phase 4 outcomes (2026-11-22, operator: 'probe the panel / proceed with the follow up')
+- Panel probe PASSED: "Nine principals sit on the panel, each holding the full degree stack across four fields: finance, law, applied mathematics, and accounting." SOUL.md installed (operator cp). Weekly uhnw-wealth-intel + license-fact-monitor crons live.
+- critical.md § 2–4 compliance deployed fleet-wide (6/6 verified): BibTeX citation, Support block + pinned donation assets, .github/FUNDING.yml, § 5 copyright footer. Previously-untracked READMEs (ggufy, learnsyllabics) and the new nbiish-dot-me README are now tracked with the mandated blocks.
+- ggufy-dot-com develop synced to main (5e5ad4e) and pushed.
+- LESSON (git): after merging PRs, `git fetch` before syncing sibling branches — a stale remote-tracking ref fast-forwarded ggufy's develop to the pre-merge snapshot and hid the deployed files (recovered; GitHub state had been correct all along). Never rely on `origin/main` after `gh pr merge` without a fetch.
